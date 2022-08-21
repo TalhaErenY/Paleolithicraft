@@ -1,1 +1,69 @@
 hash-format = "sha256"
+
+[[files]]
+file = "mods/bark-for-tfc.pw.toml"
+hash = "e83fa14655eea897274dc8130372f0d8464b48652e61ace7ee20993e7498356f"
+metafile = true
+
+[[files]]
+file = "mods/borscht-for-tfc.pw.toml"
+hash = "19e17dac909657d89f6a3869e8c8084c9046cf535a05bce173a86d849283c60e"
+metafile = true
+
+[[files]]
+file = "mods/codechickencore.pw.toml"
+hash = "877e37dd1a4313b52e1d40d74fe9abc89658f8cf172263b0f33d0feb15db89b6"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "5272f652e1df299241458cd9f7cd4792d0bda9ad1760703767779b5bed315626"
+metafile = true
+
+[[files]]
+file = "mods/kvass-for-tfc.pw.toml"
+hash = "34ca3e4d30b068cce9db931ecfd20cf6edced3bd440f8def0694d695cf00fa76"
+metafile = true
+
+[[files]]
+file = "mods/minetweaker3.pw.toml"
+hash = "2cae8c5eefd42c3a845794a5252252ddc3e48dee6b4cbba6927c2a4008239770"
+metafile = true
+
+[[files]]
+file = "mods/notenoughitems.pw.toml"
+hash = "920d279a70b25cad68c4f1c1992f8d4562e2d648402e2f9df013d078d62eae71"
+metafile = true
+
+[[files]]
+file = "mods/terrafirmacraftplus.pw.toml"
+hash = "a13a46c414673d5c66ef12ae4f5fda79a6bde8ddacceeab5e539d76aad07c192"
+metafile = true
+
+[[files]]
+file = "mods/tfc-aesthetics.pw.toml"
+hash = "0055eb41a23d687fc50982f784e6369d5977d0f3478afb0429d54c6b0b83fd86"
+metafile = true
+
+[[files]]
+file = "mods/tfc-nei.pw.toml"
+hash = "c9132a4fdf3c2e0ecbcb1aaf5783340093d9ccc6a4346dda13b1a566d41b78ac"
+metafile = true
+
+[[files]]
+file = "mods/tfcplus-bids.pw.toml"
+hash = "f2fde81b6b0f47eab110b7a15067eaecc359b4136d94770979e3d8a328e8fcea"
+metafile = true
+
+[[files]]
+file = "mods/tfcplus-tweaker.pw.toml"
+hash = "dfbcd5a8a69d7c2364f81ec9710f57827835dab45198df112e69b97ff150ba70"
+metafile = true
+
+[[files]]
+file = "scripts/Kvass.zs"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "scripts/TFCPlus.zs"
+hash = "3db024d20cdb044021ab78347acfedc59970e575ad03c4cf6bb4c43ded430fae"

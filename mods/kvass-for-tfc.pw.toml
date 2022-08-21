@@ -1,0 +1,13 @@
+name = "Kvass for tfc+"
+filename = "Kvass-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4fca106911d723cdbfdc74460e0a860c832f5b92"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3937882
+project-id = 661488

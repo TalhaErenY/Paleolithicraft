@@ -1,0 +1,13 @@
+name = "TFCPlus Bids"
+filename = "TFCPlus-Bids-0.19.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9e4b0e3c203d6382a2b1a1a0ee1e71fc59dff7b3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3943687
+project-id = 630843

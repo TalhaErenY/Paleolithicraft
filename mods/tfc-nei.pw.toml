@@ -1,0 +1,13 @@
+name = "TFC+ NEI"
+filename = "TerraFirmaCraftPlusNEIplugin-1.7.10-1.8.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d1bb83608f672b680827d9e2373936311af3549a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3377679
+project-id = 345516

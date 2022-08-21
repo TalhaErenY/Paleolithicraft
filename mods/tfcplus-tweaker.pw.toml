@@ -1,0 +1,13 @@
+name = "TFCPlus-Tweaker"
+filename = "1.7.10-TFCPlusTweaker-1.2.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2d0935e3f721fc4913ca22c3a57ee4bc7abac78f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3814433
+project-id = 420101

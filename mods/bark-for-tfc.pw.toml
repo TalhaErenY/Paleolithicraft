@@ -1,0 +1,13 @@
+name = "Bark for tfc+"
+filename = "Bark-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0b37bb4be08ab0f36dff3f577a53f8536fd916ce"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3940533
+project-id = 662105

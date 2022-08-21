@@ -1,0 +1,13 @@
+name = "Borscht for tfc+"
+filename = "Borscht-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "012c0581d3192c6d76872471ad77c4d93ee82a3a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3937523
+project-id = 661460

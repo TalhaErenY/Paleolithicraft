@@ -1,0 +1,13 @@
+name = "Terrafirmacraft+"
+filename = "[1.7.10]TerraFirmaCraftPlus-0.89.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a2654d7d98065b3f691f83aedc4d74fab2918822"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3779225
+project-id = 287053

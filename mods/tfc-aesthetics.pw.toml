@@ -1,0 +1,13 @@
+name = "TFC+ Aesthetics"
+filename = "TFCPlusAesthetics-1.6.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e23e6b8989d35cd5d6935f838802479d1b8de1a2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3922126
+project-id = 574993
