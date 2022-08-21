@@ -5,8 +5,68 @@ file = ".gittattributes"
 hash = "f1c49afdbf5c184940b9d1b0dcb6e070c8ca915a36d6c2b7f5a4c641e1080aea"
 
 [[files]]
+file = "LICENSE"
+hash = "230184f60bae2feaf244f10a8bac053c8ff33a183bcc365b4d8b876d2b7f4809"
+
+[[files]]
+file = "config/CodeChickenCore.cfg"
+hash = "85a7fb0e2a4dce72e34c3c830b93e16c4cd773da1b5024b6989e15a911595735"
+
+[[files]]
+file = "config/NEI/client.cfg"
+hash = "5a871993da72529d9b77ef4bdc7683e20a0538ea9b429da3fe0dcbb05189774b"
+
+[[files]]
+file = "config/PluginMetrics.cfg"
+hash = "fffcef34f3c74a1c87c4dcb852c8ab51eab054d8eec7b659ab59c5cbd74bdec2"
+
+[[files]]
+file = "config/TFCConfig.cfg"
+hash = "1f61286dcc4394f7ddf2954b0f2b102f7812d0b79bf5255ffc2a15d86d339d27"
+
+[[files]]
+file = "config/TFCCrafting.cfg"
+hash = "694c23b016684fb9ba4b49fd0f9ac0e62b8ac406552ed537e9c58dd8ee270c4e"
+
+[[files]]
+file = "config/TFCOre.cfg"
+hash = "8dbccc2f74b0aeabb8e5575d338b2247ea84951b91402869b5d6dad5303570d4"
+
+[[files]]
+file = "config/TFCPlusAesthetics.cfg"
+hash = "3e5d28683cdf3edd3d37b580992fc6faa72551a86617954a74969ef09c395a3f"
+
+[[files]]
+file = "config/TerraFirmaCraftNEIplugin.cfg"
+hash = "7edc02008127d89ab1e84971185ac1cac6424d1d99ab4c33ffb61e99087a7a33"
+
+[[files]]
+file = "config/bookshelf_asm.cfg"
+hash = "711aa84bf39310d7bd2821731fba3c97c66e86b2d162ec400fd08386db7bd917"
+
+[[files]]
+file = "config/forge.cfg"
+hash = "56acf28c2653e1d5d159648edbbbd9bc86832bd956a8a4e7be7adf7c558a5c7e"
+
+[[files]]
+file = "config/forgeChunkLoading.cfg"
+hash = "ef4ca42f2810a1b5fef2d14fed9d7ef0bb5e1751b71966ec5c0e08addf3479f5"
+
+[[files]]
+file = "config/journeymap_ModInfo.cfg"
+hash = "836b8d37e61459f620dd07504b8cc0ce17e63f871dea96dbaf8488fb32d2dbe7"
+
+[[files]]
+file = "config/splash.properties"
+hash = "05701ed35d48106ccd1d33696d356aae15df390f783f1a90a8aa8f1491ef1ff3"
+
+[[files]]
+file = "config/tfcplus-bids.cfg"
+hash = "529b051e3d1301b91e170207825c1179d463d7d63dd404292984ceec11011e04"
+
+[[files]]
 file = "journeymap/colorpalette.json"
-hash = "e4d753f4e9056b1353e4a92ceaf56531186c0e80c45ba84bd6bf8d0d7260c33f"
+hash = "54690880cdc366984a6e70c2182cdfa5538f3d6d0822fae43a119503d273bc44"
 
 [[files]]
 file = "journeymap/icon/entity/2D/horse/donkey.png"
@@ -322,62 +382,77 @@ hash = "9962ba2b2abd4b5087f0a541111225a8d920bd78691cabfef6ff7abb3f11c0d2"
 
 [[files]]
 file = "mods/bark-for-tfc.pw.toml"
-hash = "e83fa14655eea897274dc8130372f0d8464b48652e61ace7ee20993e7498356f"
+hash = "06f37a4b6473196b793fb0aa2da60f7cf5a0da9224badd7fc5b9df340f6e6d58"
 metafile = true
 
 [[files]]
 file = "mods/borscht-for-tfc.pw.toml"
-hash = "19e17dac909657d89f6a3869e8c8084c9046cf535a05bce173a86d849283c60e"
+hash = "df7987bbf0a1cbe1fb6c81b73096303bc1ae769b346f32a7b6b5869b2c6e1547"
 metafile = true
 
 [[files]]
 file = "mods/codechickencore.pw.toml"
-hash = "877e37dd1a4313b52e1d40d74fe9abc89658f8cf172263b0f33d0feb15db89b6"
+hash = "8c99071354b720f3255ce92e4de81d2dcbe65ed8f0ef877970c6da332f588e20"
+metafile = true
+
+[[files]]
+file = "mods/fastcraft.pw.toml"
+hash = "422af561be79850d7b301261b133bfc8ddcf7eab4c9d2e3934ded3f6fa72bf58"
+metafile = true
+
+[[files]]
+file = "mods/ingame-info-xml.pw.toml"
+hash = "5e5ecf5e52244e48159fc2b6bb81ef20049a6ea26cccd4ee19be440206725a10"
 metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "5272f652e1df299241458cd9f7cd4792d0bda9ad1760703767779b5bed315626"
+hash = "d50b4d5a9fe778b75c7d629cba285cd54a3923207b174704fa4a221708644cba"
 metafile = true
 
 [[files]]
 file = "mods/kvass-for-tfc.pw.toml"
-hash = "34ca3e4d30b068cce9db931ecfd20cf6edced3bd440f8def0694d695cf00fa76"
+hash = "0b61dcd454f5147ee8d21e40f5802355c375a96765dee48ce3c02fdccdc56b7c"
+metafile = true
+
+[[files]]
+file = "mods/lunatriuscore.pw.toml"
+hash = "03dbfc58c95772cf83cc794165d40afecda73fb9b29a4b645ce50006191973ce"
 metafile = true
 
 [[files]]
 file = "mods/minetweaker3.pw.toml"
-hash = "2cae8c5eefd42c3a845794a5252252ddc3e48dee6b4cbba6927c2a4008239770"
+hash = "4c5bf1cdd4d903460917c3b11a6bb6129da745dc65cf081f72c39ca8c5e5e96d"
 metafile = true
 
 [[files]]
 file = "mods/notenoughitems.pw.toml"
-hash = "920d279a70b25cad68c4f1c1992f8d4562e2d648402e2f9df013d078d62eae71"
+hash = "dcc0263375d329ed7e5c4b5e692d5f3411a990a519f28c59421de50f38ccd252"
 metafile = true
 
 [[files]]
 file = "mods/terrafirmacraftplus.pw.toml"
-hash = "a13a46c414673d5c66ef12ae4f5fda79a6bde8ddacceeab5e539d76aad07c192"
+hash = "b11880b57d08c900802ef251a1f8a5acd27c2182d63fe291f5247344f9e7bb51"
 metafile = true
 
 [[files]]
 file = "mods/tfc-aesthetics.pw.toml"
-hash = "0055eb41a23d687fc50982f784e6369d5977d0f3478afb0429d54c6b0b83fd86"
+hash = "5a4e4d8204e3b2a315de9002c6352f6b3e667164b236e1147b77f1d8d57562f6"
 metafile = true
 
 [[files]]
 file = "mods/tfc-nei.pw.toml"
-hash = "c9132a4fdf3c2e0ecbcb1aaf5783340093d9ccc6a4346dda13b1a566d41b78ac"
+hash = "957fcaede7c1bfc2faef085f91a534fd35c4fdbb035103d567db33f602e48567"
 metafile = true
 
 [[files]]
 file = "mods/tfcplus-bids.pw.toml"
-hash = "f2fde81b6b0f47eab110b7a15067eaecc359b4136d94770979e3d8a328e8fcea"
+hash = "f4bfce2318b83f872d8d9b6723ae31e73036045e273e48af6d4b3d0133a46997"
 metafile = true
 
 [[files]]
 file = "mods/tfcplus-tweaker.pw.toml"
-hash = "dfbcd5a8a69d7c2364f81ec9710f57827835dab45198df112e69b97ff150ba70"
+hash = "6fd996a85d9ff172c92510180907aab5b852664dae5345e803d70b98b7c926d7"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "InGame Info XML"
+filename = "InGameInfoXML-1.7.10-2.8.1.82-universal.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "44c05208968aa9f83bb3ba4e5f090acdd2bc05e6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2260741
+project-id = 225604

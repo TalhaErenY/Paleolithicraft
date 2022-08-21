@@ -1,0 +1,13 @@
+name = "LunatriusCore"
+filename = "LunatriusCore-1.7.10-1.1.2.21-universal.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e07d277bbb736654bd14047ad8ea0644228a0518"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2225146
+project-id = 225605
