@@ -456,6 +456,16 @@ hash = "6fd996a85d9ff172c92510180907aab5b852664dae5345e803d70b98b7c926d7"
 metafile = true
 
 [[files]]
+file = "mods/waila-harvestability.pw.toml"
+hash = "995bb06d581518cba9d922ba23f2705a7b596b458ce0af1ba23d9c669da4221c"
+metafile = true
+
+[[files]]
+file = "mods/waila.pw.toml"
+hash = "1ce389a8d9488dd7d37490c1498d10412b7430b18cc0faa28f47afc9cf896b57"
+metafile = true
+
+[[files]]
 file = "scripts/Kvass.zs"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
