@@ -1,6 +1,326 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".gittattributes"
+hash = "f1c49afdbf5c184940b9d1b0dcb6e070c8ca915a36d6c2b7f5a4c641e1080aea"
+
+[[files]]
+file = "journeymap/colorpalette.json"
+hash = "e4d753f4e9056b1353e4a92ceaf56531186c0e80c45ba84bd6bf8d0d7260c33f"
+
+[[files]]
+file = "journeymap/icon/entity/2D/horse/donkey.png"
+hash = "2830a34a41326254078a79bcda18b394a1aca014849580eb6c8af7148fe57ee7"
+
+[[files]]
+file = "journeymap/icon/entity/2D/horse/horse_brown.png"
+hash = "a6f3a8b9119d8c138326cd26e263eccef3ce028b9a08353967c8cf468abb8b3c"
+
+[[files]]
+file = "journeymap/icon/entity/2D/horse/horse_zombie.png"
+hash = "3a41ead90bcdde687c1f9cb5ad55ef9ad99a8679e60318c6606fb6647ce779c8"
+
+[[files]]
+file = "journeymap/icon/entity/2D/horse/mule.png"
+hash = "15330a7640b79190dd9723c29489beeabd97e96c8822ae2572d676b1f547d06f"
+
+[[files]]
+file = "journeymap/icon/entity/2D/terrafirmacraftplus/textures/mob/AngelFish.png"
+hash = "5891a6be2e65e66d4ba9d91b98ff7bfa6f65fe415102b6d8b59f717c05378676"
+
+[[files]]
+file = "journeymap/icon/entity/2D/terrafirmacraftplus/textures/mob/Aurochs Bull.png"
+hash = "3bbfc1e652a343310d83fcf6ed02ccaf537bf956d8f2f086eb27bc99b09e8f7a"
+
+[[files]]
+file = "journeymap/icon/entity/2D/terrafirmacraftplus/textures/mob/Aurochs Cow.png"
+hash = "7f93e399de3bf9ffaee0a43e6a404a8505eeae20ab1ce1e939f3c4602415e3c1"
+
+[[files]]
+file = "journeymap/icon/entity/2D/terrafirmacraftplus/textures/mob/Bass.png"
+hash = "b3c494ee642c5428d506a3c454943ba44e0a7b8d6ab1da7ec1adc6c493e2a273"
+
+[[files]]
+file = "journeymap/icon/entity/2D/terrafirmacraftplus/textures/mob/Bear.png"
+hash = "1b897ef3592b1fe5dc13994ea541f7d7c0bf8911da8fdbb233484b449ee314b0"
+
+[[files]]
+file = "journeymap/icon/entity/2D/terrafirmacraftplus/textures/mob/Bison Bull.png"
+hash = "0f83310551041cbbc178c1c1dfa79eba41a4e18c27e17380d4841d637d0d9827"
+
+[[files]]
+file = "journeymap/icon/entity/2D/terrafirmacraftplus/textures/mob/Bison Cow.png"
+hash = "d672756eb42ca616be45ed66befa6c4e38bf7a1dea9f9d133775e41d608721f7"
+
+[[files]]
+file = "journeymap/icon/entity/2D/terrafirmacraftplus/textures/mob/Boar Piglet.png"
+hash = "84ba490bd5ecce99c134f7463ef36ec1247f32deff54a6c06ea0b0eaa72dd9f7"
+
+[[files]]
+file = "journeymap/icon/entity/2D/terrafirmacraftplus/textures/mob/Boar.png"
+hash = "fc13313be1b7c70e9020a0dda2626d926bfefef2658b47436201d65d259da219"
+
+[[files]]
+file = "journeymap/icon/entity/2D/terrafirmacraftplus/textures/mob/Buffalo Bull.png"
+hash = "4aa7d81f4ddb9de1f110d265f1e24fb30b90cd56f93c2bde514b510bf6762a0f"
+
+[[files]]
+file = "journeymap/icon/entity/2D/terrafirmacraftplus/textures/mob/Buffalo Cow.png"
+hash = "2101f9ab2d34ccbda49427aa11a7c0ea9f834640c91e2d1a689b9ad85a6fbe22"
+
+[[files]]
+file = "journeymap/icon/entity/2D/terrafirmacraftplus/textures/mob/ButterflyFish.png"
+hash = "f76c595fba5b64784d786662d69dd4d14b737274d9a0575b61ea6f61cce81641"
+
+[[files]]
+file = "journeymap/icon/entity/2D/terrafirmacraftplus/textures/mob/Cow.png"
+hash = "69a5696ac4f641cbe541d3b5ad64584987035c93094c069f2d8a68190fbb925e"
+
+[[files]]
+file = "journeymap/icon/entity/2D/terrafirmacraftplus/textures/mob/ParrotFish_pink.png"
+hash = "eb721b08c6f784cf5a99fdff86b60376e3fe5288c9ed943de15cb4790fbfa1c5"
+
+[[files]]
+file = "journeymap/icon/entity/2D/terrafirmacraftplus/textures/mob/ParrotFish_yellow.png"
+hash = "bd9799d5fe557f8bc1c6cc1c9fe02db695f53eb114c8336a05fdfca92212c2e9"
+
+[[files]]
+file = "journeymap/icon/entity/2D/terrafirmacraftplus/textures/mob/Peccary.png"
+hash = "0fb659b212a2981b37d5694538b54a35d38584cd15069554aa1a4ec506bbd81e"
+
+[[files]]
+file = "journeymap/icon/entity/2D/terrafirmacraftplus/textures/mob/PheasantF.png"
+hash = "2117ab58d8c604c341d20cec1e96f4d5600693e0f1510f42b6eb2a8cd810ef46"
+
+[[files]]
+file = "journeymap/icon/entity/2D/terrafirmacraftplus/textures/mob/PheasantM.png"
+hash = "9c0826935bdc430dab2a0c739191cdc80dd0c4031b32d32046bb30ee91c40e0c"
+
+[[files]]
+file = "journeymap/icon/entity/2D/terrafirmacraftplus/textures/mob/Pig.png"
+hash = "02eb80ba5d1538ec46fe6fb19cfebd4ae9fa8026c10e712e4fe9284d5ade365f"
+
+[[files]]
+file = "journeymap/icon/entity/2D/terrafirmacraftplus/textures/mob/Pollock.png"
+hash = "d1ad2a44d948a05c4ccda1485184b92c119df278c12c4b191220abd02d1a4561"
+
+[[files]]
+file = "journeymap/icon/entity/2D/terrafirmacraftplus/textures/mob/Shark.png"
+hash = "ef07f5b14b7b9ef93b9ef876792e31633b900e79919e64ada8e64deb2ca3c79e"
+
+[[files]]
+file = "journeymap/icon/entity/2D/terrafirmacraftplus/textures/mob/Trout.png"
+hash = "757c35fe690c7eb7762a1617f1fe0fb8c0036b671fd5c862dcbe2355d78c945b"
+
+[[files]]
+file = "journeymap/icon/entity/2D/terrafirmacraftplus/textures/mob/Wahoo.png"
+hash = "217df095aff97707c9773ba0c9831d4052228a217d27cc438ac663a25667d218"
+
+[[files]]
+file = "journeymap/icon/entity/2D/terrafirmacraftplus/textures/mob/Warthog.png"
+hash = "27fa21de90361584de725814eca49e5905ce618e4b59b6aeb44b9275883ab206"
+
+[[files]]
+file = "journeymap/icon/entity/2D/terrafirmacraftplus/textures/mob/Wrasse.png"
+hash = "486a0bde4ceaaa8a1fa3c0d2638bc78f0ced1ffa1bf8f0e45709eb4434663641"
+
+[[files]]
+file = "journeymap/icon/entity/2D/terrafirmacraftplus/textures/mob/bighornsheep.png"
+hash = "55ac83207da909eb19887a79d37a4f4330dc25dc24f0965c874ea43b78dc0f24"
+
+[[files]]
+file = "journeymap/icon/entity/2D/terrafirmacraftplus/textures/mob/bull.png"
+hash = "4d1ba471bf1ec33ae434bef5278d17fd59631a712420b3de00bb8f39ab2c9b81"
+
+[[files]]
+file = "journeymap/icon/entity/2D/terrafirmacraftplus/textures/mob/chick.png"
+hash = "9bb1cf7e5b8f6428dcc1767a49143b5e70a5bd0ecd5cfa9f59b2c04cfbdf7f73"
+
+[[files]]
+file = "journeymap/icon/entity/2D/terrafirmacraftplus/textures/mob/deer.png"
+hash = "789fb4a64db7adce199b51c68910a7d2475e43575faf740acbc9fb17e276a31e"
+
+[[files]]
+file = "journeymap/icon/entity/2D/terrafirmacraftplus/textures/mob/goat.png"
+hash = "d5a2a717e711b47164f021fa57f01d9cc115ede819101938f34ac36a369637c4"
+
+[[files]]
+file = "journeymap/icon/entity/2D/terrafirmacraftplus/textures/mob/ibex.png"
+hash = "4975a2255e50ee9026012e08820476ba0dc0d969c224f2d0f1e7d79f816ced6d"
+
+[[files]]
+file = "journeymap/icon/entity/2D/terrafirmacraftplus/textures/mob/mouflon.png"
+hash = "56359d5d44b62964abf016c1834de4f0a08ef8cebcc38db0a21a5524c93945ba"
+
+[[files]]
+file = "journeymap/icon/entity/2D/terrafirmacraftplus/textures/mob/pheasant_chick.png"
+hash = "8bb7356ceb6e8f9fe08e53b424c6786fd9425e9e407130c190d5b8269bd37ff0"
+
+[[files]]
+file = "journeymap/icon/entity/2D/terrafirmacraftplus/textures/mob/rooster.png"
+hash = "fef78671981deda979986fd45f300190bfafcc28787879536d537dc3de87538b"
+
+[[files]]
+file = "journeymap/icon/entity/2D/terrafirmacraftplus/textures/mob/sheep.png"
+hash = "9962ba2b2abd4b5087f0a541111225a8d920bd78691cabfef6ff7abb3f11c0d2"
+
+[[files]]
+file = "journeymap/icon/entity/3D/horse/donkey.png"
+hash = "2830a34a41326254078a79bcda18b394a1aca014849580eb6c8af7148fe57ee7"
+
+[[files]]
+file = "journeymap/icon/entity/3D/horse/horse_brown.png"
+hash = "a6f3a8b9119d8c138326cd26e263eccef3ce028b9a08353967c8cf468abb8b3c"
+
+[[files]]
+file = "journeymap/icon/entity/3D/horse/horse_zombie.png"
+hash = "3a41ead90bcdde687c1f9cb5ad55ef9ad99a8679e60318c6606fb6647ce779c8"
+
+[[files]]
+file = "journeymap/icon/entity/3D/horse/mule.png"
+hash = "15330a7640b79190dd9723c29489beeabd97e96c8822ae2572d676b1f547d06f"
+
+[[files]]
+file = "journeymap/icon/entity/3D/terrafirmacraftplus/textures/mob/AngelFish.png"
+hash = "5891a6be2e65e66d4ba9d91b98ff7bfa6f65fe415102b6d8b59f717c05378676"
+
+[[files]]
+file = "journeymap/icon/entity/3D/terrafirmacraftplus/textures/mob/Aurochs Bull.png"
+hash = "3bbfc1e652a343310d83fcf6ed02ccaf537bf956d8f2f086eb27bc99b09e8f7a"
+
+[[files]]
+file = "journeymap/icon/entity/3D/terrafirmacraftplus/textures/mob/Aurochs Cow.png"
+hash = "7f93e399de3bf9ffaee0a43e6a404a8505eeae20ab1ce1e939f3c4602415e3c1"
+
+[[files]]
+file = "journeymap/icon/entity/3D/terrafirmacraftplus/textures/mob/Bass.png"
+hash = "b3c494ee642c5428d506a3c454943ba44e0a7b8d6ab1da7ec1adc6c493e2a273"
+
+[[files]]
+file = "journeymap/icon/entity/3D/terrafirmacraftplus/textures/mob/Bear.png"
+hash = "1b897ef3592b1fe5dc13994ea541f7d7c0bf8911da8fdbb233484b449ee314b0"
+
+[[files]]
+file = "journeymap/icon/entity/3D/terrafirmacraftplus/textures/mob/Bison Bull.png"
+hash = "0f83310551041cbbc178c1c1dfa79eba41a4e18c27e17380d4841d637d0d9827"
+
+[[files]]
+file = "journeymap/icon/entity/3D/terrafirmacraftplus/textures/mob/Bison Cow.png"
+hash = "d672756eb42ca616be45ed66befa6c4e38bf7a1dea9f9d133775e41d608721f7"
+
+[[files]]
+file = "journeymap/icon/entity/3D/terrafirmacraftplus/textures/mob/Boar Piglet.png"
+hash = "84ba490bd5ecce99c134f7463ef36ec1247f32deff54a6c06ea0b0eaa72dd9f7"
+
+[[files]]
+file = "journeymap/icon/entity/3D/terrafirmacraftplus/textures/mob/Boar.png"
+hash = "fc13313be1b7c70e9020a0dda2626d926bfefef2658b47436201d65d259da219"
+
+[[files]]
+file = "journeymap/icon/entity/3D/terrafirmacraftplus/textures/mob/Buffalo Bull.png"
+hash = "4aa7d81f4ddb9de1f110d265f1e24fb30b90cd56f93c2bde514b510bf6762a0f"
+
+[[files]]
+file = "journeymap/icon/entity/3D/terrafirmacraftplus/textures/mob/Buffalo Cow.png"
+hash = "2101f9ab2d34ccbda49427aa11a7c0ea9f834640c91e2d1a689b9ad85a6fbe22"
+
+[[files]]
+file = "journeymap/icon/entity/3D/terrafirmacraftplus/textures/mob/ButterflyFish.png"
+hash = "f76c595fba5b64784d786662d69dd4d14b737274d9a0575b61ea6f61cce81641"
+
+[[files]]
+file = "journeymap/icon/entity/3D/terrafirmacraftplus/textures/mob/Cow.png"
+hash = "69a5696ac4f641cbe541d3b5ad64584987035c93094c069f2d8a68190fbb925e"
+
+[[files]]
+file = "journeymap/icon/entity/3D/terrafirmacraftplus/textures/mob/ParrotFish_pink.png"
+hash = "eb721b08c6f784cf5a99fdff86b60376e3fe5288c9ed943de15cb4790fbfa1c5"
+
+[[files]]
+file = "journeymap/icon/entity/3D/terrafirmacraftplus/textures/mob/ParrotFish_yellow.png"
+hash = "bd9799d5fe557f8bc1c6cc1c9fe02db695f53eb114c8336a05fdfca92212c2e9"
+
+[[files]]
+file = "journeymap/icon/entity/3D/terrafirmacraftplus/textures/mob/Peccary.png"
+hash = "0fb659b212a2981b37d5694538b54a35d38584cd15069554aa1a4ec506bbd81e"
+
+[[files]]
+file = "journeymap/icon/entity/3D/terrafirmacraftplus/textures/mob/PheasantF.png"
+hash = "2117ab58d8c604c341d20cec1e96f4d5600693e0f1510f42b6eb2a8cd810ef46"
+
+[[files]]
+file = "journeymap/icon/entity/3D/terrafirmacraftplus/textures/mob/PheasantM.png"
+hash = "9c0826935bdc430dab2a0c739191cdc80dd0c4031b32d32046bb30ee91c40e0c"
+
+[[files]]
+file = "journeymap/icon/entity/3D/terrafirmacraftplus/textures/mob/Pig.png"
+hash = "02eb80ba5d1538ec46fe6fb19cfebd4ae9fa8026c10e712e4fe9284d5ade365f"
+
+[[files]]
+file = "journeymap/icon/entity/3D/terrafirmacraftplus/textures/mob/Pollock.png"
+hash = "d1ad2a44d948a05c4ccda1485184b92c119df278c12c4b191220abd02d1a4561"
+
+[[files]]
+file = "journeymap/icon/entity/3D/terrafirmacraftplus/textures/mob/Shark.png"
+hash = "ef07f5b14b7b9ef93b9ef876792e31633b900e79919e64ada8e64deb2ca3c79e"
+
+[[files]]
+file = "journeymap/icon/entity/3D/terrafirmacraftplus/textures/mob/Trout.png"
+hash = "757c35fe690c7eb7762a1617f1fe0fb8c0036b671fd5c862dcbe2355d78c945b"
+
+[[files]]
+file = "journeymap/icon/entity/3D/terrafirmacraftplus/textures/mob/Wahoo.png"
+hash = "217df095aff97707c9773ba0c9831d4052228a217d27cc438ac663a25667d218"
+
+[[files]]
+file = "journeymap/icon/entity/3D/terrafirmacraftplus/textures/mob/Warthog.png"
+hash = "27fa21de90361584de725814eca49e5905ce618e4b59b6aeb44b9275883ab206"
+
+[[files]]
+file = "journeymap/icon/entity/3D/terrafirmacraftplus/textures/mob/Wrasse.png"
+hash = "486a0bde4ceaaa8a1fa3c0d2638bc78f0ced1ffa1bf8f0e45709eb4434663641"
+
+[[files]]
+file = "journeymap/icon/entity/3D/terrafirmacraftplus/textures/mob/bighornsheep.png"
+hash = "55ac83207da909eb19887a79d37a4f4330dc25dc24f0965c874ea43b78dc0f24"
+
+[[files]]
+file = "journeymap/icon/entity/3D/terrafirmacraftplus/textures/mob/bull.png"
+hash = "4d1ba471bf1ec33ae434bef5278d17fd59631a712420b3de00bb8f39ab2c9b81"
+
+[[files]]
+file = "journeymap/icon/entity/3D/terrafirmacraftplus/textures/mob/chick.png"
+hash = "9bb1cf7e5b8f6428dcc1767a49143b5e70a5bd0ecd5cfa9f59b2c04cfbdf7f73"
+
+[[files]]
+file = "journeymap/icon/entity/3D/terrafirmacraftplus/textures/mob/deer.png"
+hash = "789fb4a64db7adce199b51c68910a7d2475e43575faf740acbc9fb17e276a31e"
+
+[[files]]
+file = "journeymap/icon/entity/3D/terrafirmacraftplus/textures/mob/goat.png"
+hash = "d5a2a717e711b47164f021fa57f01d9cc115ede819101938f34ac36a369637c4"
+
+[[files]]
+file = "journeymap/icon/entity/3D/terrafirmacraftplus/textures/mob/ibex.png"
+hash = "4975a2255e50ee9026012e08820476ba0dc0d969c224f2d0f1e7d79f816ced6d"
+
+[[files]]
+file = "journeymap/icon/entity/3D/terrafirmacraftplus/textures/mob/mouflon.png"
+hash = "56359d5d44b62964abf016c1834de4f0a08ef8cebcc38db0a21a5524c93945ba"
+
+[[files]]
+file = "journeymap/icon/entity/3D/terrafirmacraftplus/textures/mob/pheasant_chick.png"
+hash = "8bb7356ceb6e8f9fe08e53b424c6786fd9425e9e407130c190d5b8269bd37ff0"
+
+[[files]]
+file = "journeymap/icon/entity/3D/terrafirmacraftplus/textures/mob/rooster.png"
+hash = "fef78671981deda979986fd45f300190bfafcc28787879536d537dc3de87538b"
+
+[[files]]
+file = "journeymap/icon/entity/3D/terrafirmacraftplus/textures/mob/sheep.png"
+hash = "9962ba2b2abd4b5087f0a541111225a8d920bd78691cabfef6ff7abb3f11c0d2"
+
+[[files]]
 file = "mods/bark-for-tfc.pw.toml"
 hash = "e83fa14655eea897274dc8130372f0d8464b48652e61ace7ee20993e7498356f"
 metafile = true
