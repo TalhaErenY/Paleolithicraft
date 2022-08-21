@@ -13,8 +13,16 @@ file = "config/CodeChickenCore.cfg"
 hash = "85a7fb0e2a4dce72e34c3c830b93e16c4cd773da1b5024b6989e15a911595735"
 
 [[files]]
+file = "config/InGameInfoXML.cfg"
+hash = "2335075e44a2b9665a0f868a94b65866f92984b7bc61ee07867407ff8bb2008b"
+
+[[files]]
+file = "config/LunatriusCore.cfg"
+hash = "2e4304d971560fc9c94c70b4b86ebeb2a33d9be244afad36de75bcbae8673e14"
+
+[[files]]
 file = "config/NEI/client.cfg"
-hash = "5a871993da72529d9b77ef4bdc7683e20a0538ea9b429da3fe0dcbb05189774b"
+hash = "8ba94aadb86385bd339f00109b90b5ca0a6a7928ed7dca0719985c53ffc63849"
 
 [[files]]
 file = "config/PluginMetrics.cfg"
@@ -41,8 +49,20 @@ file = "config/TerraFirmaCraftNEIplugin.cfg"
 hash = "7edc02008127d89ab1e84971185ac1cac6424d1d99ab4c33ffb61e99087a7a33"
 
 [[files]]
+file = "config/Waila.cfg"
+hash = "1d32fed3cea8e5dbbee355368b8548a45f38b7da2d80d47ad7a7b64c5633abff"
+
+[[files]]
+file = "config/WailaHarvestability.cfg"
+hash = "0cad3d4e5933b5be85e887d6c6600997081e0b8126dd163e9a55b6246eb7809b"
+
+[[files]]
 file = "config/bookshelf_asm.cfg"
 hash = "711aa84bf39310d7bd2821731fba3c97c66e86b2d162ec400fd08386db7bd917"
+
+[[files]]
+file = "config/fastcraft.ini"
+hash = "885deb488bd1afe664ff2071b2a9b240ea77ab91980cfb4d9f93fccad47c2374"
 
 [[files]]
 file = "config/forge.cfg"
@@ -58,7 +78,7 @@ hash = "836b8d37e61459f620dd07504b8cc0ce17e63f871dea96dbaf8488fb32d2dbe7"
 
 [[files]]
 file = "config/splash.properties"
-hash = "05701ed35d48106ccd1d33696d356aae15df390f783f1a90a8aa8f1491ef1ff3"
+hash = "ce87a803450ab3a09badf3653bc75746b84234f8335ef29303e60011701af077"
 
 [[files]]
 file = "config/tfcplus-bids.cfg"
@@ -463,6 +483,11 @@ metafile = true
 [[files]]
 file = "mods/waila.pw.toml"
 hash = "1ce389a8d9488dd7d37490c1498d10412b7430b18cc0faa28f47afc9cf896b57"
+metafile = true
+
+[[files]]
+file = "mods/wawla.pw.toml"
+hash = "62ea2b80fdff17bc5c4f150c771f946067ae5bf0399ffe10b4eed5a0cde29b91"
 metafile = true
 
 [[files]]
