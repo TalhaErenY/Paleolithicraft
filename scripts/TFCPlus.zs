@@ -35,6 +35,9 @@ mods.Terrafirmacraft.Barrel.addItemConversion(<terrafirmacraftplus:item.Ammonium
 // slime ball from sinew
 mods.Terrafirmacraft.Barrel.addFireRecipe(<minecraft:slime_ball>, null, <terrafirmacraftplus:item.Sinew>*4, <liquid:freshwater>*800, 4000);
 
+// sinew from rotten flesh
+recipes.addShapeless(<terrafirmacraftplus:item.Sinew>, [<minecraft:rotten_flesh>, <minecraft:rotten_flesh>, <ore:itemKnife>.transformDamage()]);
+
 
 /* Remove and Replace */
 
@@ -74,3 +77,7 @@ recipes.removeShaped(<minecraft:piston>);
 //TODO:Sign recipe (clay knapping?)
 //TODO:Tadelakt/Qadad in place of bricks? (lime mortar+dust aggregate+soap[olive oil+limewater])
 //TODO:Stained Glass Panes
+//TODO:proper carpet recipes, wool block recipe
+//TODO:dye oredict
+//TODO:Tool rack recipe
+//TODO:Change recipe of sterling silver lamp to clay knapping, change name to clay lamp.
