@@ -171,7 +171,7 @@ recipes.removeShaped(<minecraft:wooden_pressure_plate>);
 recipes.removeShaped(<minecraft:clay>);
 recipes.addShaped(<minecraft:clay>,[[<ore:lumpClay>,<ore:lumpClay>,<ore:lumpClay>],[<ore:lumpClay>,<ore:lumpClay>,<ore:lumpClay>],[<ore:lumpClay>,<ore:lumpClay>,<ore:lumpClay>]]);
 <minecraft:clay>.displayName = "Unfinished Tadelakt";
-mods.Terrafirmacraft.Barrel.addItemConversion(<minecraft:hardened_clay>, <minecraft:clay>, <liquid:Olive Oil> * 50, 0);
+mods.Terrafirmacraft.Barrel.addItemConversion(<minecraft:hardened_clay>, <minecraft:clay>, <liquid:oliveoil> * 50, 0);
 <minecraft:hardened_clay>.displayName = "Tadelakt";
 //TODO: add dyed recipes for hardened clay.
 
