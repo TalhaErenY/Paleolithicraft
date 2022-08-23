@@ -1,0 +1,2515 @@
+INFO: MineTweaker: Building registry
+INFO: MineTweaker: Sucessfully built item registry
+INFO: Adding command minetweaker
+INFO: Adding minetweaker command mfr
+ERROR: TFCPlus.zs:174: Could not resolve <liquid : oil>
+ERROR: Error parsing TFCPlus.zs:175 -- ; expected
+<bark:item.BambooBarkBasket>, Bamboo Bark Basket
+<bark:item.BambooBarkPants>, Bamboo Bark Pants
+<bark:item.BambooBarkShirt>, Bamboo Bark Shirt
+<bark:item.BambooBastShoes>, Bamboo Bark Shoes
+<bark:item.BambooBoots>, Bamboo Bark Boots
+<bark:item.BambooHat>, Bamboo Bark Hat
+<bark:item.BarkCloth>, Stripped Bark Cloth
+<bark:item.BarkSheet>, Stripped Bark Sheet
+<bark:item.BarkStrip>, Stripped Bark Strip
+<bark:item.BirchBarkBasket>, Birch Bark Basket
+<bark:item.BirchBarkPants>, Birch Bark Pants
+<bark:item.BirchBarkShirt>, Birch Bark Shirt
+<bark:item.BirchBarkShirtStripped>, Stripped Bark Shirt
+<bark:item.BirchBastShoes>, Birch Bark Shoes
+<bark:item.BirchBastShoesStripped>, Stripped Bark Shoes
+<bark:item.BirchBoots>, Birch Bark Boots
+<bark:item.BirchBootsStripped>, Stripped Bark Boots
+<bark:item.BirchHat>, Birch Bark Hat
+<bark:item.BirchHatStripped>, Stripped Bark Hat
+<bark:item.FlatRock>, item.Flat Bark Cloth.StrippedBark.name
+<bark:item.StrippedBarkBasket>, Stripped Bark Basket
+<bark:item.StrippedBarkPants>, Stripped Bark Pants
+<minecraft:acacia_stairs>, Acacia Wood Stairs
+<minecraft:activator_rail>, Activator Rail
+<minecraft:anvil>, Anvil
+<minecraft:apple>, Apple
+<minecraft:arrow>, Arrow
+<minecraft:baked_potato>, Baked Potato
+<minecraft:beacon>, Beacon
+<minecraft:bed>, Bed
+<minecraft:bedrock>, Bedrock
+<minecraft:beef>, Raw Beef
+<minecraft:birch_stairs>, Birch Wood Stairs
+<minecraft:blaze_powder>, Blaze Powder
+<minecraft:blaze_rod>, Blaze Rod
+<minecraft:boat>, Boat
+<minecraft:bone>, Bone
+<minecraft:book>, Book
+<minecraft:bookshelf>, Bookshelf
+<minecraft:bow>, Bow
+<minecraft:bowl>, Bowl
+<minecraft:bread>, Bread
+<minecraft:brewing_stand>, Brewing Stand
+<minecraft:brick>, Brick
+<minecraft:brick_block>, Bricks
+<minecraft:brick_stairs>, Brick Stairs
+<minecraft:brown_mushroom>, Mushroom
+<minecraft:brown_mushroom_block>, Mushroom
+<minecraft:bucket>, Bucket
+<minecraft:cactus>, Cactus
+<minecraft:cake>, Cake
+<minecraft:carpet>, Carpet
+<minecraft:carrot>, Carrot
+<minecraft:carrot_on_a_stick>, Carrot on a Stick
+<minecraft:carrots>, Carrots
+<minecraft:cauldron>, Cauldron
+<minecraft:chainmail_boots>, Chain Boots
+<minecraft:chainmail_chestplate>, Chain Chestplate
+<minecraft:chainmail_helmet>, Chain Helmet
+<minecraft:chainmail_leggings>, Chain Leggings
+<minecraft:chest>, Chest
+<minecraft:chest_minecart>, Minecart with Chest
+<minecraft:chicken>, Raw Chicken
+<minecraft:clay>, Clay
+<minecraft:clay_ball>, Clay
+<minecraft:clock>, Clock
+<minecraft:coal>, Coal
+<minecraft:coal_block>, Block of Coal
+<minecraft:coal_ore>, Coal Ore
+<minecraft:cobblestone>, Cobblestone
+<minecraft:cobblestone_wall>, Cobblestone Wall
+<minecraft:cocoa>, Cocoa
+<minecraft:command_block>, Command Block
+<minecraft:command_block_minecart>, Minecart with Command Block
+<minecraft:comparator>, Redstone Comparator
+<minecraft:compass>, Compass
+<minecraft:cooked_beef>, Steak
+<minecraft:cooked_chicken>, Cooked Chicken
+<minecraft:cooked_fished>, Cooked Fish
+<minecraft:cooked_porkchop>, Cooked Porkchop
+<minecraft:cookie>, Cookie
+<minecraft:crafting_table>, Crafting Table
+<minecraft:dark_oak_stairs>, Dark Oak Wood Stairs
+<minecraft:daylight_detector>, Daylight Sensor
+<minecraft:deadbush>, Dead Bush
+<minecraft:detector_rail>, Detector Rail
+<minecraft:diamond>, Diamond
+<minecraft:diamond_axe>, Diamond Axe
+<minecraft:diamond_block>, Block of Diamond
+<minecraft:diamond_boots>, Diamond Boots
+<minecraft:diamond_chestplate>, Diamond Chestplate
+<minecraft:diamond_helmet>, Diamond Helmet
+<minecraft:diamond_hoe>, Diamond Hoe
+<minecraft:diamond_horse_armor>, Diamond Horse Armor
+<minecraft:diamond_leggings>, Diamond Leggings
+<minecraft:diamond_ore>, Diamond Ore
+<minecraft:diamond_pickaxe>, Diamond Pickaxe
+<minecraft:diamond_shovel>, Diamond Shovel
+<minecraft:diamond_sword>, Diamond Sword
+<minecraft:dirt>, Dirt
+<minecraft:dispenser>, Dispenser
+<minecraft:double_plant>, Sunflower
+<minecraft:double_stone_slab>, Stone Slab
+<minecraft:double_wooden_slab>, Oak Wood Slab
+<minecraft:dragon_egg>, Dragon Egg
+<minecraft:dropper>, Dropper
+<minecraft:dye>, Ink Sac
+<minecraft:egg>, Egg
+<minecraft:emerald>, Emerald
+<minecraft:emerald_block>, Block of Emerald
+<minecraft:emerald_ore>, Emerald Ore
+<minecraft:enchanted_book>, Enchanted Book
+<minecraft:enchanting_table>, Enchantment Table
+<minecraft:end_portal>, Unnamed Block, report to mod author.
+<minecraft:end_portal_frame>, End Portal
+<minecraft:end_stone>, End Stone
+<minecraft:ender_chest>, Ender Chest
+<minecraft:ender_eye>, Eye of Ender
+<minecraft:ender_pearl>, Ender Pearl
+<minecraft:experience_bottle>, Bottle o' Enchanting
+<minecraft:farmland>, Farmland
+<minecraft:feather>, Feather
+<minecraft:fence>, Fence
+<minecraft:fence_gate>, Fence Gate
+<minecraft:fermented_spider_eye>, Fermented Spider Eye
+<minecraft:filled_map>, Map
+<minecraft:fire>, Fire
+<minecraft:fire_charge>, Fire Charge
+<minecraft:firework_charge>, Firework Star
+<minecraft:fireworks>, Firework Rocket
+<minecraft:fish>, Raw Fish
+<minecraft:fishing_rod>, Fishing Rod
+<minecraft:flint>, Flint
+<minecraft:flint_and_steel>, Flint and Steel
+<minecraft:flower_pot>, Flower Pot
+<minecraft:flowing_lava>, Lava
+<minecraft:flowing_water>, Water
+<minecraft:furnace>, Furnace
+<minecraft:furnace_minecart>, Minecart with Furnace
+<minecraft:ghast_tear>, Ghast Tear
+<minecraft:glass>, Glass
+<minecraft:glass_bottle>, Glass Bottle
+<minecraft:glass_pane>, Glass Pane
+<minecraft:glowstone>, Glowstone
+<minecraft:glowstone_dust>, Glowstone Dust
+<minecraft:gold_block>, Block of Gold
+<minecraft:gold_ingot>, Gold Ingot
+<minecraft:gold_nugget>, Gold Nugget
+<minecraft:gold_ore>, Gold Ore
+<minecraft:golden_apple>, Golden Apple
+<minecraft:golden_axe>, Golden Axe
+<minecraft:golden_boots>, Golden Boots
+<minecraft:golden_carrot>, Golden Carrot
+<minecraft:golden_chestplate>, Golden Chestplate
+<minecraft:golden_helmet>, Golden Helmet
+<minecraft:golden_hoe>, Golden Hoe
+<minecraft:golden_horse_armor>, Gold Horse Armor
+<minecraft:golden_leggings>, Golden Leggings
+<minecraft:golden_pickaxe>, Golden Pickaxe
+<minecraft:golden_rail>, Powered Rail
+<minecraft:golden_shovel>, Golden Shovel
+<minecraft:golden_sword>, Golden Sword
+<minecraft:grass>, Grass Block
+<minecraft:gravel>, Gravel
+<minecraft:gunpowder>, Gunpowder
+<minecraft:hardened_clay>, Hardened Clay
+<minecraft:hay_block>, Hay Bale
+<minecraft:heavy_weighted_pressure_plate>, Weighted Pressure Plate (Heavy)
+<minecraft:hopper>, Hopper
+<minecraft:hopper_minecart>, Minecart with Hopper
+<minecraft:ice>, Ice
+<minecraft:iron_axe>, Iron Axe
+<minecraft:iron_bars>, Iron Bars
+<minecraft:iron_block>, Block of Iron
+<minecraft:iron_boots>, Iron Boots
+<minecraft:iron_chestplate>, Iron Chestplate
+<minecraft:iron_door>, Iron Door
+<minecraft:iron_helmet>, Iron Helmet
+<minecraft:iron_hoe>, Iron Hoe
+<minecraft:iron_horse_armor>, Iron Horse Armor
+<minecraft:iron_ingot>, Iron Ingot
+<minecraft:iron_leggings>, Iron Leggings
+<minecraft:iron_ore>, Iron Ore
+<minecraft:iron_pickaxe>, Iron Pickaxe
+<minecraft:iron_shovel>, Iron Shovel
+<minecraft:iron_sword>, Iron Sword
+<minecraft:item_frame>, Item Frame
+<minecraft:jukebox>, Jukebox
+<minecraft:jungle_stairs>, Jungle Wood Stairs
+<minecraft:ladder>, Ladder
+<minecraft:lapis_block>, Lapis Lazuli Block
+<minecraft:lapis_ore>, Lapis Lazuli Ore
+<minecraft:lava>, Lava
+<minecraft:lava_bucket>, Lava Bucket
+<minecraft:lead>, Lead
+<minecraft:leather>, Leather
+<minecraft:leather_boots>, Leather Boots
+<minecraft:leather_chestplate>, Leather Tunic
+<minecraft:leather_helmet>, Leather Cap
+<minecraft:leather_leggings>, Leather Chaps
+<minecraft:leaves>, Oak Leaves
+<minecraft:leaves2>, Acacia Leaves
+<minecraft:lever>, Lever
+<minecraft:light_weighted_pressure_plate>, Weighted Pressure Plate (Light)
+<minecraft:lit_furnace>, Furnace
+<minecraft:lit_pumpkin>, Jack o'Lantern
+<minecraft:log>, Oak Wood
+<minecraft:log2>, Acacia Wood
+<minecraft:magma_cream>, Magma Cream
+<minecraft:map>, Empty Map
+<minecraft:melon>, Melon
+<minecraft:melon_block>, Melon
+<minecraft:melon_seeds>, Melon Seeds
+<minecraft:milk_bucket>, Milk
+<minecraft:minecart>, Minecart
+<minecraft:mob_spawner>, Monster Spawner
+<minecraft:monster_egg>, Stone Monster Egg
+<minecraft:mossy_cobblestone>, Moss Stone
+<minecraft:mushroom_stew>, Mushroom Stew
+<minecraft:mycelium>, Mycelium
+<minecraft:name_tag>, Name Tag
+<minecraft:nether_brick>, Nether Brick
+<minecraft:nether_brick_fence>, Nether Brick Fence
+<minecraft:nether_brick_stairs>, Nether Brick Stairs
+<minecraft:nether_star>, Nether Star
+<minecraft:nether_wart>, Nether Wart
+<minecraft:netherbrick>, Nether Brick
+<minecraft:netherrack>, Netherrack
+<minecraft:noteblock>, Note Block
+<minecraft:oak_stairs>, Oak Wood Stairs
+<minecraft:obsidian>, Obsidian
+<minecraft:packed_ice>, Packed Ice
+<minecraft:painting>, Painting
+<minecraft:paper>, Paper
+<minecraft:piston>, Piston
+<minecraft:planks>, Oak Wood Planks
+<minecraft:poisonous_potato>, Poisonous Potato
+<minecraft:porkchop>, Raw Porkchop
+<minecraft:portal>, Portal
+<minecraft:potato>, Potato
+<minecraft:potatoes>, Potatoes
+<minecraft:potion>, Water Bottle
+<minecraft:pumpkin>, Pumpkin
+<minecraft:pumpkin_pie>, Pumpkin Pie
+<minecraft:pumpkin_seeds>, Pumpkin Seeds
+<minecraft:quartz>, Nether Quartz
+<minecraft:quartz_block>, Block of Quartz
+<minecraft:quartz_ore>, Nether Quartz Ore
+<minecraft:quartz_stairs>, Quartz Stairs
+<minecraft:rail>, Rail
+<minecraft:record_11>, Music Disc
+<minecraft:record_13>, Music Disc
+<minecraft:record_blocks>, Music Disc
+<minecraft:record_cat>, Music Disc
+<minecraft:record_chirp>, Music Disc
+<minecraft:record_far>, Music Disc
+<minecraft:record_mall>, Music Disc
+<minecraft:record_mellohi>, Music Disc
+<minecraft:record_stal>, Music Disc
+<minecraft:record_strad>, Music Disc
+<minecraft:record_wait>, Music Disc
+<minecraft:record_ward>, Music Disc
+<minecraft:red_flower>, Poppy
+<minecraft:red_mushroom>, Mushroom
+<minecraft:red_mushroom_block>, Mushroom
+<minecraft:redstone>, Redstone
+<minecraft:redstone_block>, Block of Redstone
+<minecraft:redstone_lamp>, Redstone Lamp
+<minecraft:redstone_ore>, Redstone Ore
+<minecraft:redstone_torch>, Redstone Torch
+<minecraft:reeds>, Sugar Canes
+<minecraft:repeater>, Redstone Repeater
+<minecraft:rotten_flesh>, Rotten Flesh
+<minecraft:saddle>, Saddle
+<minecraft:sand>, Sand
+<minecraft:sandstone>, Sandstone
+<minecraft:sandstone_stairs>, Sandstone Stairs
+<minecraft:sapling>, Oak Sapling
+<minecraft:shears>, Shears
+<minecraft:sign>, Sign
+<minecraft:skull>, Skeleton Skull
+<minecraft:slime_ball>, Slimeball
+<minecraft:snow>, Snow
+<minecraft:snow_layer>, Snow
+<minecraft:snowball>, Snowball
+<minecraft:soul_sand>, Soul Sand
+<minecraft:spawn_egg>, Spawn
+<minecraft:speckled_melon>, Glistering Melon
+<minecraft:spider_eye>, Spider Eye
+<minecraft:sponge>, Sponge
+<minecraft:spruce_stairs>, Spruce Wood Stairs
+<minecraft:stained_glass>, White Stained Glass
+<minecraft:stained_glass_pane>, White Stained Glass Pane
+<minecraft:stained_hardened_clay>, White Stained Clay
+<minecraft:stick>, Stick
+<minecraft:sticky_piston>, Sticky Piston
+<minecraft:stone>, Stone
+<minecraft:stone_axe>, Stone Axe
+<minecraft:stone_brick_stairs>, Stone Brick Stairs
+<minecraft:stone_button>, Button
+<minecraft:stone_hoe>, Stone Hoe
+<minecraft:stone_pickaxe>, Stone Pickaxe
+<minecraft:stone_pressure_plate>, Pressure Plate
+<minecraft:stone_shovel>, Stone Shovel
+<minecraft:stone_slab>, Stone Slab
+<minecraft:stone_stairs>, Stone Stairs
+<minecraft:stone_sword>, Stone Sword
+<minecraft:stonebrick>, Stone Bricks
+<minecraft:string>, String
+<minecraft:sugar>, Sugar
+<minecraft:tallgrass>, Shrub
+<minecraft:tnt>, TNT
+<minecraft:tnt_minecart>, Minecart with TNT
+<minecraft:torch>, Torch
+<minecraft:trapdoor>, Trapdoor
+<minecraft:trapped_chest>, Trapped Chest
+<minecraft:tripwire_hook>, Tripwire Hook
+<minecraft:vine>, Vines
+<minecraft:water>, Water
+<minecraft:water_bucket>, Water Bucket
+<minecraft:waterlily>, Lily Pad
+<minecraft:web>, Cobweb
+<minecraft:wheat>, Wheat
+<minecraft:wheat_seeds>, Seeds
+<minecraft:wooden_axe>, Wooden Axe
+<minecraft:wooden_button>, Button
+<minecraft:wooden_door>, Wooden Door
+<minecraft:wooden_hoe>, Wooden Hoe
+<minecraft:wooden_pickaxe>, Wooden Pickaxe
+<minecraft:wooden_pressure_plate>, Pressure Plate
+<minecraft:wooden_shovel>, Wooden Shovel
+<minecraft:wooden_slab>, Oak Wood Slab
+<minecraft:wooden_sword>, Wooden Sword
+<minecraft:wool>, Wool
+<minecraft:writable_book>, Book and Quill
+<minecraft:written_book>, Written Book
+<minecraft:yellow_flower>, Dandelion
+<terrafirmacraftplus:Anvil>, Stone Anvil
+<terrafirmacraftplus:Anvil2>, Rose Gold Anvil
+<terrafirmacraftplus:ArmourStand>, Oak Armor Stand
+<terrafirmacraftplus:ArmourStand2>, Acacia Armor Stand
+<terrafirmacraftplus:ArmourStand3>, Yew Armor Stand
+<terrafirmacraftplus:Barrel>, Oak Barrel
+<terrafirmacraftplus:Basket>, Basket
+<terrafirmacraftplus:Bear Teepee>, Bear Fur Teepee
+<terrafirmacraftplus:Beehive>, Basket Hive
+<terrafirmacraftplus:Bellows>, Bellows
+<terrafirmacraftplus:BerryBush>, Wintergreen Bush
+<terrafirmacraftplus:BigDrum>, Drum
+<terrafirmacraftplus:BlockInvisible>, tile.InvisibleBlock.name
+<terrafirmacraftplus:Bloom>, Iron Bloom
+<terrafirmacraftplus:Bloomery>, Blast Furnace
+<terrafirmacraftplus:Bookshelf>, Bookshelf
+<terrafirmacraftplus:BrainCoral>, Brain Coral
+<terrafirmacraftplus:Branch2_XYZ>, Acacia Log
+<terrafirmacraftplus:Branch2_XY_>, Acacia Log
+<terrafirmacraftplus:Branch2_XYz>, Acacia Log
+<terrafirmacraftplus:Branch2_X_Z>, Acacia Log
+<terrafirmacraftplus:Branch2_X__>, Acacia Log
+<terrafirmacraftplus:Branch2_X_z>, Acacia Log
+<terrafirmacraftplus:Branch2_XyZ>, Acacia Log
+<terrafirmacraftplus:Branch2_Xy_>, Acacia Log
+<terrafirmacraftplus:Branch2_Xyz>, Acacia Log
+<terrafirmacraftplus:Branch2__YZ>, Acacia Log
+<terrafirmacraftplus:Branch2__Yz>, Acacia Log
+<terrafirmacraftplus:Branch2___Z>, Acacia Log
+<terrafirmacraftplus:Branch2___z>, Acacia Log
+<terrafirmacraftplus:Branch2__yZ>, Acacia Log
+<terrafirmacraftplus:Branch2__y_>, Acacia Log
+<terrafirmacraftplus:Branch2__yz>, Acacia Log
+<terrafirmacraftplus:Branch2_xYZ>, Acacia Log
+<terrafirmacraftplus:Branch2_xY_>, Acacia Log
+<terrafirmacraftplus:Branch2_xYz>, Acacia Log
+<terrafirmacraftplus:Branch2_x_Z>, Acacia Log
+<terrafirmacraftplus:Branch2_x__>, Acacia Log
+<terrafirmacraftplus:Branch2_x_z>, Acacia Log
+<terrafirmacraftplus:Branch2_xyZ>, Acacia Log
+<terrafirmacraftplus:Branch2_xy_>, Acacia Log
+<terrafirmacraftplus:Branch2_xyz>, Acacia Log
+<terrafirmacraftplus:Branch3_XYZ>, Yew Log
+<terrafirmacraftplus:Branch3_XY_>, Yew Log
+<terrafirmacraftplus:Branch3_XYz>, Yew Log
+<terrafirmacraftplus:Branch3_X_Z>, Yew Log
+<terrafirmacraftplus:Branch3_X__>, Yew Log
+<terrafirmacraftplus:Branch3_X_z>, Yew Log
+<terrafirmacraftplus:Branch3_XyZ>, Yew Log
+<terrafirmacraftplus:Branch3_Xy_>, Yew Log
+<terrafirmacraftplus:Branch3_Xyz>, Yew Log
+<terrafirmacraftplus:Branch3__YZ>, Yew Log
+<terrafirmacraftplus:Branch3__Yz>, Yew Log
+<terrafirmacraftplus:Branch3___Z>, Yew Log
+<terrafirmacraftplus:Branch3___z>, Yew Log
+<terrafirmacraftplus:Branch3__yZ>, Yew Log
+<terrafirmacraftplus:Branch3__y_>, Yew Log
+<terrafirmacraftplus:Branch3__yz>, Yew Log
+<terrafirmacraftplus:Branch3_xYZ>, Yew Log
+<terrafirmacraftplus:Branch3_xY_>, Yew Log
+<terrafirmacraftplus:Branch3_xYz>, Yew Log
+<terrafirmacraftplus:Branch3_x_Z>, Yew Log
+<terrafirmacraftplus:Branch3_x__>, Yew Log
+<terrafirmacraftplus:Branch3_x_z>, Yew Log
+<terrafirmacraftplus:Branch3_xyZ>, Yew Log
+<terrafirmacraftplus:Branch3_xy_>, Yew Log
+<terrafirmacraftplus:Branch3_xyz>, Yew Log
+<terrafirmacraftplus:BranchEnd2_XYZ>, Acacia Log
+<terrafirmacraftplus:BranchEnd2_XY_>, Acacia Log
+<terrafirmacraftplus:BranchEnd2_XYz>, Acacia Log
+<terrafirmacraftplus:BranchEnd2_X_Z>, Acacia Log
+<terrafirmacraftplus:BranchEnd2_X__>, Acacia Log
+<terrafirmacraftplus:BranchEnd2_X_z>, Acacia Log
+<terrafirmacraftplus:BranchEnd2_XyZ>, Acacia Log
+<terrafirmacraftplus:BranchEnd2_Xy_>, Acacia Log
+<terrafirmacraftplus:BranchEnd2_Xyz>, Acacia Log
+<terrafirmacraftplus:BranchEnd2__YZ>, Acacia Log
+<terrafirmacraftplus:BranchEnd2__Yz>, Acacia Log
+<terrafirmacraftplus:BranchEnd2___Z>, Acacia Log
+<terrafirmacraftplus:BranchEnd2___z>, Acacia Log
+<terrafirmacraftplus:BranchEnd2__yZ>, Acacia Log
+<terrafirmacraftplus:BranchEnd2__y_>, Acacia Log
+<terrafirmacraftplus:BranchEnd2__yz>, Acacia Log
+<terrafirmacraftplus:BranchEnd2_xYZ>, Acacia Log
+<terrafirmacraftplus:BranchEnd2_xY_>, Acacia Log
+<terrafirmacraftplus:BranchEnd2_xYz>, Acacia Log
+<terrafirmacraftplus:BranchEnd2_x_Z>, Acacia Log
+<terrafirmacraftplus:BranchEnd2_x__>, Acacia Log
+<terrafirmacraftplus:BranchEnd2_x_z>, Acacia Log
+<terrafirmacraftplus:BranchEnd2_xyZ>, Acacia Log
+<terrafirmacraftplus:BranchEnd2_xy_>, Acacia Log
+<terrafirmacraftplus:BranchEnd2_xyz>, Acacia Log
+<terrafirmacraftplus:BranchEnd3_XYZ>, Yew Log
+<terrafirmacraftplus:BranchEnd3_XY_>, Yew Log
+<terrafirmacraftplus:BranchEnd3_XYz>, Yew Log
+<terrafirmacraftplus:BranchEnd3_X_Z>, Yew Log
+<terrafirmacraftplus:BranchEnd3_X__>, Yew Log
+<terrafirmacraftplus:BranchEnd3_X_z>, Yew Log
+<terrafirmacraftplus:BranchEnd3_XyZ>, Yew Log
+<terrafirmacraftplus:BranchEnd3_Xy_>, Yew Log
+<terrafirmacraftplus:BranchEnd3_Xyz>, Yew Log
+<terrafirmacraftplus:BranchEnd3__YZ>, Yew Log
+<terrafirmacraftplus:BranchEnd3__Yz>, Yew Log
+<terrafirmacraftplus:BranchEnd3___Z>, Yew Log
+<terrafirmacraftplus:BranchEnd3___z>, Yew Log
+<terrafirmacraftplus:BranchEnd3__yZ>, Yew Log
+<terrafirmacraftplus:BranchEnd3__y_>, Yew Log
+<terrafirmacraftplus:BranchEnd3__yz>, Yew Log
+<terrafirmacraftplus:BranchEnd3_xYZ>, Yew Log
+<terrafirmacraftplus:BranchEnd3_xY_>, Yew Log
+<terrafirmacraftplus:BranchEnd3_xYz>, Yew Log
+<terrafirmacraftplus:BranchEnd3_x_Z>, Yew Log
+<terrafirmacraftplus:BranchEnd3_x__>, Yew Log
+<terrafirmacraftplus:BranchEnd3_x_z>, Yew Log
+<terrafirmacraftplus:BranchEnd3_xyZ>, Yew Log
+<terrafirmacraftplus:BranchEnd3_xy_>, Yew Log
+<terrafirmacraftplus:BranchEnd3_xyz>, Yew Log
+<terrafirmacraftplus:BranchEnd_XYZ>, Oak Log
+<terrafirmacraftplus:BranchEnd_XY_>, Oak Log
+<terrafirmacraftplus:BranchEnd_XYz>, Oak Log
+<terrafirmacraftplus:BranchEnd_X_Z>, Oak Log
+<terrafirmacraftplus:BranchEnd_X__>, Oak Log
+<terrafirmacraftplus:BranchEnd_X_z>, Oak Log
+<terrafirmacraftplus:BranchEnd_XyZ>, Oak Log
+<terrafirmacraftplus:BranchEnd_Xy_>, Oak Log
+<terrafirmacraftplus:BranchEnd_Xyz>, Oak Log
+<terrafirmacraftplus:BranchEnd__YZ>, Oak Log
+<terrafirmacraftplus:BranchEnd__Yz>, Oak Log
+<terrafirmacraftplus:BranchEnd___Z>, Oak Log
+<terrafirmacraftplus:BranchEnd___z>, Oak Log
+<terrafirmacraftplus:BranchEnd__yZ>, Oak Log
+<terrafirmacraftplus:BranchEnd__y_>, Oak Log
+<terrafirmacraftplus:BranchEnd__yz>, Oak Log
+<terrafirmacraftplus:BranchEnd_xYZ>, Oak Log
+<terrafirmacraftplus:BranchEnd_xY_>, Oak Log
+<terrafirmacraftplus:BranchEnd_xYz>, Oak Log
+<terrafirmacraftplus:BranchEnd_x_Z>, Oak Log
+<terrafirmacraftplus:BranchEnd_x__>, Oak Log
+<terrafirmacraftplus:BranchEnd_x_z>, Oak Log
+<terrafirmacraftplus:BranchEnd_xyZ>, Oak Log
+<terrafirmacraftplus:BranchEnd_xy_>, Oak Log
+<terrafirmacraftplus:BranchEnd_xyz>, Oak Log
+<terrafirmacraftplus:Branch_XYZ>, Oak Log
+<terrafirmacraftplus:Branch_XY_>, Oak Log
+<terrafirmacraftplus:Branch_XYz>, Oak Log
+<terrafirmacraftplus:Branch_X_Z>, Oak Log
+<terrafirmacraftplus:Branch_X__>, Oak Log
+<terrafirmacraftplus:Branch_X_z>, Oak Log
+<terrafirmacraftplus:Branch_XyZ>, Oak Log
+<terrafirmacraftplus:Branch_Xy_>, Oak Log
+<terrafirmacraftplus:Branch_Xyz>, Oak Log
+<terrafirmacraftplus:Branch__YZ>, Oak Log
+<terrafirmacraftplus:Branch__Yz>, Oak Log
+<terrafirmacraftplus:Branch___Z>, Oak Log
+<terrafirmacraftplus:Branch___z>, Oak Log
+<terrafirmacraftplus:Branch__yZ>, Oak Log
+<terrafirmacraftplus:Branch__y_>, Oak Log
+<terrafirmacraftplus:Branch__yz>, Oak Log
+<terrafirmacraftplus:Branch_xYZ>, Oak Log
+<terrafirmacraftplus:Branch_xY_>, Oak Log
+<terrafirmacraftplus:Branch_xYz>, Oak Log
+<terrafirmacraftplus:Branch_x_Z>, Oak Log
+<terrafirmacraftplus:Branch_x__>, Oak Log
+<terrafirmacraftplus:Branch_x_z>, Oak Log
+<terrafirmacraftplus:Branch_xyZ>, Oak Log
+<terrafirmacraftplus:Branch_xy_>, Oak Log
+<terrafirmacraftplus:Branch_xyz>, Oak Log
+<terrafirmacraftplus:Bricks>, Brick Block
+<terrafirmacraftplus:ButtonWood>, Wooden Button
+<terrafirmacraftplus:Cactus>, Cactus
+<terrafirmacraftplus:Candle>, Lit Candle
+<terrafirmacraftplus:CandleBrass>, Lit Brass Candlestick
+<terrafirmacraftplus:CandleBrassOff>, Brass Candlestick
+<terrafirmacraftplus:CandleGold>, Lit Gold Candlestick
+<terrafirmacraftplus:CandleGoldOff>, Gold Candlestick
+<terrafirmacraftplus:CandleOff>, Candle
+<terrafirmacraftplus:CandlePewter>, Lit Pewter Candlestick
+<terrafirmacraftplus:CandlePewterOff>, Pewter Candlestick
+<terrafirmacraftplus:CandleRoseGold>, Lit Rose Gold Candlestick
+<terrafirmacraftplus:CandleRoseGoldOff>, Rose Gold Candlestick
+<terrafirmacraftplus:CandleSilver>, Lit Silver Candlestick
+<terrafirmacraftplus:CandleSilverOff>, Silver Candlestick
+<terrafirmacraftplus:CandleSterlingSilver>, Lit Sterling Silver Candlestick
+<terrafirmacraftplus:CandleSterlingSilverOff>, Sterling Silver Candlestick
+<terrafirmacraftplus:Charcoal>, Charcoal
+<terrafirmacraftplus:Chest TFC>, Oak Chest
+<terrafirmacraftplus:Clay>, Clay
+<terrafirmacraftplus:Clay2>, Clay
+<terrafirmacraftplus:ClayGrass>, Clay Grass
+<terrafirmacraftplus:ClayGrass2>, Clay Grass
+<terrafirmacraftplus:ClayPottery>, Pottery
+<terrafirmacraftplus:CopperRoof>, Copper Roof
+<terrafirmacraftplus:CopperRoofCenter>, Copper Roof Peak
+<terrafirmacraftplus:Coracle>, Coracle Construction
+<terrafirmacraftplus:Coracle0>, Unfinished Coracle
+<terrafirmacraftplus:Coracle1>, Unfinished Coracle
+<terrafirmacraftplus:Coracle2>, Unfinished Coracle
+<terrafirmacraftplus:Coral>, Coral
+<terrafirmacraftplus:Crops>, Crops
+<terrafirmacraftplus:Crucible>, Crucible
+<terrafirmacraftplus:Detailed>, Detailed
+<terrafirmacraftplus:Dirt>, Dirt
+<terrafirmacraftplus:Dirt2>, Dirt
+<terrafirmacraftplus:DirtRoad>, Dirt Road
+<terrafirmacraftplus:DoorAcacia>, Acacia Door
+<terrafirmacraftplus:DoorAsh>, Ash Door
+<terrafirmacraftplus:DoorAspen>, Aspen Door
+<terrafirmacraftplus:DoorBamboo>, Bamboo Door
+<terrafirmacraftplus:DoorBaobab>, Baobab Door
+<terrafirmacraftplus:DoorBirch>, Birch Door
+<terrafirmacraftplus:DoorChestnut>, Chestnut Door
+<terrafirmacraftplus:DoorDouglasFir>, Douglas Fir Door
+<terrafirmacraftplus:DoorEbony>, Ebony Door
+<terrafirmacraftplus:DoorFever>, Fever Door
+<terrafirmacraftplus:DoorFruitwood>, Fruitwood Door
+<terrafirmacraftplus:DoorGhaf>, Ghaf Door
+<terrafirmacraftplus:DoorGingko>, Gingko Door
+<terrafirmacraftplus:DoorHickory>, Hickory Door
+<terrafirmacraftplus:DoorJoshua>, Joshua Door
+<terrafirmacraftplus:DoorKapok>, Kapok Door
+<terrafirmacraftplus:DoorLaurel>, Laurel Door
+<terrafirmacraftplus:DoorLimba>, Limba Door
+<terrafirmacraftplus:DoorMahoe>, Mahoe Door
+<terrafirmacraftplus:DoorMahogany>, Mahogany Door
+<terrafirmacraftplus:DoorMangrove>, Mangrove Door
+<terrafirmacraftplus:DoorMaple>, Maple Door
+<terrafirmacraftplus:DoorOak>, Oak Door
+<terrafirmacraftplus:DoorPalm>, Palm Door
+<terrafirmacraftplus:DoorPine>, Pine Door
+<terrafirmacraftplus:DoorSequoia>, Sequoia Door
+<terrafirmacraftplus:DoorSpruce>, Spruce Door
+<terrafirmacraftplus:DoorSycamore>, Sycamore Door
+<terrafirmacraftplus:DoorTeak>, Teak Door
+<terrafirmacraftplus:DoorWattle>, Wattle Door
+<terrafirmacraftplus:DoorWhiteCedar>, White Cedar Door
+<terrafirmacraftplus:DoorWhiteElm>, White Elm Door
+<terrafirmacraftplus:DoorWillow>, Willow Door
+<terrafirmacraftplus:DoorYew>, Yew Door
+<terrafirmacraftplus:DryGrass>, Dry Grass
+<terrafirmacraftplus:DryGrass2>, Dry Grass
+<terrafirmacraftplus:EarlyBloomery>, Bloomery
+<terrafirmacraftplus:Fake Palm>, tile.Fake Palm.name
+<terrafirmacraftplus:FanCoral>, Fan Coral
+<terrafirmacraftplus:Fence>, Oak Fence
+<terrafirmacraftplus:Fence2>, Acacia Fence
+<terrafirmacraftplus:Fence3>, Yew Fence
+<terrafirmacraftplus:FenceGate>, Oak Fence Gate
+<terrafirmacraftplus:FenceGate2>, Acacia Fence Gate
+<terrafirmacraftplus:FenceGate3>, Yew Fence Gate
+<terrafirmacraftplus:FireBrick>, Fire Brick Block
+<terrafirmacraftplus:Firepit>, Firepit
+<terrafirmacraftplus:Flora>, Goldenrod
+<terrafirmacraftplus:FlowerPot>, Flower Pot
+<terrafirmacraftplus:Flowers>, Dandelion
+<terrafirmacraftplus:Flowers2>, Poppy
+<terrafirmacraftplus:FoodPrep>, Food Prep
+<terrafirmacraftplus:Forge>, Forge
+<terrafirmacraftplus:FreshWater>, Fresh Water Flowing
+<terrafirmacraftplus:FreshWaterStationary>, Fresh Water
+<terrafirmacraftplus:Fungi>, Brown Mushroom
+<terrafirmacraftplus:Fur Teepee>, Fur Teepee
+<terrafirmacraftplus:Grass>, Grass
+<terrafirmacraftplus:Grass2>, Grass
+<terrafirmacraftplus:Gravel>, Gravel
+<terrafirmacraftplus:Gravel2>, Gravel
+<terrafirmacraftplus:GreenCopperRoof>, Green Copper Roof
+<terrafirmacraftplus:GreenCopperRoofCenter>, Green Copper Roof Peak
+<terrafirmacraftplus:Grill>, Grill
+<terrafirmacraftplus:Hopper>, Hopper
+<terrafirmacraftplus:HotWater>, Hot Springs Flowing
+<terrafirmacraftplus:HotWaterStationary>, Hot Springs
+<terrafirmacraftplus:Ice>, Ice
+<terrafirmacraftplus:IngotPile>, Ingot Pile
+<terrafirmacraftplus:Lava>, Lava Flowing
+<terrafirmacraftplus:LavaStationary>, Lava
+<terrafirmacraftplus:LeatherRack>, Leather Rack
+<terrafirmacraftplus:LilyPad>, Lilypad
+<terrafirmacraftplus:LitPumpkin>, Jack o'Lantern
+<terrafirmacraftplus:LittleDrum>, Drum
+<terrafirmacraftplus:LogPile>, Log Pile
+<terrafirmacraftplus:Loom>, Oak Loom
+<terrafirmacraftplus:LooseRock>, Debris
+<terrafirmacraftplus:MangroveRoot>, Mangrove Roots
+<terrafirmacraftplus:MangroveRootWaterlogged>, Mangrove Roots
+<terrafirmacraftplus:Melon>, Melon
+<terrafirmacraftplus:MetalSheet>, Metal Sheet
+<terrafirmacraftplus:MetalTrapDoor>, Trap Door
+<terrafirmacraftplus:Molten>, Molten Ore
+<terrafirmacraftplus:Moss>, Moss
+<terrafirmacraftplus:NestBox>, Nest Box
+<terrafirmacraftplus:OilLamp>, Gold Oil Lamp
+<terrafirmacraftplus:Ore1>, Ore
+<terrafirmacraftplus:Ore1b>, Ore
+<terrafirmacraftplus:Ore2>, Ore
+<terrafirmacraftplus:Ore3>, Ore
+<terrafirmacraftplus:Peat>, Peat
+<terrafirmacraftplus:PeatGrass>, Peat Grass
+<terrafirmacraftplus:Primitive Loom>, Stick Loom
+<terrafirmacraftplus:Pumpkin>, Pumpkin
+<terrafirmacraftplus:Quern>, Quern Base
+<terrafirmacraftplus:Reeds>, Reeds
+<terrafirmacraftplus:ResinKnife>, Knife
+<terrafirmacraftplus:Rope Ladder>, Rope Ladder
+<terrafirmacraftplus:Salammoniac>, Salammoniac
+<terrafirmacraftplus:SaltWater>, Salt Water Flowing
+<terrafirmacraftplus:SaltWaterStationary>, Salt Water
+<terrafirmacraftplus:Sand>, Sand
+<terrafirmacraftplus:Sand2>, Sand
+<terrafirmacraftplus:Scallop>, tile.Scallop.name
+<terrafirmacraftplus:SeaGrassStill>, Seagrass
+<terrafirmacraftplus:ShallowCopperRoof>, Shallow Copper Roof
+<terrafirmacraftplus:ShallowCopperRoofCenter>, Shallow Copper Roof Peak
+<terrafirmacraftplus:ShallowGreenCopperRoof>, Shallow Green Copper Roof Peak
+<terrafirmacraftplus:ShallowGreenCopperRoofCenter>, Shallow Green Copper Roof Peak
+<terrafirmacraftplus:ShallowSlateRoof>, Shallow Slate Roof
+<terrafirmacraftplus:ShallowSlateRoofCenter>, Shallow Slate Roof Peak
+<terrafirmacraftplus:ShallowTileRoof>, Shallow Ceramic Tile Roof
+<terrafirmacraftplus:ShallowTileRoofCenter>, Shallow Ceramic Tile Roof Peak
+<terrafirmacraftplus:SlateRoofCenter>, Slate Roof Peak
+<terrafirmacraftplus:Sluice>, Sluice
+<terrafirmacraftplus:Smoke>, Smoke
+<terrafirmacraftplus:SmokeRack>, Smoke Rack
+<terrafirmacraftplus:Snow>, Snow
+<terrafirmacraftplus:SpawnMeter>, Protection Meter
+<terrafirmacraftplus:StackedWoodHoriz>, Stacked Oak Log
+<terrafirmacraftplus:StackedWoodHoriz2>, Stacked Pine Log
+<terrafirmacraftplus:StackedWoodHoriz3>, Stacked Acacia Log
+<terrafirmacraftplus:StackedWoodHoriz4>, Stacked Bamboo Logs
+<terrafirmacraftplus:StackedWoodHoriz5>, Stacked Yew Logs
+<terrafirmacraftplus:StackedWoodHoriz6>, Unknown.name
+<terrafirmacraftplus:StackedWoodVert>, Stacked Oak Logs
+<terrafirmacraftplus:StackedWoodVert2>, Stacked Acacia Logs
+<terrafirmacraftplus:StackedWoodVert3>, Stacked Yew Logs
+<terrafirmacraftplus:StaghornCoral>, Staghorn Coral
+<terrafirmacraftplus:Starfish>, tile.Starfish.name
+<terrafirmacraftplus:SteepCopperRoof>, Steep Copper Roof
+<terrafirmacraftplus:SteepCopperRoofCenter>, Steep Copper Roof Peak
+<terrafirmacraftplus:SteepGreenCopperRoof>, Steep Green Copper Roof
+<terrafirmacraftplus:SteepGreenCopperRoofCenter>, Steep Green Copper Roof Peak
+<terrafirmacraftplus:SteepSlateRoof>, Steep Slate Roof
+<terrafirmacraftplus:SteepSlateRoofCenter>, Steep Slate Roof Peak
+<terrafirmacraftplus:SteepThatchRoof>, Steep Thatch Roof
+<terrafirmacraftplus:SteepThatchRoofCenter>, Steep Thatch Roof Peak
+<terrafirmacraftplus:SteepTileRoof>, Steep Ceramic Tile Roof
+<terrafirmacraftplus:SteepTileRoofCenter>, Steep Ceramic Tile Roof Peak
+<terrafirmacraftplus:Stick Teepee>, Wicker Teepee
+<terrafirmacraftplus:StoneHopper>, Quartzite Hopper
+<terrafirmacraftplus:StoneIgEx>, Rhyolite
+<terrafirmacraftplus:StoneIgExBrick>, Rhyolite Bricks
+<terrafirmacraftplus:StoneIgExCobble>, Rhyolite Cobblestone
+<terrafirmacraftplus:StoneIgExLargeBrick>, Rhyolite Large Bricks
+<terrafirmacraftplus:StoneIgExSmooth>, Smooth Rhyolite
+<terrafirmacraftplus:StoneIgIn>, Granite
+<terrafirmacraftplus:StoneIgInBrick>, Granite Bricks
+<terrafirmacraftplus:StoneIgInCobble>, Granite Cobblestone
+<terrafirmacraftplus:StoneIgInLargeBrick>, Granite Large Bricks
+<terrafirmacraftplus:StoneIgInSmooth>, Smooth Granite
+<terrafirmacraftplus:StoneMM>, Quartzite
+<terrafirmacraftplus:StoneMMBrick>, Quartzite Bricks
+<terrafirmacraftplus:StoneMMCobble>, Quartzite Cobblestone
+<terrafirmacraftplus:StoneMMLargeBrick>, Quartzite Large Bricks
+<terrafirmacraftplus:StoneMMSmooth>, Smooth Quartzite
+<terrafirmacraftplus:StoneRoad>, Stone Road
+<terrafirmacraftplus:StoneSed>, Shale
+<terrafirmacraftplus:StoneSedBrick>, Shale Bricks
+<terrafirmacraftplus:StoneSedCobble>, Shale Cobblestone
+<terrafirmacraftplus:StoneSedLargeBrick>, Shale Large Bricks
+<terrafirmacraftplus:StoneSedSmooth>, Smooth Shale
+<terrafirmacraftplus:StrawHideBed>, Straw & Hide Bed
+<terrafirmacraftplus:Sulfur>, Sulfur
+<terrafirmacraftplus:TableCoral>, Table Coral
+<terrafirmacraftplus:TallGrass>, Tall Grass
+<terrafirmacraftplus:TanninWater>, tile.TanninWater.name
+<terrafirmacraftplus:TanninWaterStationary>, tile.TanninWaterStationary.name
+<terrafirmacraftplus:Teepee>, Teepee
+<terrafirmacraftplus:Thatch>, Straw Block
+<terrafirmacraftplus:ThatchRoofCenter>, Thatch Roof Peak
+<terrafirmacraftplus:TileRoof>, Ceramic Tile Roof
+<terrafirmacraftplus:TileRoofCenter>, Ceramic Tile Roof Peak
+<terrafirmacraftplus:ToolRack>, Oak Tool Rack
+<terrafirmacraftplus:Torch>, Torch
+<terrafirmacraftplus:TorchOff>, Extinguished Torch
+<terrafirmacraftplus:Treehive>, Beehive
+<terrafirmacraftplus:TubeCoral>, Tuble Coral
+<terrafirmacraftplus:UnlitPumpkin>, Unlit Jack o' Lantern
+<terrafirmacraftplus:Vessel>, Large Vessel
+<terrafirmacraftplus:Vine>, Vine
+<terrafirmacraftplus:WallBrickIgEx>, Rhyolite Brick Wall
+<terrafirmacraftplus:WallBrickIgIn>, Granite Brick Wall
+<terrafirmacraftplus:WallBrickMM>, Quartzite Brick Wall
+<terrafirmacraftplus:WallBrickSed>, Shale Brick Wall
+<terrafirmacraftplus:WallCobbleIgEx>, Rhyolite Cobblestone Wall
+<terrafirmacraftplus:WallCobbleIgIn>, Granite Cobblestone Wall
+<terrafirmacraftplus:WallCobbleMM>, Quartzite Cobblestone Wall
+<terrafirmacraftplus:WallCobbleSed>, Shale Cobblestone Wall
+<terrafirmacraftplus:WallLargeBrickIgEx>, Rhyolite Brick Wall
+<terrafirmacraftplus:WallLargeBrickIgIn>, Granite Brick Wall
+<terrafirmacraftplus:WallLargeBrickMM>, Quartzite Brick Wall
+<terrafirmacraftplus:WallLargeBrickSed>, Shale Brick Wall
+<terrafirmacraftplus:WallRawIgEx>, Rhyolite Wall
+<terrafirmacraftplus:WallRawIgIn>, Granite Wall
+<terrafirmacraftplus:WallRawMM>, Quartzite Wall
+<terrafirmacraftplus:WallRawSed>, Shale Wall
+<terrafirmacraftplus:WallSmoothIgEx>, Rhyolite Smooth Wall
+<terrafirmacraftplus:WallSmoothIgIn>, Granite Smooth Wall
+<terrafirmacraftplus:WallSmoothMM>, Quartzite Smooth Wall
+<terrafirmacraftplus:WallSmoothSed>, Shale Smooth Wall
+<terrafirmacraftplus:WaterWheel>, Waterwheel
+<terrafirmacraftplus:Wattle Wall>, Wattle
+<terrafirmacraftplus:Wattle and Daub>, Wattle and Daub
+<terrafirmacraftplus:WildBeehive>, Beehive
+<terrafirmacraftplus:Wolf Teepee>, Wolf Fur Teepee
+<terrafirmacraftplus:WoodAxle>, Wooden Axle
+<terrafirmacraftplus:WoodAxleBearing>, Wooden Axle Bearing
+<terrafirmacraftplus:WoodAxleCouple>, Wooden Axle Couple
+<terrafirmacraftplus:WoodConstruct>, Lumber
+<terrafirmacraftplus:WoodCrankshaft>, Wooden Crankshaft
+<terrafirmacraftplus:WoodGears>, tile.WoodGears.name
+<terrafirmacraftplus:WoodHoriz>, Oak Log
+<terrafirmacraftplus:WoodHoriz2>, Pine Log
+<terrafirmacraftplus:WoodHoriz3>, Acacia Log
+<terrafirmacraftplus:WoodHoriz4>, Bamboo Log
+<terrafirmacraftplus:WoodHoriz5>, Yew Log
+<terrafirmacraftplus:WoodHoriz6>, Unknown.name
+<terrafirmacraftplus:WoodSupportH>, Oak Support Beam
+<terrafirmacraftplus:WoodSupportH2>, Acacia Support Beam
+<terrafirmacraftplus:WoodSupportH3>, Yew Support Beam
+<terrafirmacraftplus:WoodSupportV>, Oak Support Beam
+<terrafirmacraftplus:WoodSupportV2>, Acacia Support Beam
+<terrafirmacraftplus:WoodSupportV3>, Yew Support Beam
+<terrafirmacraftplus:WoodVert>, Oak Log
+<terrafirmacraftplus:WoodVert2>, Acacia Log
+<terrafirmacraftplus:WoodVert3>, Yew Log
+<terrafirmacraftplus:WoodenSpear>, Wooden Spear
+<terrafirmacraftplus:Workbench>, Workbench
+<terrafirmacraftplus:brickChimney>, Brick Chimney
+<terrafirmacraftplus:cLights>, tile.Lights.name
+<terrafirmacraftplus:chimneyBricks>, Granite Brick Chimney
+<terrafirmacraftplus:chimneyBricks2>, Slate Brick Chimney
+<terrafirmacraftplus:chimneyLargeBricks>, Granite Brick Chimney
+<terrafirmacraftplus:chimneyLargeBricks2>, Slate Brick Chimney
+<terrafirmacraftplus:dryingBricks>, Mud Bricks
+<terrafirmacraftplus:fern>, Fern
+<terrafirmacraftplus:fruitTreeLeaves>, Fruit Tree Leaves
+<terrafirmacraftplus:fruitTreeLeaves2>, Fruit Tree Leaves
+<terrafirmacraftplus:fruitTreeWood>, Fruit Tree
+<terrafirmacraftplus:item.2x Candle Holder Mold>, Clay Double Candle Holder Mold
+<terrafirmacraftplus:item.3x Candle Holder Mold>, Clay Triple Candle Holder Mold
+<terrafirmacraftplus:item.Acacia Door>, Acacia Door
+<terrafirmacraftplus:item.Agate>, Chipped Agate
+<terrafirmacraftplus:item.Agave>, Agave
+<terrafirmacraftplus:item.Agave Juice>, Bottle of Agave Juice
+<terrafirmacraftplus:item.Agave JuicePottery>, Agave Juice Jug
+<terrafirmacraftplus:item.Agave Wine>, Bottle of Agave Wine
+<terrafirmacraftplus:item.Agave WinePottery>, Agave Wine Jug
+<terrafirmacraftplus:item.Amethyst>, Chipped Amethyst
+<terrafirmacraftplus:item.AmmoniumChlorideBall>, Ammonium Chloride Ball
+<terrafirmacraftplus:item.AncientPlough>, item.AncientPlough.name
+<terrafirmacraftplus:item.Apple Juice>, Bottle of Apple Juice
+<terrafirmacraftplus:item.Apple JuicePottery>, Apple Juice Jug
+<terrafirmacraftplus:item.Applejack>, Bottle of Applejack
+<terrafirmacraftplus:item.Ash Door>, Ash Door
+<terrafirmacraftplus:item.Aspen Door>, Aspen Door
+<terrafirmacraftplus:item.Axe Mold>, Clay Axe Mold
+<terrafirmacraftplus:item.Bag Piece>, Leather Bag Piece
+<terrafirmacraftplus:item.Bamboo Door>, Bamboo Door
+<terrafirmacraftplus:item.Banana>, Banana
+<terrafirmacraftplus:item.Bandage>, Bandages
+<terrafirmacraftplus:item.Baobab Door>, Baobab Door
+<terrafirmacraftplus:item.Barley Bread>, Barley Bread
+<terrafirmacraftplus:item.Barley Dough>, Barley Dough
+<terrafirmacraftplus:item.Barley Germ>, Barley Malt
+<terrafirmacraftplus:item.Barley Grain>, Barley Grain
+<terrafirmacraftplus:item.Barley Ground>, Barley Flour
+<terrafirmacraftplus:item.Barley Whole>, Barley
+<terrafirmacraftplus:item.Barley Wine>, Bottle of Barley Wine
+<terrafirmacraftplus:item.Barley WinePottery>, Barley Wine Jug
+<terrafirmacraftplus:item.BarleyWhiskey>, Bottle of Barley Whiskey
+<terrafirmacraftplus:item.Bear Fur>, Small Bear Fur
+<terrafirmacraftplus:item.Bear Fur Boots>, Bear Fur Boots
+<terrafirmacraftplus:item.Bear Fur Cloak>, Bear Fur Cloak
+<terrafirmacraftplus:item.Bear Fur Coat>, Bear Fur Coat
+<terrafirmacraftplus:item.Bear Fur Generic Hat>, Bear Fur Hat
+<terrafirmacraftplus:item.Bear Fur Hat>, Bear Fur Hat
+<terrafirmacraftplus:item.Bear Fur Pants>, Bear Fur Pants
+<terrafirmacraftplus:item.Bear Fur Scrap>, Small Bear Fur Scrap
+<terrafirmacraftplus:item.Beef>, Beef
+<terrafirmacraftplus:item.Beer>, Bottle of Beer
+<terrafirmacraftplus:item.BeerPottery>, Beer Jug
+<terrafirmacraftplus:item.Berry Juice>, Bottle of Berry Juice
+<terrafirmacraftplus:item.Berry JuicePottery>, Berry Juice Jug
+<terrafirmacraftplus:item.BerryBrandy>, Bottle of Berry Brandy
+<terrafirmacraftplus:item.BerryWine>, Bottle of Berry Wine
+<terrafirmacraftplus:item.BerryWinePottery>, Berry Wine Jug
+<terrafirmacraftplus:item.Beryl>, Chipped Beryl
+<terrafirmacraftplus:item.Birch Door>, Birch Door
+<terrafirmacraftplus:item.Bismuth Bronze Axe>, Bismuth Bronze Axe
+<terrafirmacraftplus:item.Bismuth Bronze Axe Head>, Bismuth Bronze Axe Head
+<terrafirmacraftplus:item.Bismuth Bronze Boots>, Bismuth Bronze Boots
+<terrafirmacraftplus:item.Bismuth Bronze Chestplate>, Bismuth Bronze Chestplate
+<terrafirmacraftplus:item.Bismuth Bronze Chisel>, Bismuth Bronze Chisel
+<terrafirmacraftplus:item.Bismuth Bronze Chisel Head>, Bismuth Bronze Chisel Head
+<terrafirmacraftplus:item.Bismuth Bronze Double Ingot>, Bismuth Bronze Double Ingot
+<terrafirmacraftplus:item.Bismuth Bronze Double Sheet>, Bismuth Bronze Double Sheet
+<terrafirmacraftplus:item.Bismuth Bronze Greaves>, Bismuth Bronze Greaves
+<terrafirmacraftplus:item.Bismuth Bronze Hammer>, Bismuth Bronze Hammer
+<terrafirmacraftplus:item.Bismuth Bronze Hammer Head>, Bismuth Bronze Hammer Head
+<terrafirmacraftplus:item.Bismuth Bronze Helmet>, Bismuth Bronze Helmet
+<terrafirmacraftplus:item.Bismuth Bronze Hoe>, Bismuth Bronze Hoe
+<terrafirmacraftplus:item.Bismuth Bronze Hoe Head>, Bismuth Bronze Hoe Head
+<terrafirmacraftplus:item.Bismuth Bronze Ingot>, Bismuth Bronze Ingot
+<terrafirmacraftplus:item.Bismuth Bronze Javelin>, Bismuth Bronze Javelin
+<terrafirmacraftplus:item.Bismuth Bronze Javelin Head>, Bismuth Bronze Javelin Head
+<terrafirmacraftplus:item.Bismuth Bronze Knife>, Bismuth Bronze Knife
+<terrafirmacraftplus:item.Bismuth Bronze Knife Blade>, Bismuth Bronze Knife Blade
+<terrafirmacraftplus:item.Bismuth Bronze Mace>, Bismuth Bronze Mace
+<terrafirmacraftplus:item.Bismuth Bronze Mace Head>, Bismuth Bronze Mace Head
+<terrafirmacraftplus:item.Bismuth Bronze Pick>, Bismuth Bronze Pickaxe
+<terrafirmacraftplus:item.Bismuth Bronze Pick Head>, Bismuth Bronze Pickaxe Head
+<terrafirmacraftplus:item.Bismuth Bronze ProPick>, Bismuth Bronze Prospector's Pick
+<terrafirmacraftplus:item.Bismuth Bronze ProPick Head>, Bismuth Bronze Prospector's Pick Head
+<terrafirmacraftplus:item.Bismuth Bronze Saw>, Bismuth Bronze Saw
+<terrafirmacraftplus:item.Bismuth Bronze Saw Blade>, Bismuth Bronze Saw Blade
+<terrafirmacraftplus:item.Bismuth Bronze Scythe>, Bismuth Bronze Scythe
+<terrafirmacraftplus:item.Bismuth Bronze Scythe Blade>, Bismuth Bronze Scythe Blade
+<terrafirmacraftplus:item.Bismuth Bronze Sheet>, Bismuth Bronze Sheet
+<terrafirmacraftplus:item.Bismuth Bronze Shovel>, Bismuth Bronze Shovel
+<terrafirmacraftplus:item.Bismuth Bronze Shovel Head>, Bismuth Bronze Shovel Head
+<terrafirmacraftplus:item.Bismuth Bronze Sword>, Bismuth Bronze Sword
+<terrafirmacraftplus:item.Bismuth Bronze Sword Blade>, Bismuth Bronze Sword Blade
+<terrafirmacraftplus:item.Bismuth Bronze Trowel>, Bismuth Bronze Mason's Trowel
+<terrafirmacraftplus:item.Bismuth Bronze Trowel Head>, Bismuth Bronze Mason's Trowel Head
+<terrafirmacraftplus:item.Bismuth Bronze Tuyere>, Bismuth Bronze Tuyere
+<terrafirmacraftplus:item.Bismuth Bronze Unfinished Boots>, Unfinished Bismuth Bronze Boots
+<terrafirmacraftplus:item.Bismuth Bronze Unfinished Chestplate>, Unfinished Bismuth Bronze Chestplate
+<terrafirmacraftplus:item.Bismuth Bronze Unfinished Greaves>, Unfinished Bismuth Bronze Greaves
+<terrafirmacraftplus:item.Bismuth Bronze Unfinished Helmet>, Unfinished Bismuth Bronze Helmet
+<terrafirmacraftplus:item.Bismuth Bronze Unshaped>, Unshaped: Bismuth Bronze
+<terrafirmacraftplus:item.Bismuth Double Ingot>, Bismuth Double Ingot
+<terrafirmacraftplus:item.Bismuth Double Sheet>, Bismuth Double Sheet
+<terrafirmacraftplus:item.Bismuth Ingot>, Bismuth Ingot
+<terrafirmacraftplus:item.Bismuth Sheet>, Bismuth Sheet
+<terrafirmacraftplus:item.Bismuth Unshaped>, Unshaped: Bismuth
+<terrafirmacraftplus:item.Black Bronze Axe>, Black Bronze Axe
+<terrafirmacraftplus:item.Black Bronze Axe Head>, Black Bronze Axe Head
+<terrafirmacraftplus:item.Black Bronze Boots>, Black Bronze Boots
+<terrafirmacraftplus:item.Black Bronze Chestplate>, Black Bronze Chestplate
+<terrafirmacraftplus:item.Black Bronze Chisel>, Black Bronze Chisel
+<terrafirmacraftplus:item.Black Bronze Chisel Head>, Black Bronze Chisel Head
+<terrafirmacraftplus:item.Black Bronze Double Ingot>, Black Bronze Double Ingot
+<terrafirmacraftplus:item.Black Bronze Double Sheet>, Black Bronze Double Sheet
+<terrafirmacraftplus:item.Black Bronze Greaves>, Black Bronze Greaves
+<terrafirmacraftplus:item.Black Bronze Hammer>, Black Bronze Hammer
+<terrafirmacraftplus:item.Black Bronze Hammer Head>, Black Bronze Hammer Head
+<terrafirmacraftplus:item.Black Bronze Helmet>, Black Bronze Helmet
+<terrafirmacraftplus:item.Black Bronze Hoe>, Black Bronze Hoe
+<terrafirmacraftplus:item.Black Bronze Hoe Head>, Black Bronze Hoe Head
+<terrafirmacraftplus:item.Black Bronze Ingot>, Black Bronze Ingot
+<terrafirmacraftplus:item.Black Bronze Javelin>, Black Bronze Javelin
+<terrafirmacraftplus:item.Black Bronze Javelin Head>, Black Bronze Javelin Head
+<terrafirmacraftplus:item.Black Bronze Knife>, Black Bronze Knife
+<terrafirmacraftplus:item.Black Bronze Knife Blade>, Black Bronze Knife Blade
+<terrafirmacraftplus:item.Black Bronze Mace>, Black Bronze Mace
+<terrafirmacraftplus:item.Black Bronze Mace Head>, Black Bronze Mace Head
+<terrafirmacraftplus:item.Black Bronze Pick>, Black Bronze Pickaxe
+<terrafirmacraftplus:item.Black Bronze Pick Head>, Black Bronze Pickaxe Head
+<terrafirmacraftplus:item.Black Bronze ProPick>, Black Bronze Prospector's Pick
+<terrafirmacraftplus:item.Black Bronze ProPick Head>, Black Bronze Prospector's Pick Head
+<terrafirmacraftplus:item.Black Bronze Saw>, Black Bronze Saw
+<terrafirmacraftplus:item.Black Bronze Saw Blade>, Black Bronze Saw Blade
+<terrafirmacraftplus:item.Black Bronze Scythe>, Black Bronze Scythe
+<terrafirmacraftplus:item.Black Bronze Scythe Blade>, Black Bronze Scythe Blade
+<terrafirmacraftplus:item.Black Bronze Sheet>, Black Bronze Sheet
+<terrafirmacraftplus:item.Black Bronze Shovel>, Black Bronze Shovel
+<terrafirmacraftplus:item.Black Bronze Shovel Head>, Black Bronze Shovel Head
+<terrafirmacraftplus:item.Black Bronze Sword>, Black Bronze Sword
+<terrafirmacraftplus:item.Black Bronze Sword Blade>, Black Bronze Sword Blade
+<terrafirmacraftplus:item.Black Bronze Trowel>, Black Bronze Mason's Trowel
+<terrafirmacraftplus:item.Black Bronze Trowel Head>, Black Bronze Mason's Trowel Head
+<terrafirmacraftplus:item.Black Bronze Tuyere>, Black Bronze Tuyere
+<terrafirmacraftplus:item.Black Bronze Unfinished Boots>, Unfinished Black Bronze Boots
+<terrafirmacraftplus:item.Black Bronze Unfinished Chestplate>, Unfinished Black Bronze Chestplate
+<terrafirmacraftplus:item.Black Bronze Unfinished Greaves>, Unfinished Black Bronze Greaves
+<terrafirmacraftplus:item.Black Bronze Unfinished Helmet>, Unfinished Black Bronze Helmet
+<terrafirmacraftplus:item.Black Bronze Unshaped>, Unshaped: Black Bronze
+<terrafirmacraftplus:item.Black Steel Axe>, Black Steel Axe
+<terrafirmacraftplus:item.Black Steel Axe Head>, Black Steel Axe Head
+<terrafirmacraftplus:item.Black Steel Boots>, Black Steel Boots
+<terrafirmacraftplus:item.Black Steel Chestplate>, Black Steel Chestplate
+<terrafirmacraftplus:item.Black Steel Chisel>, Black Steel Chisel
+<terrafirmacraftplus:item.Black Steel Chisel Head>, Black Steel Chisel Head
+<terrafirmacraftplus:item.Black Steel Double Ingot>, Black Steel Double Ingot
+<terrafirmacraftplus:item.Black Steel Double Sheet>, Black Steel Double Sheet
+<terrafirmacraftplus:item.Black Steel Greaves>, Black Steel Greaves
+<terrafirmacraftplus:item.Black Steel Hammer>, Black Steel Hammer
+<terrafirmacraftplus:item.Black Steel Hammer Head>, Black Steel Hammer Head
+<terrafirmacraftplus:item.Black Steel Helmet>, Black Steel Helmet
+<terrafirmacraftplus:item.Black Steel Hoe>, Black Steel Hoe
+<terrafirmacraftplus:item.Black Steel Hoe Head>, Black Steel Hoe Head
+<terrafirmacraftplus:item.Black Steel Ingot>, Black Steel Ingot
+<terrafirmacraftplus:item.Black Steel Javelin>, Black Steel Javelin
+<terrafirmacraftplus:item.Black Steel Javelin Head>, Black Steel Javelin Head
+<terrafirmacraftplus:item.Black Steel Knife>, Black Steel Knife
+<terrafirmacraftplus:item.Black Steel Knife Blade>, Black Steel Knife Blade
+<terrafirmacraftplus:item.Black Steel Mace>, Black Steel Mace
+<terrafirmacraftplus:item.Black Steel Mace Head>, Black Steel Mace Head
+<terrafirmacraftplus:item.Black Steel Pick>, Black Steel Pickaxe
+<terrafirmacraftplus:item.Black Steel Pick Head>, Black Steel Pickaxe Head
+<terrafirmacraftplus:item.Black Steel ProPick>, Black Steel Prospector's Pick
+<terrafirmacraftplus:item.Black Steel ProPick Head>, Black Steel Prospector's Pick Head
+<terrafirmacraftplus:item.Black Steel Saw>, Black Steel Saw
+<terrafirmacraftplus:item.Black Steel Saw Blade>, Black Steel Saw Blade
+<terrafirmacraftplus:item.Black Steel Scythe>, Black Steel Scythe
+<terrafirmacraftplus:item.Black Steel Scythe Blade>, Black Steel Scythe Blade
+<terrafirmacraftplus:item.Black Steel Sheet>, Black Steel Sheet
+<terrafirmacraftplus:item.Black Steel Shovel>, Black Steel Shovel
+<terrafirmacraftplus:item.Black Steel Shovel Head>, Black Steel Shovel Head
+<terrafirmacraftplus:item.Black Steel Sword>, Black Steel Sword
+<terrafirmacraftplus:item.Black Steel Sword Blade>, Black Steel Sword Blade
+<terrafirmacraftplus:item.Black Steel Trowel>, Black Steel Mason's Trowel
+<terrafirmacraftplus:item.Black Steel Trowel Head>, Black Steel Mason's Trowel Head
+<terrafirmacraftplus:item.Black Steel Tuyere>, Black Steel Tuyere
+<terrafirmacraftplus:item.Black Steel Unfinished Boots>, Unfinished Black Steel Boots
+<terrafirmacraftplus:item.Black Steel Unfinished Chestplate>, Unfinished Black Steel Chestplate
+<terrafirmacraftplus:item.Black Steel Unfinished Greaves>, Unfinished Black Steel Greaves
+<terrafirmacraftplus:item.Black Steel Unfinished Helmet>, Unfinished Black Steel Helmet
+<terrafirmacraftplus:item.Black Steel Unshaped>, Unshaped: Black Steel
+<terrafirmacraftplus:item.Black-Eyed Peas>, Black-Eyed Peas
+<terrafirmacraftplus:item.Blackberry>, Blackberries
+<terrafirmacraftplus:item.Blowpipe>, Clay Blowpipe
+<terrafirmacraftplus:item.Blue Steel Axe>, Blue Steel Axe
+<terrafirmacraftplus:item.Blue Steel Axe Head>, Blue Steel Axe Head
+<terrafirmacraftplus:item.Blue Steel Boots>, Blue Steel Boots
+<terrafirmacraftplus:item.Blue Steel Bucket Empty>, Blue Steel Bucket (Empty)
+<terrafirmacraftplus:item.Blue Steel Bucket Lava>, Blue Steel Bucket (Lava)
+<terrafirmacraftplus:item.Blue Steel Chestplate>, Blue Steel Chestplate
+<terrafirmacraftplus:item.Blue Steel Chisel>, Blue Steel Chisel
+<terrafirmacraftplus:item.Blue Steel Chisel Head>, Blue Steel Chisel Head
+<terrafirmacraftplus:item.Blue Steel Double Ingot>, Blue Steel Double Ingot
+<terrafirmacraftplus:item.Blue Steel Double Sheet>, Blue Steel Double Sheet
+<terrafirmacraftplus:item.Blue Steel Greaves>, Blue Steel Greaves
+<terrafirmacraftplus:item.Blue Steel Hammer>, Blue Steel Hammer
+<terrafirmacraftplus:item.Blue Steel Hammer Head>, Blue Steel Hammer Head
+<terrafirmacraftplus:item.Blue Steel Helmet>, Blue Steel Helmet
+<terrafirmacraftplus:item.Blue Steel Hoe>, Blue Steel Hoe
+<terrafirmacraftplus:item.Blue Steel Hoe Head>, Blue Steel Hoe Head
+<terrafirmacraftplus:item.Blue Steel Ingot>, Blue Steel Ingot
+<terrafirmacraftplus:item.Blue Steel Javelin>, Blue Steel Javelin
+<terrafirmacraftplus:item.Blue Steel Javelin Head>, Blue Steel Javelin Head
+<terrafirmacraftplus:item.Blue Steel Knife>, Blue Steel Knife
+<terrafirmacraftplus:item.Blue Steel Knife Blade>, Blue Steel Knife Blade
+<terrafirmacraftplus:item.Blue Steel Mace>, Blue Steel Mace
+<terrafirmacraftplus:item.Blue Steel Mace Head>, Blue Steel Mace Head
+<terrafirmacraftplus:item.Blue Steel Pick>, Blue Steel Pickaxe
+<terrafirmacraftplus:item.Blue Steel Pick Head>, Blue Steel Pickaxe Head
+<terrafirmacraftplus:item.Blue Steel ProPick>, Blue Steel Prospector's Pick
+<terrafirmacraftplus:item.Blue Steel ProPick Head>, Blue Steel Prospector's Pick Head
+<terrafirmacraftplus:item.Blue Steel Saw>, Blue Steel Saw
+<terrafirmacraftplus:item.Blue Steel Saw Blade>, Blue Steel Saw Blade
+<terrafirmacraftplus:item.Blue Steel Scythe>, Blue Steel Scythe
+<terrafirmacraftplus:item.Blue Steel Scythe Blade>, Blue Steel Scythe Blade
+<terrafirmacraftplus:item.Blue Steel Sheet>, Blue Steel Sheet
+<terrafirmacraftplus:item.Blue Steel Shovel>, Blue Steel Shovel
+<terrafirmacraftplus:item.Blue Steel Shovel Head>, Blue Steel Shovel Head
+<terrafirmacraftplus:item.Blue Steel Sword>, Blue Steel Sword
+<terrafirmacraftplus:item.Blue Steel Sword Blade>, Blue Steel Sword Blade
+<terrafirmacraftplus:item.Blue Steel Trowel>, Blue Steel Mason's Trowel
+<terrafirmacraftplus:item.Blue Steel Trowel Head>, Blue Steel Mason's Trowel Head
+<terrafirmacraftplus:item.Blue Steel Tuyere>, Blue Steel Tuyere
+<terrafirmacraftplus:item.Blue Steel Unfinished Boots>, Unfinished Blue Steel Boots
+<terrafirmacraftplus:item.Blue Steel Unfinished Chestplate>, Unfinished Blue Steel Chestplate
+<terrafirmacraftplus:item.Blue Steel Unfinished Greaves>, Unfinished Blue Steel Greaves
+<terrafirmacraftplus:item.Blue Steel Unfinished Helmet>, Unfinished Blue Steel Helmet
+<terrafirmacraftplus:item.Blue Steel Unshaped>, Unshaped: Blue Steel
+<terrafirmacraftplus:item.Blueberry>, Blueberries
+<terrafirmacraftplus:item.Blueprint>, Blueprint
+<terrafirmacraftplus:item.Bone>, Bone
+<terrafirmacraftplus:item.Bone Flute>, Bone Flute
+<terrafirmacraftplus:item.Bone Fragment>, Bone Fragment
+<terrafirmacraftplus:item.Bone Needle>, Bone Needle
+<terrafirmacraftplus:item.Bone Needle Thread>, Threaded Bone Needle
+<terrafirmacraftplus:item.Boot Soles>, Leather Boot Soles
+<terrafirmacraftplus:item.Boot Tops>, Leather Boot Tops
+<terrafirmacraftplus:item.Bow Firestarter>, Bow Drill
+<terrafirmacraftplus:item.Brandy>, Bottle of Brandy
+<terrafirmacraftplus:item.Brass Candle Holder>, Brass Candle Holder
+<terrafirmacraftplus:item.Brass Clock>, Brass 12-Hour Clock
+<terrafirmacraftplus:item.Brass Clock Gear>, Brass Clockwork Gear (32 teeth)
+<terrafirmacraftplus:item.Brass Compass>, Brass Compass
+<terrafirmacraftplus:item.Brass Dial>, Brass Dial
+<terrafirmacraftplus:item.Brass Disc>, Brass Disc
+<terrafirmacraftplus:item.Brass Double Ingot>, Brass Double Ingot
+<terrafirmacraftplus:item.Brass Double Sheet>, Brass Double Sheet
+<terrafirmacraftplus:item.Brass Ingot>, Brass Ingot
+<terrafirmacraftplus:item.Brass Sheet>, Brass Sheet
+<terrafirmacraftplus:item.Brass Tube>, Brass Tube
+<terrafirmacraftplus:item.Brass Unshaped>, Unshaped: Brass
+<terrafirmacraftplus:item.Brick>, Clay Brick
+<terrafirmacraftplus:item.Bronze Axe>, Bronze Axe
+<terrafirmacraftplus:item.Bronze Axe Head>, Bronze Axe Head
+<terrafirmacraftplus:item.Bronze Boots>, Bronze Boots
+<terrafirmacraftplus:item.Bronze Chestplate>, Bronze Chestplate
+<terrafirmacraftplus:item.Bronze Chisel>, Bronze Chisel
+<terrafirmacraftplus:item.Bronze Chisel Head>, Bronze Chisel Head
+<terrafirmacraftplus:item.Bronze Double Ingot>, Bronze Double Ingot
+<terrafirmacraftplus:item.Bronze Double Sheet>, Bronze Double Sheet
+<terrafirmacraftplus:item.Bronze Greaves>, Bronze Greaves
+<terrafirmacraftplus:item.Bronze Hammer>, Bronze Hammer
+<terrafirmacraftplus:item.Bronze Hammer Head>, Bronze Hammer Head
+<terrafirmacraftplus:item.Bronze Helmet>, Bronze Helmet
+<terrafirmacraftplus:item.Bronze Hoe>, Bronze Hoe
+<terrafirmacraftplus:item.Bronze Hoe Head>, Bronze Hoe Head
+<terrafirmacraftplus:item.Bronze Ingot>, Bronze Ingot
+<terrafirmacraftplus:item.Bronze Javelin>, Bronze Javelin
+<terrafirmacraftplus:item.Bronze Javelin Head>, Bronze Javelin Head
+<terrafirmacraftplus:item.Bronze Knife>, Bronze Knife
+<terrafirmacraftplus:item.Bronze Knife Blade>, Bronze Knife Blade
+<terrafirmacraftplus:item.Bronze Mace>, Bronze Mace
+<terrafirmacraftplus:item.Bronze Mace Head>, Bronze Mace Head
+<terrafirmacraftplus:item.Bronze Pick>, Bronze Pickaxe
+<terrafirmacraftplus:item.Bronze Pick Head>, Bronze Pickaxe Head
+<terrafirmacraftplus:item.Bronze ProPick>, Bronze Prospector's Pick
+<terrafirmacraftplus:item.Bronze ProPick Head>, Bronze Prospector's Pick Head
+<terrafirmacraftplus:item.Bronze Saw>, Bronze Saw
+<terrafirmacraftplus:item.Bronze Saw Blade>, Bronze Saw Blade
+<terrafirmacraftplus:item.Bronze Scythe>, Bronze Scythe
+<terrafirmacraftplus:item.Bronze Scythe Blade>, Bronze Scythe Blade
+<terrafirmacraftplus:item.Bronze Sheet>, Bronze Sheet
+<terrafirmacraftplus:item.Bronze Shovel>, Bronze Shovel
+<terrafirmacraftplus:item.Bronze Shovel Head>, Bronze Shovel Head
+<terrafirmacraftplus:item.Bronze Sword>, Bronze Sword
+<terrafirmacraftplus:item.Bronze Sword Blade>, Bronze Sword Blade
+<terrafirmacraftplus:item.Bronze Trowel>, Bronze Mason's Trowel
+<terrafirmacraftplus:item.Bronze Trowel Head>, Bronze Mason's Trowel Head
+<terrafirmacraftplus:item.Bronze Tuyere>, Bronze Tuyere
+<terrafirmacraftplus:item.Bronze Unfinished Boots>, Unfinished Bronze Boots
+<terrafirmacraftplus:item.Bronze Unfinished Chestplate>, Unfinished Bronze Chestplate
+<terrafirmacraftplus:item.Bronze Unfinished Greaves>, Unfinished Bronze Greaves
+<terrafirmacraftplus:item.Bronze Unfinished Helmet>, Unfinished Bronze Helmet
+<terrafirmacraftplus:item.Bronze Unshaped>, Unshaped: Bronze
+<terrafirmacraftplus:item.Brown Mushroom>, Brown Mushroom
+<terrafirmacraftplus:item.Bullet Mold>, Clay Bullet Mold
+<terrafirmacraftplus:item.Bunchberry>, Bunchberries
+<terrafirmacraftplus:item.Burlap Sack>, Burlap Sack
+<terrafirmacraftplus:item.BurlapCloth>, Burlap Cloth
+<terrafirmacraftplus:item.Cabbage>, Cabbage
+<terrafirmacraftplus:item.Calamari>, Calamari
+<terrafirmacraftplus:item.Candle Holder Mold>, Clay Candle Holder Mold
+<terrafirmacraftplus:item.Cane Juice>, Bottle of Cane Juice
+<terrafirmacraftplus:item.Cane JuicePottery>, Cane Juice Jug
+<terrafirmacraftplus:item.Cane Wine>, Bottle of Cane Wine
+<terrafirmacraftplus:item.Cane WinePottery>, Cane Wine Jug
+<terrafirmacraftplus:item.Carrot>, Carrot
+<terrafirmacraftplus:item.Cast>, Cast
+<terrafirmacraftplus:item.Ceramic Bucket Empty>, Ceramic Bucket
+<terrafirmacraftplus:item.Ceramic Bucket Gypsum>, Ceramic Bucket (Gypsum)
+<terrafirmacraftplus:item.Ceramic Bucket Honey>, Ceramic Bucket (Honey)
+<terrafirmacraftplus:item.Ceramic Bucket Milk>, Ceramic Bucket (Milk)
+<terrafirmacraftplus:item.Ceramic Bucket Pitch>, Ceramic Bucket (Pitch)
+<terrafirmacraftplus:item.Ceramic Bucket Plaster>, Ceramic Bucket (Plaster)
+<terrafirmacraftplus:item.Ceramic Bucket Salt Water>, Ceramic Bucket (Salt Water)
+<terrafirmacraftplus:item.Ceramic Bucket Vinegar>, Ceramic Bucket (Vinegar)
+<terrafirmacraftplus:item.Ceramic Bucket Water>, Ceramic Bucket (Fresh Water)
+<terrafirmacraftplus:item.Cheese>, Cheese
+<terrafirmacraftplus:item.Cherry>, Cherry
+<terrafirmacraftplus:item.Cherry Juice>, Bottle of Cherry Juice
+<terrafirmacraftplus:item.Cherry JuicePottery>, Cherry Juice Jug
+<terrafirmacraftplus:item.Chestnut Door>, Chestnut Door
+<terrafirmacraftplus:item.Chicken>, Poultry
+<terrafirmacraftplus:item.Chisel Mold>, Clay Chisel Mold
+<terrafirmacraftplus:item.Cider>, Bottle of Cider
+<terrafirmacraftplus:item.CiderPottery>, Cider Jug
+<terrafirmacraftplus:item.Clay>, Clay
+<terrafirmacraftplus:item.Clay Tile>, Clay Tile
+<terrafirmacraftplus:item.ClayBowl>, Clay Bowl
+<terrafirmacraftplus:item.Cloudberry>, Cloudberries
+<terrafirmacraftplus:item.Coat Back>, Wool Coat Back
+<terrafirmacraftplus:item.Coat Front>, Wool Coat Front
+<terrafirmacraftplus:item.Coconut>, Coconut
+<terrafirmacraftplus:item.CoconutFruit>, Coconut
+<terrafirmacraftplus:item.CoconutJuice>, Bottle of Coconut Juice
+<terrafirmacraftplus:item.CoconutJuicePottery>, Coconut Juice Jug
+<terrafirmacraftplus:item.CoconutMeat>, Coconut Meat
+<terrafirmacraftplus:item.Copper Axe>, Copper Axe
+<terrafirmacraftplus:item.Copper Axe Head>, Copper Axe Head
+<terrafirmacraftplus:item.Copper Boots>, Copper Boots
+<terrafirmacraftplus:item.Copper Chestplate>, Copper Chestplate
+<terrafirmacraftplus:item.Copper Chisel>, Copper Chisel
+<terrafirmacraftplus:item.Copper Chisel Head>, Copper Chisel Head
+<terrafirmacraftplus:item.Copper Double Ingot>, Copper Double Ingot
+<terrafirmacraftplus:item.Copper Double Sheet>, Copper Double Sheet
+<terrafirmacraftplus:item.Copper Greaves>, Copper Greaves
+<terrafirmacraftplus:item.Copper Hammer>, Copper Hammer
+<terrafirmacraftplus:item.Copper Hammer Head>, Copper Hammer Head
+<terrafirmacraftplus:item.Copper Helmet>, Copper Helmet
+<terrafirmacraftplus:item.Copper Hoe>, Copper Hoe
+<terrafirmacraftplus:item.Copper Hoe Head>, Copper Hoe Head
+<terrafirmacraftplus:item.Copper Ingot>, Copper Ingot
+<terrafirmacraftplus:item.Copper Javelin>, Copper Javelin
+<terrafirmacraftplus:item.Copper Javelin Head>, Copper Javelin Head
+<terrafirmacraftplus:item.Copper Knife>, Copper Knife
+<terrafirmacraftplus:item.Copper Knife Blade>, Copper Knife Blade
+<terrafirmacraftplus:item.Copper Mace>, Copper Mace
+<terrafirmacraftplus:item.Copper Mace Head>, Copper Mace Head
+<terrafirmacraftplus:item.Copper Pick>, Copper Pickaxe
+<terrafirmacraftplus:item.Copper Pick Head>, Copper Pickaxe Head
+<terrafirmacraftplus:item.Copper ProPick>, Copper Prospector's Pick
+<terrafirmacraftplus:item.Copper ProPick Head>, Copper Prospector's Pick Head
+<terrafirmacraftplus:item.Copper Saw>, Copper Saw
+<terrafirmacraftplus:item.Copper Saw Blade>, Copper Saw Blade
+<terrafirmacraftplus:item.Copper Scythe>, Copper Scythe
+<terrafirmacraftplus:item.Copper Scythe Blade>, Copper Scythe Blade
+<terrafirmacraftplus:item.Copper Sheet>, Copper Sheet
+<terrafirmacraftplus:item.Copper Shovel>, Copper Shovel
+<terrafirmacraftplus:item.Copper Shovel Head>, Copper Shovel Head
+<terrafirmacraftplus:item.Copper Sword>, Copper Sword
+<terrafirmacraftplus:item.Copper Sword Blade>, Copper Sword Blade
+<terrafirmacraftplus:item.Copper Trowel>, Copper Mason's Trowel
+<terrafirmacraftplus:item.Copper Trowel Head>, Copper Mason's Trowel Head
+<terrafirmacraftplus:item.Copper Tuyere>, Copper Tuyere
+<terrafirmacraftplus:item.Copper Unfinished Boots>, Unfinished Copper Boots
+<terrafirmacraftplus:item.Copper Unfinished Chestplate>, Unfinished Copper Chestplate
+<terrafirmacraftplus:item.Copper Unfinished Greaves>, Unfinished Copper Greaves
+<terrafirmacraftplus:item.Copper Unfinished Helmet>, Unfinished Copper Helmet
+<terrafirmacraftplus:item.Copper Unshaped>, Unshaped: Copper
+<terrafirmacraftplus:item.Coracle>, Coracle
+<terrafirmacraftplus:item.CoracleUnfinished>, Coracle Frame
+<terrafirmacraftplus:item.Corn Beer>, Bottle of Corn Beer
+<terrafirmacraftplus:item.Corn BeerPottery>, Corn Beer Jug
+<terrafirmacraftplus:item.Corn Bread>, Cornbread
+<terrafirmacraftplus:item.Corn Germ>, Corn Malt
+<terrafirmacraftplus:item.Corn Wine>, Bottle of Corn Wine
+<terrafirmacraftplus:item.Corn WinePottery>, Corn Wine Jug
+<terrafirmacraftplus:item.CornWhiskey>, Bottle of Corn Whiskey
+<terrafirmacraftplus:item.Cornmeal Dough>, Cornmeal Dough
+<terrafirmacraftplus:item.Cornmeal Ground>, Cornmeal
+<terrafirmacraftplus:item.Cotton>, Cotton Boll
+<terrafirmacraftplus:item.Cotton Cloak>, Cotton Cloak
+<terrafirmacraftplus:item.Cotton Coat>, Cotton Coat
+<terrafirmacraftplus:item.Cotton Hat>, Cotton Hat
+<terrafirmacraftplus:item.Cotton Pants>, Cotton Pants
+<terrafirmacraftplus:item.Cotton Robe>, Cotton Robe
+<terrafirmacraftplus:item.Cotton Shirt>, Cotton Shirt
+<terrafirmacraftplus:item.Cotton Shorts>, Cotton Shorts
+<terrafirmacraftplus:item.Cotton Skirt>, Cotton Skirt
+<terrafirmacraftplus:item.Cotton Sleeveless Shirt>, Cotton Sleeveless Shirt
+<terrafirmacraftplus:item.Cotton Socks>, Cotton Socks
+<terrafirmacraftplus:item.Cotton TShirt>, Cotton T-Shirt
+<terrafirmacraftplus:item.CottonCloth>, Cotton Cloth
+<terrafirmacraftplus:item.CottonYarn>, Cotton Yarn
+<terrafirmacraftplus:item.Cranberry>, Cranberries
+<terrafirmacraftplus:item.Date>, Date
+<terrafirmacraftplus:item.Date Juice>, Bottle of Date Juice
+<terrafirmacraftplus:item.Date JuicePottery>, Date Juice Jug
+<terrafirmacraftplus:item.DateBrandy>, Bottle of Date Brandy
+<terrafirmacraftplus:item.DateWine>, Bottle of Date Wine
+<terrafirmacraftplus:item.DateWinePottery>, Date Wine Jug
+<terrafirmacraftplus:item.Diamond>, Chipped Diamond
+<terrafirmacraftplus:item.Douglas Fir Door>, Douglas Fir Door
+<terrafirmacraftplus:item.Ebony Door>, Ebony Door
+<terrafirmacraftplus:item.Egg Cooked>, Cooked Egg
+<terrafirmacraftplus:item.Elderberry>, Elderberries
+<terrafirmacraftplus:item.Emerald>, Chipped Emerald
+<terrafirmacraftplus:item.EmptyHoneycomb>, Empty Honeycomb
+<terrafirmacraftplus:item.FertileHoneycomb>, Fertile Honeycomb
+<terrafirmacraftplus:item.Fertilizer>, Fertilizer
+<terrafirmacraftplus:item.Fever Door>, Fever Door
+<terrafirmacraftplus:item.Fig>, Fig
+<terrafirmacraftplus:item.Fig Juice>, Bottle of Fig Juice
+<terrafirmacraftplus:item.Fig JuicePottery>, Fig Juice Jug
+<terrafirmacraftplus:item.FigBrandy>, Bottle of Fig Brandy
+<terrafirmacraftplus:item.FigWine>, Bottle of Fig Wine
+<terrafirmacraftplus:item.FigWinePottery>, Fig Wine Jug
+<terrafirmacraftplus:item.Fire Brick>, Clay Fire Brick
+<terrafirmacraftplus:item.Firestarter>, Fire Starter
+<terrafirmacraftplus:item.Fish>, Fish
+<terrafirmacraftplus:item.Flat Bear Fur>, item.Flat Bear Fur.name
+<terrafirmacraftplus:item.Flat Burlap>, item.Flat Burlap.name
+<terrafirmacraftplus:item.Flat Clay>, Flat Clay
+<terrafirmacraftplus:item.Flat Cotton>, item.Flat Cotton.name
+<terrafirmacraftplus:item.Flat Fur>, item.Flat Fur.name
+<terrafirmacraftplus:item.Flat Hide>, item.Flat Hide.name
+<terrafirmacraftplus:item.Flat Leather>, Flat Leather
+<terrafirmacraftplus:item.Flat Linen>, item.Flat Linen.name
+<terrafirmacraftplus:item.Flat Silk>, item.Flat Silk.name
+<terrafirmacraftplus:item.Flat Straw>, item.Flat Straw.name
+<terrafirmacraftplus:item.Flat Wolf Fur>, item.Flat Wolf Fur.name
+<terrafirmacraftplus:item.Flat Wool>, item.Flat Wool.name
+<terrafirmacraftplus:item.FlatRock>, Flat Granite
+<terrafirmacraftplus:item.Flax>, Flax
+<terrafirmacraftplus:item.Flax Fibre>, Flax Fiber
+<terrafirmacraftplus:item.FletchedArrow>, Fletched Arrow
+<terrafirmacraftplus:item.Fletching>, Fletching
+<terrafirmacraftplus:item.FruitBrandy>, Bottle of Cherry Brandy
+<terrafirmacraftplus:item.FruitSapling>, Red Apple Tree Sapling
+<terrafirmacraftplus:item.FruitWine>, Bottle of Cherry Wine
+<terrafirmacraftplus:item.FruitWinePottery>, Cherry Wine Jug
+<terrafirmacraftplus:item.Fruitwood Door>, Fruitwood Door
+<terrafirmacraftplus:item.Fur>, Small Fur
+<terrafirmacraftplus:item.Fur Boots>, Fur Boots
+<terrafirmacraftplus:item.Fur Cloak>, Fur Cloak
+<terrafirmacraftplus:item.Fur Coat>, Fur Coat
+<terrafirmacraftplus:item.Fur Hat>, Fur Hat
+<terrafirmacraftplus:item.Fur Pants>, Fur Pants
+<terrafirmacraftplus:item.Fur Scrap>, Small Fur Scrap
+<terrafirmacraftplus:item.Garlic>, Garlic
+<terrafirmacraftplus:item.Garnet>, Chipped Garnet
+<terrafirmacraftplus:item.Ghaf Door>, Ghaf Door
+<terrafirmacraftplus:item.Gingko Door>, Gingko Door
+<terrafirmacraftplus:item.Glass>, Glass
+<terrafirmacraftplus:item.Glass Bottle>, Empty Glass Bottle
+<terrafirmacraftplus:item.Gold Candle Holder>, Gold Candle Holder
+<terrafirmacraftplus:item.Gold Double Ingot>, Gold Double Ingot
+<terrafirmacraftplus:item.Gold Double Sheet>, Gold Double Sheet
+<terrafirmacraftplus:item.Gold Ingot>, Gold Ingot
+<terrafirmacraftplus:item.Gold Sheet>, Gold Sheet
+<terrafirmacraftplus:item.Gold Unshaped>, Unshaped: Gold
+<terrafirmacraftplus:item.GoldPan>, Gold Pan
+<terrafirmacraftplus:item.Gooseberry>, Gooseberries
+<terrafirmacraftplus:item.Grape Juice>, Bottle of Grape Juice
+<terrafirmacraftplus:item.Grape JuicePottery>, Grape Juice Jug
+<terrafirmacraftplus:item.Grapes>, Grapes
+<terrafirmacraftplus:item.Grass Coat>, Grass Cloak
+<terrafirmacraftplus:item.Grass Sandals>, Grass Sandals
+<terrafirmacraftplus:item.Grass Shirt>, Grass Shirt
+<terrafirmacraftplus:item.Grass Skirt>, Grass Skirt
+<terrafirmacraftplus:item.Green Apple>, Green Apple
+<terrafirmacraftplus:item.Green Bell Pepper>, Green Bell Pepper
+<terrafirmacraftplus:item.Greenbeans>, Green Beans
+<terrafirmacraftplus:item.HC Black Steel Ingot>, High Carbon Black Steel Ingot
+<terrafirmacraftplus:item.HC Black Steel Unshaped>, Unshaped: High Carbon Black Steel
+<terrafirmacraftplus:item.HC Blue Steel Ingot>, High Carbon Blue Steel Ingot
+<terrafirmacraftplus:item.HC Blue Steel Unshaped>, Unshaped: High Carbon Blue Steel
+<terrafirmacraftplus:item.HC Red Steel Ingot>, High Carbon Red Steel Ingot
+<terrafirmacraftplus:item.HC Red Steel Unshaped>, Unshaped: High Carbon Red Steel
+<terrafirmacraftplus:item.HC Steel Ingot>, High Carbon Steel Ingot
+<terrafirmacraftplus:item.HC Steel Unshaped>, Unshaped: High Carbon Steel
+<terrafirmacraftplus:item.Hammer Mold>, Clay Hammer Mold
+<terrafirmacraftplus:item.Hat Piece>, Wool Hat Piece
+<terrafirmacraftplus:item.Hickory Door>, Hickory Door
+<terrafirmacraftplus:item.Hide>, Small Raw Hide
+<terrafirmacraftplus:item.Hide Bag>, Hide Bag
+<terrafirmacraftplus:item.Hoe Mold>, Clay Hoe Mold
+<terrafirmacraftplus:item.Hollow Bone>, Hollow Bone
+<terrafirmacraftplus:item.HoneyBowl>, Ceramic Bowl (Honey)
+<terrafirmacraftplus:item.HoneyJack>, Honey Brandy
+<terrafirmacraftplus:item.Honeycomb>, Honeycomb
+<terrafirmacraftplus:item.HornTip>, Horn Tip
+<terrafirmacraftplus:item.HorseMeat>, Horse Meat
+<terrafirmacraftplus:item.IgEx Stone Axe>, Stone Axe
+<terrafirmacraftplus:item.IgEx Stone Axe Head>, Stone Axe Head
+<terrafirmacraftplus:item.IgEx Stone Hoe>, Stone Hoe
+<terrafirmacraftplus:item.IgEx Stone Hoe Head>, Stone Hoe Head
+<terrafirmacraftplus:item.IgEx Stone Javelin>, Stone Javelin
+<terrafirmacraftplus:item.IgEx Stone Javelin Head>, Stone Javelin Head
+<terrafirmacraftplus:item.IgEx Stone Shovel>, Stone Shovel
+<terrafirmacraftplus:item.IgEx Stone Shovel Head>, Stone Shovel Head
+<terrafirmacraftplus:item.IgIn Stone Axe>, Stone Axe
+<terrafirmacraftplus:item.IgIn Stone Axe Head>, Stone Axe Head
+<terrafirmacraftplus:item.IgIn Stone Hoe>, Stone Hoe
+<terrafirmacraftplus:item.IgIn Stone Hoe Head>, Stone Hoe Head
+<terrafirmacraftplus:item.IgIn Stone Javelin>, Stone Javelin
+<terrafirmacraftplus:item.IgIn Stone Javelin Head>, Stone Javelin Head
+<terrafirmacraftplus:item.IgIn Stone Shovel>, Stone Shovel
+<terrafirmacraftplus:item.IgIn Stone Shovel Head>, Stone Shovel Head
+<terrafirmacraftplus:item.Ink>, Marking
+<terrafirmacraftplus:item.Iron Bloom>, Refined Iron Bloom
+<terrafirmacraftplus:item.Iron Needle>, Iron Needle
+<terrafirmacraftplus:item.Iron Needle Thread>, Threaded Iron Needle
+<terrafirmacraftplus:item.IronRind>, Rind
+<terrafirmacraftplus:item.ItemStoneBrick>, Granite Brick
+<terrafirmacraftplus:item.Jade>, Chipped Jade
+<terrafirmacraftplus:item.Jasper>, Chipped Jasper
+<terrafirmacraftplus:item.Javelin Mold>, Clay Javelin Head Mold
+<terrafirmacraftplus:item.Joshua Door>, Joshua Door
+<terrafirmacraftplus:item.Jug>, Clay Jug
+<terrafirmacraftplus:item.Jute>, Jute
+<terrafirmacraftplus:item.Jute Fibre>, Jute Fiber
+<terrafirmacraftplus:item.Kapok Door>, Kapok Door
+<terrafirmacraftplus:item.Knife Mold>, Clay Knife Mold
+<terrafirmacraftplus:item.Laurel Door>, Laurel Door
+<terrafirmacraftplus:item.Lead Double Ingot>, Lead Double Ingot
+<terrafirmacraftplus:item.Lead Double Sheet>, Lead Double Sheet
+<terrafirmacraftplus:item.Lead Ingot>, Lead Ingot
+<terrafirmacraftplus:item.Lead Sheet>, Lead Sheet
+<terrafirmacraftplus:item.Lead Unshaped>, Unshaped: Lead
+<terrafirmacraftplus:item.Leather Bag>, Leather Bag
+<terrafirmacraftplus:item.Leather Sandals>, Leather Sandals
+<terrafirmacraftplus:item.Leather Shorts>, Lederhosen
+<terrafirmacraftplus:item.Lemon>, Lemon
+<terrafirmacraftplus:item.Lemon Juice>, Bottle of Lemon Juice
+<terrafirmacraftplus:item.Lemon JuicePottery>, Lemon Juice Jug
+<terrafirmacraftplus:item.LemonBrandy>, Bottle of Lemon Brandy
+<terrafirmacraftplus:item.LemonWine>, Bottle of Lemon Wine
+<terrafirmacraftplus:item.LemonWinePottery>, Lemon Wine Jug
+<terrafirmacraftplus:item.Limba Door>, Limba Door
+<terrafirmacraftplus:item.Lime>, Lime
+<terrafirmacraftplus:item.Linen Cloak>, Linen Cloak
+<terrafirmacraftplus:item.Linen Coat>, Linen Coat
+<terrafirmacraftplus:item.Linen Hat>, Linen Hat
+<terrafirmacraftplus:item.Linen Pants>, Linen Pants
+<terrafirmacraftplus:item.Linen Robe>, Linen Robe
+<terrafirmacraftplus:item.Linen Shirt>, Linen Shirt
+<terrafirmacraftplus:item.Linen Shorts>, Linen Shorts
+<terrafirmacraftplus:item.Linen Skirt>, Linen Skirt
+<terrafirmacraftplus:item.Linen Sleeveless Shirt>, Linen Sleeveless Shirt
+<terrafirmacraftplus:item.Linen Socks>, Linen Socks
+<terrafirmacraftplus:item.Linen TShirt>, Linen T-Shirt
+<terrafirmacraftplus:item.LinenCloth>, Linen Cloth
+<terrafirmacraftplus:item.LinenString>, Linen String
+<terrafirmacraftplus:item.Liquid Lime>, Molten Lime
+<terrafirmacraftplus:item.Liquid Silica>, Molten Silica
+<terrafirmacraftplus:item.Liquid Soda>, Molten Soda
+<terrafirmacraftplus:item.Log>, Oak Log
+<terrafirmacraftplus:item.LooseRock>, Granite Rock
+<terrafirmacraftplus:item.Lyre>, Unstrung Lyre
+<terrafirmacraftplus:item.MM Stone Axe>, Stone Axe
+<terrafirmacraftplus:item.MM Stone Axe Head>, Stone Axe Head
+<terrafirmacraftplus:item.MM Stone Hoe>, Stone Hoe
+<terrafirmacraftplus:item.MM Stone Hoe Head>, Stone Hoe Head
+<terrafirmacraftplus:item.MM Stone Javelin>, Stone Javelin
+<terrafirmacraftplus:item.MM Stone Javelin Head>, Stone Javelin Head
+<terrafirmacraftplus:item.MM Stone Shovel>, Stone Shovel
+<terrafirmacraftplus:item.MM Stone Shovel Head>, Stone Shovel Head
+<terrafirmacraftplus:item.Mace Mold>, Clay Mace Mold
+<terrafirmacraftplus:item.Madder Root>, Madder Root
+<terrafirmacraftplus:item.Magnetic Needle>, Magnetized Iron Needle
+<terrafirmacraftplus:item.Mahoe Door>, Mahoe Door
+<terrafirmacraftplus:item.Mahogany Door>, Mahogany Door
+<terrafirmacraftplus:item.Maize Ear>, Maize Ear
+<terrafirmacraftplus:item.Mangrove Door>, Mangrove Door
+<terrafirmacraftplus:item.Maple Door>, Maple Door
+<terrafirmacraftplus:item.Mead>, Bottle of Mead
+<terrafirmacraftplus:item.MeadPottery>, Mead Jug
+<terrafirmacraftplus:item.Melon>, Melon
+<terrafirmacraftplus:item.Milk>, Bottle of Milk
+<terrafirmacraftplus:item.MilkPottery>, Milk Jug
+<terrafirmacraftplus:item.Millstone>, Millstone
+<terrafirmacraftplus:item.Mold>, Clay Mold
+<terrafirmacraftplus:item.Molten Glass>, Molten Glass
+<terrafirmacraftplus:item.Mortar>, Mortar
+<terrafirmacraftplus:item.Mud>, Mud
+<terrafirmacraftplus:item.Mud Brick>, Mud Brick
+<terrafirmacraftplus:item.Mutton>, Mutton
+<terrafirmacraftplus:item.Nametag>, Nametag
+<terrafirmacraftplus:item.Nickel Double Ingot>, Nickel Double Ingot
+<terrafirmacraftplus:item.Nickel Double Sheet>, Nickel Double Sheet
+<terrafirmacraftplus:item.Nickel Ingot>, Nickel Ingot
+<terrafirmacraftplus:item.Nickel Sheet>, Nickel Sheet
+<terrafirmacraftplus:item.Nickel Unshaped>, Unshaped: Nickel
+<terrafirmacraftplus:item.Oak Door>, Oak Door
+<terrafirmacraftplus:item.Oat Bread>, Oat Bread
+<terrafirmacraftplus:item.Oat Dough>, Oat Dough
+<terrafirmacraftplus:item.Oat Grain>, Oat Grain
+<terrafirmacraftplus:item.Oat Ground>, Oat Flour
+<terrafirmacraftplus:item.Oat Whole>, Oat
+<terrafirmacraftplus:item.Olive>, Olive
+<terrafirmacraftplus:item.Onion>, Onion
+<terrafirmacraftplus:item.Opal>, Chipped Opal
+<terrafirmacraftplus:item.Orange>, Orange
+<terrafirmacraftplus:item.Orange Juice>, Bottle of Orange Juice
+<terrafirmacraftplus:item.Orange JuicePottery>, Orange Juice Jug
+<terrafirmacraftplus:item.OrangeBrandy>, Bottle of Orange Brandy
+<terrafirmacraftplus:item.OrangeWine>, Bottle of Orange Wine
+<terrafirmacraftplus:item.OrangeWinePottery>, Orange Wine Jug
+<terrafirmacraftplus:item.Ore>, Native Copper
+<terrafirmacraftplus:item.Paddle>, Paddle
+<terrafirmacraftplus:item.Palm Door>, Palm Door
+<terrafirmacraftplus:item.Pants Piece>, Wool Pants Piece
+<terrafirmacraftplus:item.Papaya>, Papaya
+<terrafirmacraftplus:item.Papaya Juice>, Bottle of Papaya Juice
+<terrafirmacraftplus:item.Papaya JuicePottery>, Papaya Juice Jug
+<terrafirmacraftplus:item.PapayaBrandy>, Bottle of Papaya Brandy
+<terrafirmacraftplus:item.PapayaWine>, Bottle of Papaya Wine
+<terrafirmacraftplus:item.PapayaWinePottery>, Papaya Wine Jug
+<terrafirmacraftplus:item.Peach>, Peach
+<terrafirmacraftplus:item.Peach Juice>, Bottle of Peach Juice
+<terrafirmacraftplus:item.Peach JuicePottery>, Peach Juice Jug
+<terrafirmacraftplus:item.PeachBrandy>, Bottle of Peach Brandy
+<terrafirmacraftplus:item.PeachWine>, Bottle of Peach Wine
+<terrafirmacraftplus:item.PeachWinePottery>, Peach Wine Jug
+<terrafirmacraftplus:item.Pewter Candle Holder>, Pewter Candle Holder
+<terrafirmacraftplus:item.Pewter Double Ingot>, Pewter Double Ingot
+<terrafirmacraftplus:item.Pewter Double Sheet>, Pewter Double Sheet
+<terrafirmacraftplus:item.Pewter Ingot>, Pewter Ingot
+<terrafirmacraftplus:item.Pewter Sheet>, Pewter Sheet
+<terrafirmacraftplus:item.Pewter Unshaped>, Unshaped: Pewter
+<terrafirmacraftplus:item.Pick Mold>, Clay Pick Mold
+<terrafirmacraftplus:item.Pig Iron Double Ingot>, Pig Iron Double Ingot
+<terrafirmacraftplus:item.Pig Iron Double Sheet>, Pig Iron Double Sheet
+<terrafirmacraftplus:item.Pig Iron Ingot>, Pig Iron Ingot
+<terrafirmacraftplus:item.Pig Iron Sheet>, Pig Iron Sheet
+<terrafirmacraftplus:item.Pig Iron Unshaped>, Unshaped: Pig Iron
+<terrafirmacraftplus:item.Pine Door>, Pine Door
+<terrafirmacraftplus:item.Platinum Double Ingot>, Platinum Double Ingot
+<terrafirmacraftplus:item.Platinum Double Sheet>, Platinum Double Sheet
+<terrafirmacraftplus:item.Platinum Ingot>, Platinum Ingot
+<terrafirmacraftplus:item.Platinum Sheet>, Platinum Sheet
+<terrafirmacraftplus:item.Platinum Unshaped>, Unshaped: Platinum
+<terrafirmacraftplus:item.Plum>, Plum
+<terrafirmacraftplus:item.Plum Juice>, Bottle of Plum Juice
+<terrafirmacraftplus:item.Plum JuicePottery>, Plum Juice Jug
+<terrafirmacraftplus:item.PlumBrandy>, Bottle of Plum Brandy
+<terrafirmacraftplus:item.PlumWine>, Bottle of Plum Wine
+<terrafirmacraftplus:item.PlumWinePottery>, Plum Wine Jug
+<terrafirmacraftplus:item.Porkchop>, Pork
+<terrafirmacraftplus:item.Potato>, Potato
+<terrafirmacraftplus:item.Potato Wine>, Bottle of Potato Wine
+<terrafirmacraftplus:item.Potato WinePottery>, Potato Wine Jug
+<terrafirmacraftplus:item.Powder>, Flux
+<terrafirmacraftplus:item.Prep Hide>, Small Prepared Hide
+<terrafirmacraftplus:item.Primitive Bandage>, Primitive Bandage
+<terrafirmacraftplus:item.ProPick Mold>, Clay ProPick Mold
+<terrafirmacraftplus:item.Pumpkin>, Pumpkin
+<terrafirmacraftplus:item.Pumpkin Shell>, Pumpkin Shell
+<terrafirmacraftplus:item.Quern>, Handstone
+<terrafirmacraftplus:item.Quiver>, Quiver
+<terrafirmacraftplus:item.Quiver Piece>, Quiver Side
+<terrafirmacraftplus:item.Raspberry>, Raspberries
+<terrafirmacraftplus:item.Raw Iron Bloom>, Raw Iron Bloom
+<terrafirmacraftplus:item.Red Apple>, Red Apple
+<terrafirmacraftplus:item.Red Bell Pepper>, Red Bell Pepper
+<terrafirmacraftplus:item.Red Mushroom>, Red Mushroom
+<terrafirmacraftplus:item.Red Steel Axe>, Red Steel Axe
+<terrafirmacraftplus:item.Red Steel Axe Head>, Red Steel Axe Head
+<terrafirmacraftplus:item.Red Steel Boots>, Red Steel Boots
+<terrafirmacraftplus:item.Red Steel Bucket Empty>, Red Steel Bucket (Empty)
+<terrafirmacraftplus:item.Red Steel Bucket Salt Water>, Red Steel Bucket (Salt Water)
+<terrafirmacraftplus:item.Red Steel Bucket Tannin>, Red Steel Bucket (Tannin)
+<terrafirmacraftplus:item.Red Steel Bucket Water>, Red Steel Bucket (Fresh Water)
+<terrafirmacraftplus:item.Red Steel Chestplate>, Red Steel Chestplate
+<terrafirmacraftplus:item.Red Steel Chisel>, Red Steel Chisel
+<terrafirmacraftplus:item.Red Steel Chisel Head>, Red Steel Chisel Head
+<terrafirmacraftplus:item.Red Steel Double Ingot>, Red Steel Double Ingot
+<terrafirmacraftplus:item.Red Steel Double Sheet>, Red Steel Double Sheet
+<terrafirmacraftplus:item.Red Steel Greaves>, Red Steel Greaves
+<terrafirmacraftplus:item.Red Steel Hammer>, Red Steel Hammer
+<terrafirmacraftplus:item.Red Steel Hammer Head>, Red Steel Hammer Head
+<terrafirmacraftplus:item.Red Steel Helmet>, Red Steel Helmet
+<terrafirmacraftplus:item.Red Steel Hoe>, Red Steel Hoe
+<terrafirmacraftplus:item.Red Steel Hoe Head>, Red Steel Hoe Head
+<terrafirmacraftplus:item.Red Steel Ingot>, Red Steel Ingot
+<terrafirmacraftplus:item.Red Steel Javelin>, Red Steel Javelin
+<terrafirmacraftplus:item.Red Steel Javelin Head>, Red Steel Javelin Head
+<terrafirmacraftplus:item.Red Steel Knife>, Red Steel Knife
+<terrafirmacraftplus:item.Red Steel Knife Blade>, Red Steel Knife Blade
+<terrafirmacraftplus:item.Red Steel Mace>, Red Steel Mace
+<terrafirmacraftplus:item.Red Steel Mace Head>, Red Steel Mace Head
+<terrafirmacraftplus:item.Red Steel Pick>, Red Steel Pickaxe
+<terrafirmacraftplus:item.Red Steel Pick Head>, Red Steel Pickaxe Head
+<terrafirmacraftplus:item.Red Steel ProPick>, Red Steel Prospector's Pick
+<terrafirmacraftplus:item.Red Steel ProPick Head>, Red Steel Prospector's Pick Head
+<terrafirmacraftplus:item.Red Steel Saw>, Red Steel Saw
+<terrafirmacraftplus:item.Red Steel Saw Blade>, Red Steel Saw Blade
+<terrafirmacraftplus:item.Red Steel Scythe>, Red Steel Scythe
+<terrafirmacraftplus:item.Red Steel Scythe Blade>, Red Steel Scythe Blade
+<terrafirmacraftplus:item.Red Steel Sheet>, Red Steel Sheet
+<terrafirmacraftplus:item.Red Steel Shovel>, Red Steel Shovel
+<terrafirmacraftplus:item.Red Steel Shovel Head>, Red Steel Shovel Head
+<terrafirmacraftplus:item.Red Steel Sword>, Red Steel Sword
+<terrafirmacraftplus:item.Red Steel Sword Blade>, Red Steel Sword Blade
+<terrafirmacraftplus:item.Red Steel Trowel>, Red Steel Mason's Trowel
+<terrafirmacraftplus:item.Red Steel Trowel Head>, Red Steel Mason's Trowel Head
+<terrafirmacraftplus:item.Red Steel Tuyere>, Red Steel Tuyere
+<terrafirmacraftplus:item.Red Steel Unfinished Boots>, Unfinished Red Steel Boots
+<terrafirmacraftplus:item.Red Steel Unfinished Chestplate>, Unfinished Red Steel Chestplate
+<terrafirmacraftplus:item.Red Steel Unfinished Greaves>, Unfinished Red Steel Greaves
+<terrafirmacraftplus:item.Red Steel Unfinished Helmet>, Unfinished Red Steel Helmet
+<terrafirmacraftplus:item.Red Steel Unshaped>, Unshaped: Red Steel
+<terrafirmacraftplus:item.Reeds>, Reeds
+<terrafirmacraftplus:item.Repair Patch>, Wool Scrap
+<terrafirmacraftplus:item.Resin>, Resin
+<terrafirmacraftplus:item.Rice Beer>, Bottle of Rice Beer
+<terrafirmacraftplus:item.Rice BeerPottery>, Rice Beer Jug
+<terrafirmacraftplus:item.Rice Bread>, Rice Bread
+<terrafirmacraftplus:item.Rice Dough>, Rice Dough
+<terrafirmacraftplus:item.Rice Germ>, Rice Malt
+<terrafirmacraftplus:item.Rice Grain>, Rice Grain
+<terrafirmacraftplus:item.Rice Ground>, Rice Flour
+<terrafirmacraftplus:item.Rice Whole>, Rice
+<terrafirmacraftplus:item.RiceWhiskey>, Bottle of Rice Whiskey
+<terrafirmacraftplus:item.Rope>, Rope
+<terrafirmacraftplus:item.RopeLadder>, Rope Ladder
+<terrafirmacraftplus:item.Rose Gold Candle Holder>, Rose Gold Candle Holder
+<terrafirmacraftplus:item.Rose Gold Double Ingot>, Rose Gold Double Ingot
+<terrafirmacraftplus:item.Rose Gold Double Sheet>, Rose Gold Double Sheet
+<terrafirmacraftplus:item.Rose Gold Ingot>, Rose Gold Ingot
+<terrafirmacraftplus:item.Rose Gold Sheet>, Rose Gold Sheet
+<terrafirmacraftplus:item.Rose Gold Unshaped>, Unshaped: Rose Gold
+<terrafirmacraftplus:item.Ruby>, Chipped Ruby
+<terrafirmacraftplus:item.Rum>, Bottle of Rum
+<terrafirmacraftplus:item.Rye Beer>, Bottle of Rye Beer
+<terrafirmacraftplus:item.Rye BeerPottery>, Rye Beer Jug
+<terrafirmacraftplus:item.Rye Bread>, Rye Bread
+<terrafirmacraftplus:item.Rye Dough>, Rye Dough
+<terrafirmacraftplus:item.Rye Germ>, Rye Malt
+<terrafirmacraftplus:item.Rye Grain>, Rye Grain
+<terrafirmacraftplus:item.Rye Ground>, Rye Flour
+<terrafirmacraftplus:item.Rye Whole>, Rye
+<terrafirmacraftplus:item.Rye Wine>, Bottle of Rye Wine
+<terrafirmacraftplus:item.Rye WinePottery>, Rye Wine Jug
+<terrafirmacraftplus:item.RyeWhiskey>, Bottle of Rye Whiskey
+<terrafirmacraftplus:item.Sack Piece>, Burlap Sack Piece
+<terrafirmacraftplus:item.Saddle Piece>, Saddle Leather
+<terrafirmacraftplus:item.Sake>, Bottle of Sake
+<terrafirmacraftplus:item.SakePottery>, Sake Jug
+<terrafirmacraftplus:item.Salad>, Salad
+<terrafirmacraftplus:item.Sandwich>, Sandwich
+<terrafirmacraftplus:item.Sapphire>, Chipped Sapphire
+<terrafirmacraftplus:item.Saw Mold>, Clay Saw Mold
+<terrafirmacraftplus:item.ScallopRaw>, Scallop
+<terrafirmacraftplus:item.Scraped Hide>, Small Scraped Hide
+<terrafirmacraftplus:item.Scythe Mold>, Clay Scythe Mold
+<terrafirmacraftplus:item.Sea Weed>, Sea Weed
+<terrafirmacraftplus:item.SeastarRaw>, Seastar
+<terrafirmacraftplus:item.Sed Stone Axe>, Stone Axe
+<terrafirmacraftplus:item.Sed Stone Axe Head>, Stone Axe Head
+<terrafirmacraftplus:item.Sed Stone Hoe>, Stone Hoe
+<terrafirmacraftplus:item.Sed Stone Hoe Head>, Stone Hoe Head
+<terrafirmacraftplus:item.Sed Stone Javelin>, Stone Javelin
+<terrafirmacraftplus:item.Sed Stone Javelin Head>, Stone Javelin Head
+<terrafirmacraftplus:item.Sed Stone Shovel>, Stone Shovel
+<terrafirmacraftplus:item.Sed Stone Shovel Head>, Stone Shovel Head
+<terrafirmacraftplus:item.Seeds Agave>, Agave Seeds
+<terrafirmacraftplus:item.Seeds Barley>, Barley Seeds
+<terrafirmacraftplus:item.Seeds Black-Eyed Peas>, Black-Eyed Pea Seeds
+<terrafirmacraftplus:item.Seeds Cabbage>, Cabbage Seeds
+<terrafirmacraftplus:item.Seeds Carrot>, Carrot Seeds
+<terrafirmacraftplus:item.Seeds Cotton>, Cotton Seeds
+<terrafirmacraftplus:item.Seeds Flax>, Flax Seeds
+<terrafirmacraftplus:item.Seeds Garlic>, Garlic Seeds
+<terrafirmacraftplus:item.Seeds Grapes>, Grape Seeds
+<terrafirmacraftplus:item.Seeds Greenbean>, Green Bean Seeds
+<terrafirmacraftplus:item.Seeds Jute>, Jute Seeds
+<terrafirmacraftplus:item.Seeds Madder>, Madder Seeds
+<terrafirmacraftplus:item.Seeds Maize>, Maize Seeds
+<terrafirmacraftplus:item.Seeds Melon>, Melon Seeds
+<terrafirmacraftplus:item.Seeds Oat>, Oat Seeds
+<terrafirmacraftplus:item.Seeds Onion>, Onion Seeds
+<terrafirmacraftplus:item.Seeds Potato>, Potato Seeds
+<terrafirmacraftplus:item.Seeds Pumpkin>, Pumpkin Seeds
+<terrafirmacraftplus:item.Seeds Red Bell Pepper>, Red Bell Pepper Seeds
+<terrafirmacraftplus:item.Seeds Rice>, Rice Seeds
+<terrafirmacraftplus:item.Seeds Rye>, Rye Seeds
+<terrafirmacraftplus:item.Seeds Soybean>, Soybean Seeds
+<terrafirmacraftplus:item.Seeds Squash>, Squash Seeds
+<terrafirmacraftplus:item.Seeds Sugarcane>, Sugarcane Seeds
+<terrafirmacraftplus:item.Seeds Tomato>, Tomato Seeds
+<terrafirmacraftplus:item.Seeds Weld>, Weld Seeds
+<terrafirmacraftplus:item.Seeds Wheat>, Wheat Seeds
+<terrafirmacraftplus:item.Seeds Woad>, Woad Seeds
+<terrafirmacraftplus:item.Seeds Yellow Bell Pepper>, Yellow Bell Pepper Seeds
+<terrafirmacraftplus:item.Sequoia Door>, Sequoia Door
+<terrafirmacraftplus:item.Sextant>, Unfinished Brass Sextant
+<terrafirmacraftplus:item.Sheep Skin>, Small Sheepskin
+<terrafirmacraftplus:item.Sheet Mold>, Clay Sheet Mold
+<terrafirmacraftplus:item.Shirt Body>, Wool Shirt Body
+<terrafirmacraftplus:item.Shirt Sleeves>, Wool Shirt Sleeves
+<terrafirmacraftplus:item.Shochu>, Bottle of Shochu
+<terrafirmacraftplus:item.Short Shirt Sleeves>, Wool Short Shirt Sleeves
+<terrafirmacraftplus:item.Shorts Piece>, Wool Shorts Piece
+<terrafirmacraftplus:item.Shovel Mold>, Clay Shovel Mold
+<terrafirmacraftplus:item.Silica>, Silica
+<terrafirmacraftplus:item.Silk Cloak>, Silk Cloak
+<terrafirmacraftplus:item.Silk Coat>, Silk Coat
+<terrafirmacraftplus:item.Silk Hat>, Silk Hat
+<terrafirmacraftplus:item.Silk Pants>, Silk Pants
+<terrafirmacraftplus:item.Silk Robe>, Silk Robe
+<terrafirmacraftplus:item.Silk Shirt>, Silk Shirt
+<terrafirmacraftplus:item.Silk Shorts>, Silk Shorts
+<terrafirmacraftplus:item.Silk Skirt>, Silk Skirt
+<terrafirmacraftplus:item.Silk Sleeveless Shirt>, Silk Sleeveless Shirt
+<terrafirmacraftplus:item.Silk Socks>, Silk Socks
+<terrafirmacraftplus:item.Silk TShirt>, Silk T-Shirt
+<terrafirmacraftplus:item.SilkCloth>, Silk Cloth
+<terrafirmacraftplus:item.SilkString>, Silk String
+<terrafirmacraftplus:item.Silver Candle Holder>, Silver Candle Holder
+<terrafirmacraftplus:item.Silver Double Ingot>, Silver Double Ingot
+<terrafirmacraftplus:item.Silver Double Sheet>, Silver Double Sheet
+<terrafirmacraftplus:item.Silver Ingot>, Silver Ingot
+<terrafirmacraftplus:item.Silver Sheet>, Silver Sheet
+<terrafirmacraftplus:item.Silver Unshaped>, Unshaped: Silver
+<terrafirmacraftplus:item.Sinew>, Sinew
+<terrafirmacraftplus:item.SinglePlank>, Oak Lumber
+<terrafirmacraftplus:item.Sisal Fibre>, Sisal Fibers
+<terrafirmacraftplus:item.Skirt Piece>, Wool Skirt Piece
+<terrafirmacraftplus:item.Slate Shingle>, Slate Shingle
+<terrafirmacraftplus:item.SluiceItem>, Sluice
+<terrafirmacraftplus:item.Small Ore>, Native Copper Nugget
+<terrafirmacraftplus:item.Small Vessel>, Clay Vessel
+<terrafirmacraftplus:item.Snowberry>, Snowberries
+<terrafirmacraftplus:item.Soaked Hide>, Small Soaked Hide
+<terrafirmacraftplus:item.Sock Cloth>, Wool Sock Cloth
+<terrafirmacraftplus:item.Soda>, Soda Ash
+<terrafirmacraftplus:item.Soybeans>, Soybeans
+<terrafirmacraftplus:item.Spindle>, Spindle
+<terrafirmacraftplus:item.Spindle Head>, Clay Spindle
+<terrafirmacraftplus:item.Splint>, Splint
+<terrafirmacraftplus:item.Spruce Door>, Spruce Door
+<terrafirmacraftplus:item.Squash>, Squash
+<terrafirmacraftplus:item.Stacked Log>, Stacked Oak Log
+<terrafirmacraftplus:item.Steel Axe>, Steel Axe
+<terrafirmacraftplus:item.Steel Axe Head>, Steel Axe Head
+<terrafirmacraftplus:item.Steel Boots>, Steel Boots
+<terrafirmacraftplus:item.Steel Chestplate>, Steel Chestplate
+<terrafirmacraftplus:item.Steel Chisel>, Steel Chisel
+<terrafirmacraftplus:item.Steel Chisel Head>, Steel Chisel Head
+<terrafirmacraftplus:item.Steel Double Ingot>, Steel Double Ingot
+<terrafirmacraftplus:item.Steel Double Sheet>, Steel Double Sheet
+<terrafirmacraftplus:item.Steel Greaves>, Steel Greaves
+<terrafirmacraftplus:item.Steel Hammer>, Steel Hammer
+<terrafirmacraftplus:item.Steel Hammer Head>, Steel Hammer Head
+<terrafirmacraftplus:item.Steel Helmet>, Steel Helmet
+<terrafirmacraftplus:item.Steel Hoe>, Steel Hoe
+<terrafirmacraftplus:item.Steel Hoe Head>, Steel Hoe Head
+<terrafirmacraftplus:item.Steel Ingot>, Steel Ingot
+<terrafirmacraftplus:item.Steel Javelin>, Steel Javelin
+<terrafirmacraftplus:item.Steel Javelin Head>, Steel Javelin Head
+<terrafirmacraftplus:item.Steel Knife>, Steel Knife
+<terrafirmacraftplus:item.Steel Knife Blade>, Steel Knife Blade
+<terrafirmacraftplus:item.Steel Mace>, Steel Mace
+<terrafirmacraftplus:item.Steel Mace Head>, Steel Mace Head
+<terrafirmacraftplus:item.Steel Pick>, Steel Pickaxe
+<terrafirmacraftplus:item.Steel Pick Head>, Steel Pickaxe Head
+<terrafirmacraftplus:item.Steel ProPick>, Steel Prospector's Pick
+<terrafirmacraftplus:item.Steel ProPick Head>, Steel Prospector's Pick Head
+<terrafirmacraftplus:item.Steel Saw>, Steel Saw
+<terrafirmacraftplus:item.Steel Saw Blade>, Steel Saw Blade
+<terrafirmacraftplus:item.Steel Scythe>, Steel Scythe
+<terrafirmacraftplus:item.Steel Scythe Blade>, Steel Scythe Blade
+<terrafirmacraftplus:item.Steel Sheet>, Steel Sheet
+<terrafirmacraftplus:item.Steel Shovel>, Steel Shovel
+<terrafirmacraftplus:item.Steel Shovel Head>, Steel Shovel Head
+<terrafirmacraftplus:item.Steel Sword>, Steel Sword
+<terrafirmacraftplus:item.Steel Sword Blade>, Steel Sword Blade
+<terrafirmacraftplus:item.Steel Trowel>, Steel Mason's Trowel
+<terrafirmacraftplus:item.Steel Trowel Head>, Steel Mason's Trowel Head
+<terrafirmacraftplus:item.Steel Tuyere>, Steel Tuyere
+<terrafirmacraftplus:item.Steel Unfinished Boots>, Unfinished Steel Boots
+<terrafirmacraftplus:item.Steel Unfinished Chestplate>, Unfinished Steel Chestplate
+<terrafirmacraftplus:item.Steel Unfinished Greaves>, Unfinished Steel Greaves
+<terrafirmacraftplus:item.Steel Unfinished Helmet>, Unfinished Steel Helmet
+<terrafirmacraftplus:item.Steel Unshaped>, Unshaped: Steel
+<terrafirmacraftplus:item.Sterile Bandage>, Sterile Bandages
+<terrafirmacraftplus:item.Sterling Silver Candle Holder>, Sterling Silver Candle Holder
+<terrafirmacraftplus:item.Sterling Silver Double Ingot>, Sterling Silver Double Ingot
+<terrafirmacraftplus:item.Sterling Silver Double Sheet>, Sterling Silver Double Sheet
+<terrafirmacraftplus:item.Sterling Silver Ingot>, Sterling Silver Ingot
+<terrafirmacraftplus:item.Sterling Silver Sheet>, Sterling Silver Sheet
+<terrafirmacraftplus:item.Sterling Silver Unshaped>, Unshaped: Sterling Silver
+<terrafirmacraftplus:item.StickBundle>, Bundle of Sticks
+<terrafirmacraftplus:item.Stone Hammer>, Stone Hammer
+<terrafirmacraftplus:item.Stone Hammer Head>, Stone Hammer Head
+<terrafirmacraftplus:item.Stone Knife>, Stone Knife
+<terrafirmacraftplus:item.Stone Knife Blade>, Stone Knife Blade
+<terrafirmacraftplus:item.StoneFlake>, Stone Flake
+<terrafirmacraftplus:item.Strap>, Leather Strap
+<terrafirmacraftplus:item.Straw>, Straw
+<terrafirmacraftplus:item.Straw Basket>, Straw Basket
+<terrafirmacraftplus:item.Straw Hat>, Straw Hat
+<terrafirmacraftplus:item.Straw Hat2>, Straw Hat
+<terrafirmacraftplus:item.Straw Socks>, Straw Foot Wraps
+<terrafirmacraftplus:item.StrawCordage>, Grass Cordage
+<terrafirmacraftplus:item.Strawberry>, Strawberries
+<terrafirmacraftplus:item.Sugar>, Sugar
+<terrafirmacraftplus:item.Sugarcane>, Sugarcane
+<terrafirmacraftplus:item.Sword Mold>, Clay Sword Mold
+<terrafirmacraftplus:item.Sycamore Door>, Sycamore Door
+<terrafirmacraftplus:item.TFC Leather>, Leather
+<terrafirmacraftplus:item.Teak Door>, Teak Door
+<terrafirmacraftplus:item.Tequila>, Tequila
+<terrafirmacraftplus:item.Thick Log>, Large Oak Log
+<terrafirmacraftplus:item.Tin Double Ingot>, Tin Double Ingot
+<terrafirmacraftplus:item.Tin Double Sheet>, Tin Double Sheet
+<terrafirmacraftplus:item.Tin Ingot>, Tin Ingot
+<terrafirmacraftplus:item.Tin Sheet>, Tin Sheet
+<terrafirmacraftplus:item.Tin Unshaped>, Unshaped: Tin
+<terrafirmacraftplus:item.Tomato>, Tomato
+<terrafirmacraftplus:item.Topaz>, Chipped Topaz
+<terrafirmacraftplus:item.Tourmaline>, Chipped Tourmaline
+<terrafirmacraftplus:item.Trowel Mold>, Clay Trowel Mold
+<terrafirmacraftplus:item.Unfired Clay Bucket>, Clay Bucket
+<terrafirmacraftplus:item.Unknown Ingot>, Unknown Ingot
+<terrafirmacraftplus:item.Unknown Unshaped>, Unshaped: Unknown
+<terrafirmacraftplus:item.Venison>, Venison
+<terrafirmacraftplus:item.Vodka>, Bottle of Vodka
+<terrafirmacraftplus:item.Water Bottle>, Bottle of Water
+<terrafirmacraftplus:item.Water BottlePottery>, Water Jug
+<terrafirmacraftplus:item.Waterskin>, Waterskin
+<terrafirmacraftplus:item.WaterskinEmpty>, Empty Waterskin
+<terrafirmacraftplus:item.Wattle Door>, Wattle Door
+<terrafirmacraftplus:item.Weak Blue Steel Ingot>, Weak Blue Steel Ingot
+<terrafirmacraftplus:item.Weak Blue Steel Unshaped>, Unshaped: Weak Blue Steel
+<terrafirmacraftplus:item.Weak Red Steel Ingot>, Weak Red Steel Ingot
+<terrafirmacraftplus:item.Weak Red Steel Unshaped>, Unshaped: Weak Red Steel
+<terrafirmacraftplus:item.Weak Steel Ingot>, Weak Steel Ingot
+<terrafirmacraftplus:item.Weak Steel Unshaped>, Unshaped: Weak Steel
+<terrafirmacraftplus:item.Weld Root>, Weld Root
+<terrafirmacraftplus:item.Wheat Beer>, Bottle of Wheat Beer
+<terrafirmacraftplus:item.Wheat BeerPottery>, Wheat Beer Jug
+<terrafirmacraftplus:item.Wheat Bread>, Wheat Bread
+<terrafirmacraftplus:item.Wheat Dough>, Wheat Dough
+<terrafirmacraftplus:item.Wheat Germ>, Wheat Malt
+<terrafirmacraftplus:item.Wheat Grain>, Wheat Grain
+<terrafirmacraftplus:item.Wheat Ground>, Wheat Flour
+<terrafirmacraftplus:item.Wheat Whole>, Wheat
+<terrafirmacraftplus:item.Wheat Wine>, Bottle of Wheat Wine
+<terrafirmacraftplus:item.Wheat WinePottery>, Wheat Wine Jug
+<terrafirmacraftplus:item.Whiskey>, Bottle of Whiskey
+<terrafirmacraftplus:item.White Cedar Door>, White Cedar Door
+<terrafirmacraftplus:item.White Elm Door>, White Elm Door
+<terrafirmacraftplus:item.Wicker>, Wicker
+<terrafirmacraftplus:item.Willow Door>, Willow Door
+<terrafirmacraftplus:item.Wine>, Bottle of Wine
+<terrafirmacraftplus:item.WinePottery>, Wine Jug
+<terrafirmacraftplus:item.Wintergreen Berry>, Wintergreen Berries
+<terrafirmacraftplus:item.Woad Leaves>, Woad Leaves
+<terrafirmacraftplus:item.Wolf Fur>, Small Wolf Fur
+<terrafirmacraftplus:item.Wolf Fur Boots>, Wolf Fur Boots
+<terrafirmacraftplus:item.Wolf Fur Cloak>, Wolf Fur Cloak
+<terrafirmacraftplus:item.Wolf Fur Coat>, Wolf Fur Coat
+<terrafirmacraftplus:item.Wolf Fur Generic Hat>, Wolf Fur Hat
+<terrafirmacraftplus:item.Wolf Fur Hat>, Wolf Fur Hat
+<terrafirmacraftplus:item.Wolf Fur Pants>, Wolf Fur Pants
+<terrafirmacraftplus:item.Wolf Fur Scrap>, Small Wolf Fur Scrap
+<terrafirmacraftplus:item.WoodGear>, Wooden Gear (0 teeth)
+<terrafirmacraftplus:item.Wooden Bucket Empty>, Wooden Bucket (Empty)
+<terrafirmacraftplus:item.Wooden Bucket Gypsum>, Plaster of Paris (Solid)
+<terrafirmacraftplus:item.Wooden Bucket Honey>, Wooden Bucket (Honey)
+<terrafirmacraftplus:item.Wooden Bucket Milk>, Wooden Bucket (Milk)
+<terrafirmacraftplus:item.Wooden Bucket Pitch>, Wooden Bucket (Pitch)
+<terrafirmacraftplus:item.Wooden Bucket Plaster>, Plaster of Paris (Liquid)
+<terrafirmacraftplus:item.Wooden Bucket Salt Water>, Wooden Bucket (Salt Water)
+<terrafirmacraftplus:item.Wooden Bucket Vinegar>, Wooden Bucket (Vinegar)
+<terrafirmacraftplus:item.Wooden Bucket Water>, Wooden Bucket (Fresh Water)
+<terrafirmacraftplus:item.Wooden Spear>, Wooden Spear
+<terrafirmacraftplus:item.Wooden Spear Bundle>, Wooden Spear Bundle
+<terrafirmacraftplus:item.Wooden Staff>, Wooden Staff
+<terrafirmacraftplus:item.Wool>, Wool
+<terrafirmacraftplus:item.Wool Cloak>, Wool Cloak
+<terrafirmacraftplus:item.Wool Coat>, Wool Coat
+<terrafirmacraftplus:item.Wool Hat>, Wool Hat
+<terrafirmacraftplus:item.Wool Pants>, Wool Pants
+<terrafirmacraftplus:item.Wool Robe>, Wool Robe
+<terrafirmacraftplus:item.Wool Shirt>, Wool Shirt
+<terrafirmacraftplus:item.Wool Shorts>, Wool Shorts
+<terrafirmacraftplus:item.Wool Skirt>, Wool Skirt
+<terrafirmacraftplus:item.Wool Sleeveless Shirt>, Wool Sleeveless Shirt
+<terrafirmacraftplus:item.Wool Socks>, Wool Socks
+<terrafirmacraftplus:item.Wool TShirt>, Wool T-Shirt
+<terrafirmacraftplus:item.WoolCloth>, Wool Cloth
+<terrafirmacraftplus:item.WoolYarn>, Wool Yarn
+<terrafirmacraftplus:item.Wrought Iron Axe>, Wrought Iron Axe
+<terrafirmacraftplus:item.Wrought Iron Axe Head>, Wrought Iron Axe Head
+<terrafirmacraftplus:item.Wrought Iron Boots>, Wrought Iron Boots
+<terrafirmacraftplus:item.Wrought Iron Chestplate>, Wrought Iron Chestplate
+<terrafirmacraftplus:item.Wrought Iron Chisel>, Wrought Iron Chisel
+<terrafirmacraftplus:item.Wrought Iron Chisel Head>, Wrought Iron Chisel Head
+<terrafirmacraftplus:item.Wrought Iron Double Ingot>, Wrought Iron Double Ingot
+<terrafirmacraftplus:item.Wrought Iron Double Sheet>, Wrought Iron Double Sheet
+<terrafirmacraftplus:item.Wrought Iron Greaves>, Wrought Iron Greaves
+<terrafirmacraftplus:item.Wrought Iron Hammer>, Wrought Iron Hammer
+<terrafirmacraftplus:item.Wrought Iron Hammer Head>, Wrought Iron Hammer Head
+<terrafirmacraftplus:item.Wrought Iron Helmet>, Wrought Iron Helmet
+<terrafirmacraftplus:item.Wrought Iron Hoe>, Wrought Iron Hoe
+<terrafirmacraftplus:item.Wrought Iron Hoe Head>, Wrought Iron Hoe Head
+<terrafirmacraftplus:item.Wrought Iron Ingot>, Wrought Iron Ingot
+<terrafirmacraftplus:item.Wrought Iron Javelin>, Wrought Iron Javelin
+<terrafirmacraftplus:item.Wrought Iron Javelin Head>, Wrought Iron Javelin Head
+<terrafirmacraftplus:item.Wrought Iron Knife>, Wrought Iron Knife
+<terrafirmacraftplus:item.Wrought Iron Knife Blade>, Wrought Iron Knife Blade
+<terrafirmacraftplus:item.Wrought Iron Mace>, Wrought Iron Mace
+<terrafirmacraftplus:item.Wrought Iron Mace Head>, Wrought Iron Mace Head
+<terrafirmacraftplus:item.Wrought Iron Pick>, Wrought Iron Pickaxe
+<terrafirmacraftplus:item.Wrought Iron Pick Head>, Wrought Iron Pickaxe Head
+<terrafirmacraftplus:item.Wrought Iron ProPick>, Wrought Iron Prospector's Pick
+<terrafirmacraftplus:item.Wrought Iron ProPick Head>, Wrought Iron Prospector's Pick Head
+<terrafirmacraftplus:item.Wrought Iron Saw>, Wrought Iron Saw
+<terrafirmacraftplus:item.Wrought Iron Saw Blade>, Wrought Iron Saw Blade
+<terrafirmacraftplus:item.Wrought Iron Scythe>, Wrought Iron Scythe
+<terrafirmacraftplus:item.Wrought Iron Scythe Blade>, Wrought Iron Scythe Blade
+<terrafirmacraftplus:item.Wrought Iron Sheet>, Wrought Iron Sheet
+<terrafirmacraftplus:item.Wrought Iron Shovel>, Wrought Iron Shovel
+<terrafirmacraftplus:item.Wrought Iron Shovel Head>, Wrought Iron Shovel Head
+<terrafirmacraftplus:item.Wrought Iron Sword>, Wrought Iron Sword
+<terrafirmacraftplus:item.Wrought Iron Sword Blade>, Wrought Iron Sword Blade
+<terrafirmacraftplus:item.Wrought Iron Trowel>, Wrought Iron Mason's Trowel
+<terrafirmacraftplus:item.Wrought Iron Trowel Head>, Wrought Iron Mason's Trowel Head
+<terrafirmacraftplus:item.Wrought Iron Tuyere>, Wrought Iron Tuyere
+<terrafirmacraftplus:item.Wrought Iron Unfinished Boots>, Unfinished Wrought Iron Boots
+<terrafirmacraftplus:item.Wrought Iron Unfinished Chestplate>, Unfinished Wrought Iron Chestplate
+<terrafirmacraftplus:item.Wrought Iron Unfinished Greaves>, Unfinished Wrought Iron Greaves
+<terrafirmacraftplus:item.Wrought Iron Unfinished Helmet>, Unfinished Wrought Iron Helmet
+<terrafirmacraftplus:item.Wrought Iron Unshaped>, Unshaped: Wrought Iron
+<terrafirmacraftplus:item.Yellow Bell Pepper>, Yellow Bell Pepper
+<terrafirmacraftplus:item.Yew Door>, Yew Door
+<terrafirmacraftplus:item.Zinc Double Ingot>, Zinc Double Ingot
+<terrafirmacraftplus:item.Zinc Double Sheet>, Zinc Double Sheet
+<terrafirmacraftplus:item.Zinc Ingot>, Zinc Ingot
+<terrafirmacraftplus:item.Zinc Sheet>, Zinc Sheet
+<terrafirmacraftplus:item.Zinc Unshaped>, Unshaped: Zinc
+<terrafirmacraftplus:item.arrow>, Arrow
+<terrafirmacraftplus:item.blowing horn>, Blowing Horn
+<terrafirmacraftplus:item.bootsCloth>, Leather Boots
+<terrafirmacraftplus:item.bow>, Bow
+<terrafirmacraftplus:item.bugle>, Bugle
+<terrafirmacraftplus:item.chestplateCloth>, Leather Tunic
+<terrafirmacraftplus:item.clothSling>, Cloth Sling
+<terrafirmacraftplus:item.coal>, Coal
+<terrafirmacraftplus:item.coconutShell>, Coconut Shell
+<terrafirmacraftplus:item.composite_bow>, Composite Bow
+<terrafirmacraftplus:item.conch horn>, Conch
+<terrafirmacraftplus:item.dyePowder>, Ink Sac
+<terrafirmacraftplus:item.egg>, Egg
+<terrafirmacraftplus:item.fishingRod>, Fishing Rod
+<terrafirmacraftplus:item.flintAndSteel>, Flint and Steel
+<terrafirmacraftplus:item.helmetCloth>, Leather Cap
+<terrafirmacraftplus:item.horn>, Horn
+<terrafirmacraftplus:item.horn strips>, Horn Strips
+<terrafirmacraftplus:item.leadBullet>, Lead Bullet
+<terrafirmacraftplus:item.leatherSling>, Leather Sling
+<terrafirmacraftplus:item.leggingsCloth>, Leather Chaps
+<terrafirmacraftplus:item.metalChunk>, Unknown Scrap
+<terrafirmacraftplus:item.pitchBag>, Unfinished Waterskin
+<terrafirmacraftplus:item.pole>, Pole
+<terrafirmacraftplus:item.primitiveSling>, Primitive Sling
+<terrafirmacraftplus:item.saddleTFC>, Saddle
+<terrafirmacraftplus:item.scallop>, Scallop (Live)
+<terrafirmacraftplus:item.seashell>, Seashell
+<terrafirmacraftplus:item.shears>, Shears
+<terrafirmacraftplus:item.starfish>, Seastar (Live)
+<terrafirmacraftplus:item.stick>, Stick
+<terrafirmacraftplus:item.unstrung bow>, Unstrung Bow
+<terrafirmacraftplus:item.unstrung comp bow>, Unstrung Composite Bow
+<terrafirmacraftplus:item.unstrung comp bow2>, Unfinished Composite Bow
+<terrafirmacraftplus:leafLitter>, Leaves
+<terrafirmacraftplus:leaves>, Oak Leaves
+<terrafirmacraftplus:leaves2>, Acacia Leaves
+<terrafirmacraftplus:leaves3>, Yew Leaves
+<terrafirmacraftplus:log>, Oak Log
+<terrafirmacraftplus:log2>, Acacia Log
+<terrafirmacraftplus:log3>, Yew Log
+<terrafirmacraftplus:lowUndergrowth>, Undergrowth
+<terrafirmacraftplus:mudBricks>, Mudbricks
+<terrafirmacraftplus:mudBricks2>, Mudbricks
+<terrafirmacraftplus:mudStructure>, tile.mudStructure.name
+<terrafirmacraftplus:mudStructureBaked>, tile.mudStructure.name
+<terrafirmacraftplus:planks>, Oak Planks
+<terrafirmacraftplus:planks2>, Acacia Planks
+<terrafirmacraftplus:planks3>, Yew Planks
+<terrafirmacraftplus:plasteredBlock>, Plaster
+<terrafirmacraftplus:sapling>, Oak Sapling
+<terrafirmacraftplus:sapling2>, Acacia Sapling
+<terrafirmacraftplus:sapling3>, Yew Sapling
+<terrafirmacraftplus:shrub>, Shrub
+<terrafirmacraftplus:skinnyLog>, tile.skinnyLog.Oak.name
+<terrafirmacraftplus:skinnyLog2>, tile.skinnyLog2.Acacia.name
+<terrafirmacraftplus:skinnyLog3>, tile.skinnyLog3.Yew.name
+<terrafirmacraftplus:slateRoof>, Slate Roof
+<terrafirmacraftplus:stoneSlabs>, Slab
+<terrafirmacraftplus:stoneStairs>, Stair
+<terrafirmacraftplus:stoneStalac>, Stalactite
+<terrafirmacraftplus:thatchRoof>, Thatch Roof
+<terrafirmacraftplus:tilledSoil>, Farmland
+<terrafirmacraftplus:tilledSoil2>, Farmland
+<terrafirmacraftplus:undergrowth>, Undergrowth
+<terrafirmacraftplus:undergrowthPalm>, Undergrowth
+<tfcaths:African_Milk_Barrel>, African Milk Barrel
+<tfcaths:African_Milk_Tree>, African Milk Tree
+<tfcaths:Agate>, Embedded Agate
+<tfcaths:Albanian_Spurge>, Albanian Spurge
+<tfcaths:Algae_Mat_Cyanobacteria>, Cyanobacteria
+<tfcaths:Algae_Mat_Green>, Green Algae
+<tfcaths:Algae_Mat_Red>, Red Algae
+<tfcaths:Aloe_Vera>, Aloe Vera
+<tfcaths:Amethyst>, Amethyst Crust
+<tfcaths:Amethyst_Cluster>, Amethyst Cluster
+<tfcaths:Angel_Wing_Cactus>, Angel Wing Cactus
+<tfcaths:Angels_Trumpet>, Orange Angel's Trumpet
+<tfcaths:Arpophyllum_Giganteum>, Arpophyllum Giganteum
+<tfcaths:Artists_Conk>, Artists Conk
+<tfcaths:Beefsteak_Fungus>, Beefsteak Fungus
+<tfcaths:Beryl>, Beryl Crust
+<tfcaths:Beryl_Cluster>, Beryl Cluster
+<tfcaths:Birch_Polypore>, Birch Polypore
+<tfcaths:Bird_of_Paradise>, Bird of Paradise
+<tfcaths:Bitter_Oyster>, Bitter Oyster
+<tfcaths:Black_Spleenwort>, Black Spleenwort
+<tfcaths:Blood_Lily>, Blood Lily
+<tfcaths:Blue_Cereus_Cactus>, Blue Cereus Cactus
+<tfcaths:Bluebell>, Bluebell
+<tfcaths:Boletus>, Boletus
+<tfcaths:Bonatea>, Bonatea
+<tfcaths:Boston_Fern>, Boston Fern
+<tfcaths:Bracken_Fern>, Bracken
+<tfcaths:Bridal_Veil_Stinkhorn>, Bridal Veil Stinkhorn
+<tfcaths:Burdock>, Burdock
+<tfcaths:Camas_Flower>, Camas Flower
+<tfcaths:Caralluma>, Caralluma
+<tfcaths:Chaga>, Chaga Fungus
+<tfcaths:Chanterelle>, Chanterelle
+<tfcaths:Chives>, Chives
+<tfcaths:Chlorophos_Foxfire>, Chlorophos Foxfire Mushroom
+<tfcaths:Clover>, Clover
+<tfcaths:Common_Reeds>, Common Reeds
+<tfcaths:Creeping_Charlie>, Creeping Charlie
+<tfcaths:Cup_Plant>, Cup Plant
+<tfcaths:Cycad>, Male Cycad
+<tfcaths:Daffodil>, Daffodil
+<tfcaths:Desert_Rose>, Desert Rose
+<tfcaths:Devils_Club>, Devil's Club
+<tfcaths:Devils_Fingers>, Devil's Fingers Stinkhorn
+<tfcaths:Devils_Tongue>, Devil's Tongue Lily
+<tfcaths:Diamond>, Diamond Crust
+<tfcaths:Diamond_Cluster>, Diamond Cluster
+<tfcaths:Dryads_Saddle>, Dryads Saddle
+<tfcaths:Duckweed>, Duckweed
+<tfcaths:Dune_Grass>, Dune Grass
+<tfcaths:Egyptian_Autumn_Crocus>, Egyptian Autumn Crocus
+<tfcaths:Elephant_Grass>, Elephant Grass
+<tfcaths:Emerald>, Emerald Crust
+<tfcaths:Emerald_Cluster>, Emerald Cluster
+<tfcaths:Entoloma>, Entoloma
+<tfcaths:European_Bedstraw>, European Bedstraw
+<tfcaths:Field_Horsetail>, Field Horsetail
+<tfcaths:Fireweed>, Fireweed
+<tfcaths:Freesia>, Freesia
+<tfcaths:Garlic_Mustard>, Garlic Mustard
+<tfcaths:Garnet>, Garnet Crust
+<tfcaths:Garnet_Cluster>, Garnet Cluster
+<tfcaths:Giant_Hogweed>, Giant Hogweed
+<tfcaths:Gifboom>, Gifboom
+<tfcaths:Gypsum>, Gypsum Crust
+<tfcaths:Gypsum_Cluster>, Gypsum Cluster
+<tfcaths:Heather>, Pink Heather
+<tfcaths:Hedgehog_Lip_Orchid>, Hedgehog Lip Orchid
+<tfcaths:Hibiscus>, Hawaiian Hibiscus
+<tfcaths:Holly>, Holly
+<tfcaths:Hosta_Halcyon>, Halcyon Hosta
+<tfcaths:Hosta_Patriot>, Patriot Hosta
+<tfcaths:Hosta_Sum_And_Substance>, Sum and Substance Hosta
+<tfcaths:Hosta_Vulcan>, Vulcan Hosta
+<tfcaths:Indian_Pipe>, Indian Pipes
+<tfcaths:Indigo_Milk_Cap>, Indigo Milk Cap
+<tfcaths:Iris>, Iris
+<tfcaths:Jack_In_The_Pulpit>, Jack in the Pulpit
+<tfcaths:Jade>, Embedded Jade
+<tfcaths:Jasper>, Embedded Jasper
+<tfcaths:Lady_Fern>, Lady Fern
+<tfcaths:Lavender>, Lavender
+<tfcaths:Leafy_Low_Undergrowth>, Low Leafy Undergrowth
+<tfcaths:Leafy_Undergrowth>, Leafy Undergrowth
+<tfcaths:Leopard_Orchid>, Leopard Orchid
+<tfcaths:Leopard_Orchid_Epiphyte>, Leopard Orchid
+<tfcaths:Lily_Pad>, Small Lily Pad
+<tfcaths:Lions_Mane>, Lions Mane
+<tfcaths:Lobster_Claws>, Lobster_Claws
+<tfcaths:Loose_Flowered_Orchid>, Loose Flowered Orchid
+<tfcaths:Lotus>, Lotus
+<tfcaths:Lupine>, Broadleaf Lupine
+<tfcaths:Maidenhair_Fern>, Maidenhair Fern
+<tfcaths:Mallow>, Mallow
+<tfcaths:Marigold>, Marigold
+<tfcaths:Medium_Undergrowth>, Brush
+<tfcaths:Mistletoe>, American Mistletoe
+<tfcaths:Morel>, Morel
+<tfcaths:Narbon_Vetch>, Narbon Vetch
+<tfcaths:Ocotillo>, Ocotillo
+<tfcaths:Opal>, Embedded Opal
+<tfcaths:Organ_Pipe_Cactus>, Organ Pipe Cactus
+<tfcaths:Ostrich_Fern>, Ostrich Fern
+<tfcaths:Painted_Fern>, Japanese Painted Fern
+<tfcaths:Pale_Umbrella_Orchid>, Pale Umbrella Orchid
+<tfcaths:Papyrus>, Papyrus
+<tfcaths:Periwinkle>, Periwinkle
+<tfcaths:Pokeweed>, Pokeweed
+<tfcaths:Pond_Grass>, Sedge
+<tfcaths:Prairie_Grass>, Prairie Grass
+<tfcaths:Prickly_Pear>, Prickly Pear Cactus
+<tfcaths:Purpureorachis>, Purpureorachis Orchid
+<tfcaths:Quaqua>, Quaqua
+<tfcaths:Rafflesia>, Rafflesia
+<tfcaths:Reishi>, Reishi
+<tfcaths:Rock_Crystal>, Rock Crystal Crust
+<tfcaths:Rock_Crystal_Cluster>, Rock Crystal Cluster
+<tfcaths:Rosebush>, Rose Bush
+<tfcaths:Rough_Horsetail>, Rough Horsetail
+<tfcaths:Royal_Jasmine>, Royal Jasmine
+<tfcaths:Ruby>, Ruby Crust
+<tfcaths:Ruby_Cluster>, Ruby Cluster
+<tfcaths:Sagebrush>, Sagebrush
+<tfcaths:Saguaro>, Saguaro Cactus
+<tfcaths:Saltwort>, Saltwort
+<tfcaths:Sapphire>, Sapphire Crust
+<tfcaths:Sapphire_Cluster>, Sapphire Cluster
+<tfcaths:Saxaul>, Saxaul
+<tfcaths:Scaly_Tree_Fern>, Scaly Tree Fern
+<tfcaths:Sensitive_Fern>, Sensitive Fern
+<tfcaths:Sesame>, Sesame
+<tfcaths:Shaggy_Bracket>, Shaggy Bracket
+<tfcaths:Shitake>, Shitake
+<tfcaths:Snake_Sanseveria>, Snake Sanseveria
+<tfcaths:Sorbus>, Sorbus Tree
+<tfcaths:Squirrels_Foot_Fern>, Squirrels Foot Fern
+<tfcaths:Staghorn_Fern>, Staghorn Fern
+<tfcaths:Starfish_Plant>, Starfish Plant
+<tfcaths:Sulphur_Shelf>, Chicken of the Woods
+<tfcaths:Sumac>, Sumac
+<tfcaths:Sundew>, Sundew
+<tfcaths:Sunflower>, Sunflower
+<tfcaths:Sword_Fern>, Sword Fern
+<tfcaths:Sword_Sanseveria>, Sword Sanseveria
+<tfcaths:Thistle>, Thistle
+<tfcaths:Tillandsia_Bromeliad>, Tillandsia Bromeliad
+<tfcaths:Titan_Arum>, Titan Arum
+<tfcaths:Topaz>, Topaz Crust
+<tfcaths:Topaz_Cluster>, Topaz Cluster
+<tfcaths:Tourmaline>, Tourmaline Crust
+<tfcaths:Tourmaline_Cluster>, Tourmaline Cluster
+<tfcaths:Turkey_Tail>, Turkey Tail
+<tfcaths:Venus_Flytrap>, Venus Flytrap
+<tfcaths:Victoria_Lily_Pad>, Victoria Lily Pad
+<tfcaths:Voodoo_Lily>, Voodoo Lily
+<tfcaths:Water_Hyacinth>, Water Hyacinth
+<tfcaths:Water_Plantain>, Water Plantain
+<tfcaths:Welwitschia>, Male Welwitschia
+<tfcaths:Wood_Bitter_Vetch>, Wood Bitter Vetch
+<tfcaths:Wood_Fern>, Wood Fern
+<tfcaths:Yarrow>, Yarrow
+<tfcaths:Young_Acacia>, Young Acacia Tree
+<tfcaths:Young_Ash>, Young Ash Tree
+<tfcaths:Young_Aspen>, Young Aspen Tree
+<tfcaths:Young_Baobab>, Young Baobab Tree
+<tfcaths:Young_Birch>, Young Birch Tree
+<tfcaths:Young_Chestnut>, Young Chestnut Tree
+<tfcaths:Young_Douglas_Fir>, Young Douglas Fir Tree
+<tfcaths:Young_Ebony>, Young Ebony Tree
+<tfcaths:Young_Fever>, Young Fever Tree
+<tfcaths:Young_Ghaf>, Young Ghaf Tree
+<tfcaths:Young_Gingko>, Young Gingko Tree
+<tfcaths:Young_Hickory>, Young Hickory Tree
+<tfcaths:Young_Kapok>, Young Kapok Tree
+<tfcaths:Young_Laurel>, Young Laurel Tree
+<tfcaths:Young_Limba>, Young Limba Tree
+<tfcaths:Young_Mahoe>, Young Mahoe Tree
+<tfcaths:Young_Mahogany>, Young Mahogany Tree
+<tfcaths:Young_Maple>, Young Maple Tree
+<tfcaths:Young_Oak>, Young Oak Tree
+<tfcaths:Young_Pine>, Young Pine Tree
+<tfcaths:Young_Sequoia>, Young Sequoia Tree
+<tfcaths:Young_Spruce>, Young Spruce Tree
+<tfcaths:Young_Sycamore>, Young Sycamore Tree
+<tfcaths:Young_Teak>, Young Teak Tree
+<tfcaths:Young_White_Cedar>, Young White Cedar Tree
+<tfcaths:Young_White_Elm>, Young White Elm Tree
+<tfcaths:Young_Willow>, Young Willow Tree
+<tfcaths:Young_Yew>, Young Yew Tree
+<tfcaths:Yucca>, Yucca
+<tfcplus-bids:CarvingRock>, tile.CarvingRock.name
+<tfcplus-bids:CarvingWood>, tile.CarvingWood.name
+<tfcplus-bids:ChoppingBlock>, Chopping Block
+<tfcplus-bids:ChoppingBlock2>, Chopping Block
+<tfcplus-bids:ChoppingBlock3>, Chopping Block
+<tfcplus-bids:ClayCrucible>, Ceramic Crucible
+<tfcplus-bids:DryingRack>, Drying Rack
+<tfcplus-bids:FireClayCrucible>, Crucible
+<tfcplus-bids:LogWallCorner>, Oak Log Wall
+<tfcplus-bids:LogWallCorner2>, Acacia Log Wall
+<tfcplus-bids:LogWallCorner3>, Yew Log Wall
+<tfcplus-bids:LogWallCornerAlt>, Oak Log Wall
+<tfcplus-bids:LogWallCornerAlt2>, Acacia Log Wall
+<tfcplus-bids:LogWallCornerAlt3>, Yew Log Wall
+<tfcplus-bids:LogWallEast>, Oak Log Wall
+<tfcplus-bids:LogWallEast2>, Acacia Log Wall
+<tfcplus-bids:LogWallEast3>, Yew Log Wall
+<tfcplus-bids:LogWallEastAlt>, Oak Log Wall
+<tfcplus-bids:LogWallEastAlt2>, Acacia Log Wall
+<tfcplus-bids:LogWallEastAlt3>, Yew Log Wall
+<tfcplus-bids:LogWallNorth>, Oak Log Wall
+<tfcplus-bids:LogWallNorth2>, Acacia Log Wall
+<tfcplus-bids:LogWallNorth3>, Yew Log Wall
+<tfcplus-bids:LogWallNorthAlt>, Oak Log Wall
+<tfcplus-bids:LogWallNorthAlt2>, Acacia Log Wall
+<tfcplus-bids:LogWallNorthAlt3>, Yew Log Wall
+<tfcplus-bids:MudBrickChimney>, Mudbrick Chimney
+<tfcplus-bids:MudBrickChimney2>, Mudbrick Chimney
+<tfcplus-bids:NewFirepit>, Firepit
+<tfcplus-bids:Quary>, Quarry
+<tfcplus-bids:RoughStoneBrickSed>, Rough Shale Bricks
+<tfcplus-bids:RoughStoneSed>, Rough Shale
+<tfcplus-bids:StackedFirewood>, tile.StackedFirewood.name
+<tfcplus-bids:StackedFirewood2>, tile.StackedFirewood2.name
+<tfcplus-bids:StackedFirewood3>, tile.StackedFirewood3.name
+<tfcplus-bids:TiedStickBundle>, tile.TiedStickBundle.name
+<tfcplus-bids:WoodPile>, Wood Pile
+<tfcplus-bids:item.Bark>, Oak Bark
+<tfcplus-bids:item.Bark Cordage>, Bark Cordage
+<tfcplus-bids:item.Bark Fibre>, Bark Fibers
+<tfcplus-bids:item.Bark Fibre Kindling>, Bark Fiber Kindling
+<tfcplus-bids:item.Bark Fibre Strip>, Bark Fiber Strip
+<tfcplus-bids:item.Brass Blowpipe>, Brass Blowpipe
+<tfcplus-bids:item.Drinking Glass>, Empty Drinking Glass
+<tfcplus-bids:item.Drinking Glass.AgaveJuice>, Glass of Agave Juice
+<tfcplus-bids:item.Drinking Glass.AgaveWine>, Glass of Agave Wine
+<tfcplus-bids:item.Drinking Glass.AppleJuice>, Glass of Apple Juice
+<tfcplus-bids:item.Drinking Glass.Applejack>, Glass of Applejack
+<tfcplus-bids:item.Drinking Glass.BarleyWhiskey>, Glass of Barley Whiskey
+<tfcplus-bids:item.Drinking Glass.BarleyWine>, Glass of Barley Wine
+<tfcplus-bids:item.Drinking Glass.Beer>, Glass of Beer
+<tfcplus-bids:item.Drinking Glass.BerryBrandy>, Glass of Berry Brandy
+<tfcplus-bids:item.Drinking Glass.BerryJuice>, Glass of Berry Juice
+<tfcplus-bids:item.Drinking Glass.BerryWine>, Glass of Berry Wine
+<tfcplus-bids:item.Drinking Glass.CaneJuice>, Glass of Cane Juice
+<tfcplus-bids:item.Drinking Glass.CaneWine>, Glass of Cane Wine
+<tfcplus-bids:item.Drinking Glass.CherryJuice>, Glass of Cherry Juice
+<tfcplus-bids:item.Drinking Glass.CoconutJuice>, Glass of Coconut Juice
+<tfcplus-bids:item.Drinking Glass.CornBeer>, Glass of Corn Beer
+<tfcplus-bids:item.Drinking Glass.CornWhiskey>, Glass of Corn Whiskey
+<tfcplus-bids:item.Drinking Glass.CornWine>, Glass of Corn Wine
+<tfcplus-bids:item.Drinking Glass.DateBrandy>, Glass of Date Brandy
+<tfcplus-bids:item.Drinking Glass.DateJuice>, Glass of Date Juice
+<tfcplus-bids:item.Drinking Glass.DateWine>, Glass of Date Wine
+<tfcplus-bids:item.Drinking Glass.FigBrandy>, Glass of Fig Brandy
+<tfcplus-bids:item.Drinking Glass.FigJuice>, Glass of Fig Juice
+<tfcplus-bids:item.Drinking Glass.FigWine>, Glass of Fig Wine
+<tfcplus-bids:item.Drinking Glass.FreshWater>, Glass of Water
+<tfcplus-bids:item.Drinking Glass.FruitBrandy>, Glass of Cherry Brandy
+<tfcplus-bids:item.Drinking Glass.FruitWine>, Glass of Cherry Wine
+<tfcplus-bids:item.Drinking Glass.GrapeJuice>, Glass of Grape Juice
+<tfcplus-bids:item.Drinking Glass.HoneyBrandy>, Glass of Honey Brandy
+<tfcplus-bids:item.Drinking Glass.LemonBrandy>, Glass of Lemon Brandy
+<tfcplus-bids:item.Drinking Glass.LemonJuice>, Glass of Lemon Juice
+<tfcplus-bids:item.Drinking Glass.LemonWine>, Glass of Lemon Wine
+<tfcplus-bids:item.Drinking Glass.Mead>, Glass of Mead
+<tfcplus-bids:item.Drinking Glass.Milk>, Glass of Milk
+<tfcplus-bids:item.Drinking Glass.OrangeBrandy>, Glass of Orange Brandy
+<tfcplus-bids:item.Drinking Glass.OrangeJuice>, Glass of Orange Juice
+<tfcplus-bids:item.Drinking Glass.OrangeWine>, Glass of Orange Wine
+<tfcplus-bids:item.Drinking Glass.PapayaBrandy>, Glass of Papaya Brandy
+<tfcplus-bids:item.Drinking Glass.PapayaJuice>, Glass of Papaya Juice
+<tfcplus-bids:item.Drinking Glass.PapayaWine>, Glass of Papaya Wine
+<tfcplus-bids:item.Drinking Glass.PeachBrandy>, Glass of Peach Brandy
+<tfcplus-bids:item.Drinking Glass.PeachJuice>, Glass of Peach Juice
+<tfcplus-bids:item.Drinking Glass.PeachWine>, Glass of Peach Wine
+<tfcplus-bids:item.Drinking Glass.PlumBrandy>, Glass of Plum Brandy
+<tfcplus-bids:item.Drinking Glass.PlumJuice>, Glass of Plum Juice
+<tfcplus-bids:item.Drinking Glass.PlumWine>, Glass of Plum Wine
+<tfcplus-bids:item.Drinking Glass.PotatoWine>, Glass of Potato Wine
+<tfcplus-bids:item.Drinking Glass.RiceBeer>, Glass of Rice Beer
+<tfcplus-bids:item.Drinking Glass.RiceWhiskey>, Glass of Rice Whiskey
+<tfcplus-bids:item.Drinking Glass.Rum>, Glass of Rum
+<tfcplus-bids:item.Drinking Glass.RyeBeer>, Glass of Rye Beer
+<tfcplus-bids:item.Drinking Glass.RyeWhiskey>, Glass of Rye Whiskey
+<tfcplus-bids:item.Drinking Glass.RyeWine>, Glass of Rye Wine
+<tfcplus-bids:item.Drinking Glass.Sake>, Glass of Sake
+<tfcplus-bids:item.Drinking Glass.Shochu>, Glass of Shochu
+<tfcplus-bids:item.Drinking Glass.Tequila>, Glass of Tequila
+<tfcplus-bids:item.Drinking Glass.Vodka>, Glass of Vodka
+<tfcplus-bids:item.Drinking Glass.WheatBeer>, Glass of Wheat Beer
+<tfcplus-bids:item.Drinking Glass.WheatWine>, Glass of Wheat Wine
+<tfcplus-bids:item.Drinking Glass.Whiskey>, Glass of Whiskey
+<tfcplus-bids:item.Drinking Glass.Wine>, Glass of Wine
+<tfcplus-bids:item.Firewood>, Oak Firewood
+<tfcplus-bids:item.Firewood Seasoned>, Seasoned Oak Firewood
+<tfcplus-bids:item.Flat Bark Fibre>, Flat Bark Fiber
+<tfcplus-bids:item.Flat Glass>, Flat Glass
+<tfcplus-bids:item.Glass Jug>, Empty Glass Jug
+<tfcplus-bids:item.Glass Jug.AgaveJuice>, Jug of Agave Juice
+<tfcplus-bids:item.Glass Jug.AgaveWine>, Jug of Agave Wine
+<tfcplus-bids:item.Glass Jug.AppleJuice>, Jug of Apple Juice
+<tfcplus-bids:item.Glass Jug.Applejack>, Jug of Applejack
+<tfcplus-bids:item.Glass Jug.BarleyWhiskey>, Jug of Barley Whiskey
+<tfcplus-bids:item.Glass Jug.BarleyWine>, Jug of Barley Wine
+<tfcplus-bids:item.Glass Jug.Beer>, Jug of Beer
+<tfcplus-bids:item.Glass Jug.BerryBrandy>, Jug of Berry Brandy
+<tfcplus-bids:item.Glass Jug.BerryJuice>, Jug of Berry Juice
+<tfcplus-bids:item.Glass Jug.BerryWine>, Jug of Berry Wine
+<tfcplus-bids:item.Glass Jug.CaneJuice>, Jug of Cane Juice
+<tfcplus-bids:item.Glass Jug.CaneWine>, Jug of Cane Wine
+<tfcplus-bids:item.Glass Jug.CherryJuice>, Jug of Cherry Juice
+<tfcplus-bids:item.Glass Jug.CoconutJuice>, Jug of Coconut Juice
+<tfcplus-bids:item.Glass Jug.CornBeer>, Jug of Corn Beer
+<tfcplus-bids:item.Glass Jug.CornWhiskey>, Jug of Corn Whiskey
+<tfcplus-bids:item.Glass Jug.CornWine>, Jug of Corn Wine
+<tfcplus-bids:item.Glass Jug.DateBrandy>, Jug of Date Brandy
+<tfcplus-bids:item.Glass Jug.DateJuice>, Jug of Date Juice
+<tfcplus-bids:item.Glass Jug.DateWine>, Jug of Date Wine
+<tfcplus-bids:item.Glass Jug.FigBrandy>, Jug of Fig Brandy
+<tfcplus-bids:item.Glass Jug.FigJuice>, Jug of Fig Juice
+<tfcplus-bids:item.Glass Jug.FigWine>, Jug of Fig Wine
+<tfcplus-bids:item.Glass Jug.FreshWater>, Jug of Water
+<tfcplus-bids:item.Glass Jug.FruitBrandy>, Jug of Cherry Brandy
+<tfcplus-bids:item.Glass Jug.FruitWine>, Jug of Cherry Wine
+<tfcplus-bids:item.Glass Jug.GrapeJuice>, Jug of Grape Juice
+<tfcplus-bids:item.Glass Jug.HoneyBrandy>, Jug of Honey Brandy
+<tfcplus-bids:item.Glass Jug.LemonBrandy>, Jug of Lemon Brandy
+<tfcplus-bids:item.Glass Jug.LemonJuice>, Jug of Lemon Juice
+<tfcplus-bids:item.Glass Jug.LemonWine>, Jug of Lemon Wine
+<tfcplus-bids:item.Glass Jug.Mead>, Jug of Mead
+<tfcplus-bids:item.Glass Jug.Milk>, Jug of Milk
+<tfcplus-bids:item.Glass Jug.OrangeBrandy>, Jug of Orange Brandy
+<tfcplus-bids:item.Glass Jug.OrangeJuice>, Jug of Orange Juice
+<tfcplus-bids:item.Glass Jug.OrangeWine>, Jug of Orange Wine
+<tfcplus-bids:item.Glass Jug.PapayaBrandy>, Jug of Papaya Brandy
+<tfcplus-bids:item.Glass Jug.PapayaJuice>, Jug of Papaya Juice
+<tfcplus-bids:item.Glass Jug.PapayaWine>, Jug of Papaya Wine
+<tfcplus-bids:item.Glass Jug.PeachBrandy>, Jug of Peach Brandy
+<tfcplus-bids:item.Glass Jug.PeachJuice>, Jug of Peach Juice
+<tfcplus-bids:item.Glass Jug.PeachWine>, Jug of Peach Wine
+<tfcplus-bids:item.Glass Jug.PlumBrandy>, Jug of Plum Brandy
+<tfcplus-bids:item.Glass Jug.PlumJuice>, Jug of Plum Juice
+<tfcplus-bids:item.Glass Jug.PlumWine>, Jug of Plum Wine
+<tfcplus-bids:item.Glass Jug.PotatoWine>, Jug of Potato Wine
+<tfcplus-bids:item.Glass Jug.RiceBeer>, Jug of Rice Beer
+<tfcplus-bids:item.Glass Jug.RiceWhiskey>, Jug of Rice Whiskey
+<tfcplus-bids:item.Glass Jug.Rum>, Jug of Rum
+<tfcplus-bids:item.Glass Jug.RyeBeer>, Jug of Rye Beer
+<tfcplus-bids:item.Glass Jug.RyeWhiskey>, Jug of Rye Whiskey
+<tfcplus-bids:item.Glass Jug.RyeWine>, Jug of Rye Wine
+<tfcplus-bids:item.Glass Jug.Sake>, Jug of Sake
+<tfcplus-bids:item.Glass Jug.Shochu>, Jug of Shochu
+<tfcplus-bids:item.Glass Jug.Tequila>, Jug of Tequila
+<tfcplus-bids:item.Glass Jug.Vodka>, Jug of Vodka
+<tfcplus-bids:item.Glass Jug.WheatBeer>, Jug of Wheat Beer
+<tfcplus-bids:item.Glass Jug.WheatWine>, Jug of Wheat Wine
+<tfcplus-bids:item.Glass Jug.Whiskey>, Jug of Whiskey
+<tfcplus-bids:item.Glass Jug.Wine>, Jug of Wine
+<tfcplus-bids:item.Glass Lump>, Lump of Glass
+<tfcplus-bids:item.IgEx Stone Adze>, Stone Adze
+<tfcplus-bids:item.IgEx Stone Adze Head>, Stone Adze Head
+<tfcplus-bids:item.IgEx Stone Drill>, Stone Drill
+<tfcplus-bids:item.IgEx Stone Drill Head>, Stone Drill Head
+<tfcplus-bids:item.IgIn Stone Adze>, Stone Adze
+<tfcplus-bids:item.IgIn Stone Adze Head>, Stone Adze Head
+<tfcplus-bids:item.IgIn Stone Drill>, Stone Drill
+<tfcplus-bids:item.IgIn Stone Drill Head>, Stone Drill Head
+<tfcplus-bids:item.Kindling>, Straw Kindling
+<tfcplus-bids:item.Log Seasoned>, Seasoned Oak Log
+<tfcplus-bids:item.MM Stone Adze>, Stone Adze
+<tfcplus-bids:item.MM Stone Adze Head>, Stone Adze Head
+<tfcplus-bids:item.MM Stone Drill>, Stone Drill
+<tfcplus-bids:item.MM Stone Drill Head>, Stone Drill Head
+<tfcplus-bids:item.Metal Blowpipe>, Wrought Iron Blowpipe
+<tfcplus-bids:item.Ore Bit>, Native Copper Ore Bit
+<tfcplus-bids:item.Peeled Log>, Peeled Oak Log
+<tfcplus-bids:item.Peeled Log Seasoned>, Seasoned Peeled Oak Log
+<tfcplus-bids:item.Pottery Mug>, Clay Mug
+<tfcplus-bids:item.Pottery Mug.AgaveJuice>, Mug of Agave Juice
+<tfcplus-bids:item.Pottery Mug.AgaveWine>, Mug of Agave Wine
+<tfcplus-bids:item.Pottery Mug.AppleJuice>, Mug of Apple Juice
+<tfcplus-bids:item.Pottery Mug.Applejack>, Mug of Applejack
+<tfcplus-bids:item.Pottery Mug.BarleyWhiskey>, Mug of Barley Whiskey
+<tfcplus-bids:item.Pottery Mug.BarleyWine>, Mug of Barley Wine
+<tfcplus-bids:item.Pottery Mug.Beer>, Mug of Beer
+<tfcplus-bids:item.Pottery Mug.BerryBrandy>, Mug of Berry Brandy
+<tfcplus-bids:item.Pottery Mug.BerryJuice>, Mug of Berry Juice
+<tfcplus-bids:item.Pottery Mug.BerryWine>, Mug of Berry Wine
+<tfcplus-bids:item.Pottery Mug.CaneJuice>, Mug of Cane Juice
+<tfcplus-bids:item.Pottery Mug.CaneWine>, Mug of Cane Wine
+<tfcplus-bids:item.Pottery Mug.CherryJuice>, Mug of Cherry Juice
+<tfcplus-bids:item.Pottery Mug.CoconutJuice>, Mug of Coconut Juice
+<tfcplus-bids:item.Pottery Mug.CornBeer>, Mug of Corn Beer
+<tfcplus-bids:item.Pottery Mug.CornWhiskey>, Mug of Corn Whiskey
+<tfcplus-bids:item.Pottery Mug.CornWine>, Mug of Corn Wine
+<tfcplus-bids:item.Pottery Mug.DateBrandy>, Mug of Date Brandy
+<tfcplus-bids:item.Pottery Mug.DateJuice>, Mug of Date Juice
+<tfcplus-bids:item.Pottery Mug.DateWine>, Mug of Date Wine
+<tfcplus-bids:item.Pottery Mug.FigBrandy>, Mug of Fig Brandy
+<tfcplus-bids:item.Pottery Mug.FigJuice>, Mug of Fig Juice
+<tfcplus-bids:item.Pottery Mug.FigWine>, Mug of Fig Wine
+<tfcplus-bids:item.Pottery Mug.FreshWater>, Mug of Water
+<tfcplus-bids:item.Pottery Mug.FruitBrandy>, Mug of Cherry Brandy
+<tfcplus-bids:item.Pottery Mug.FruitWine>, Mug of Cherry Wine
+<tfcplus-bids:item.Pottery Mug.GrapeJuice>, Mug of Grape Juice
+<tfcplus-bids:item.Pottery Mug.HoneyBrandy>, Mug of Honey Brandy
+<tfcplus-bids:item.Pottery Mug.LemonBrandy>, Mug of Lemon Brandy
+<tfcplus-bids:item.Pottery Mug.LemonJuice>, Mug of Lemon Juice
+<tfcplus-bids:item.Pottery Mug.LemonWine>, Mug of Lemon Wine
+<tfcplus-bids:item.Pottery Mug.Mead>, Mug of Mead
+<tfcplus-bids:item.Pottery Mug.Milk>, Mug of Milk
+<tfcplus-bids:item.Pottery Mug.OrangeBrandy>, Mug of Orange Brandy
+<tfcplus-bids:item.Pottery Mug.OrangeJuice>, Mug of Orange Juice
+<tfcplus-bids:item.Pottery Mug.OrangeWine>, Mug of Orange Wine
+<tfcplus-bids:item.Pottery Mug.PapayaBrandy>, Mug of Papaya Brandy
+<tfcplus-bids:item.Pottery Mug.PapayaJuice>, Mug of Papaya Juice
+<tfcplus-bids:item.Pottery Mug.PapayaWine>, Mug of Papaya Wine
+<tfcplus-bids:item.Pottery Mug.PeachBrandy>, Mug of Peach Brandy
+<tfcplus-bids:item.Pottery Mug.PeachJuice>, Mug of Peach Juice
+<tfcplus-bids:item.Pottery Mug.PeachWine>, Mug of Peach Wine
+<tfcplus-bids:item.Pottery Mug.PlumBrandy>, Mug of Plum Brandy
+<tfcplus-bids:item.Pottery Mug.PlumJuice>, Mug of Plum Juice
+<tfcplus-bids:item.Pottery Mug.PlumWine>, Mug of Plum Wine
+<tfcplus-bids:item.Pottery Mug.PotatoWine>, Mug of Potato Wine
+<tfcplus-bids:item.Pottery Mug.RiceBeer>, Mug of Rice Beer
+<tfcplus-bids:item.Pottery Mug.RiceWhiskey>, Mug of Rice Whiskey
+<tfcplus-bids:item.Pottery Mug.Rum>, Mug of Rum
+<tfcplus-bids:item.Pottery Mug.RyeBeer>, Mug of Rye Beer
+<tfcplus-bids:item.Pottery Mug.RyeWhiskey>, Mug of Rye Whiskey
+<tfcplus-bids:item.Pottery Mug.RyeWine>, Mug of Rye Wine
+<tfcplus-bids:item.Pottery Mug.Sake>, Mug of Sake
+<tfcplus-bids:item.Pottery Mug.Shochu>, Mug of Shochu
+<tfcplus-bids:item.Pottery Mug.Tequila>, Mug of Tequila
+<tfcplus-bids:item.Pottery Mug.Vodka>, Mug of Vodka
+<tfcplus-bids:item.Pottery Mug.WheatBeer>, Mug of Wheat Beer
+<tfcplus-bids:item.Pottery Mug.WheatWine>, Mug of Wheat Wine
+<tfcplus-bids:item.Pottery Mug.Whiskey>, Mug of Whiskey
+<tfcplus-bids:item.Pottery Mug.Wine>, Mug of Wine
+<tfcplus-bids:item.Pottery Pipe>, Clay Pipe
+<tfcplus-bids:item.Sed Rough Stone Loose Brick>, Rough Shale Brick
+<tfcplus-bids:item.Sed Stone Adze>, Stone Adze
+<tfcplus-bids:item.Sed Stone Adze Head>, Stone Adze Head
+<tfcplus-bids:item.Sed Stone Drill>, Stone Drill
+<tfcplus-bids:item.Sed Stone Drill Head>, Stone Drill Head
+<tfcplus-bids:item.Shot Glass>, Empty Shot Glass
+<tfcplus-bids:item.Shot Glass.AgaveJuice>, Shot of Agave Juice
+<tfcplus-bids:item.Shot Glass.AgaveWine>, Shot of Agave Wine
+<tfcplus-bids:item.Shot Glass.AppleJuice>, Shot of Apple Juice
+<tfcplus-bids:item.Shot Glass.Applejack>, Shot of Applejack
+<tfcplus-bids:item.Shot Glass.BarleyWhiskey>, Shot of Barley Whiskey
+<tfcplus-bids:item.Shot Glass.BarleyWine>, Shot of Barley Wine
+<tfcplus-bids:item.Shot Glass.Beer>, Shot of Beer
+<tfcplus-bids:item.Shot Glass.BerryBrandy>, Shot of Berry Brandy
+<tfcplus-bids:item.Shot Glass.BerryJuice>, Shot of Berry Juice
+<tfcplus-bids:item.Shot Glass.BerryWine>, Shot of Berry Wine
+<tfcplus-bids:item.Shot Glass.CaneJuice>, Shot of Cane Juice
+<tfcplus-bids:item.Shot Glass.CaneWine>, Shot of Cane Wine
+<tfcplus-bids:item.Shot Glass.CherryJuice>, Shot of Cherry Juice
+<tfcplus-bids:item.Shot Glass.CoconutJuice>, Shot of Coconut Juice
+<tfcplus-bids:item.Shot Glass.CornBeer>, Shot of Corn Beer
+<tfcplus-bids:item.Shot Glass.CornWhiskey>, Shot of Corn Whiskey
+<tfcplus-bids:item.Shot Glass.CornWine>, Shot of Corn Wine
+<tfcplus-bids:item.Shot Glass.DateBrandy>, Shot of Date Brandy
+<tfcplus-bids:item.Shot Glass.DateJuice>, Shot of Date Juice
+<tfcplus-bids:item.Shot Glass.DateWine>, Shot of Date Wine
+<tfcplus-bids:item.Shot Glass.FigBrandy>, Shot of Fig Brandy
+<tfcplus-bids:item.Shot Glass.FigJuice>, Shot of Fig Juice
+<tfcplus-bids:item.Shot Glass.FigWine>, Shot of Fig Wine
+<tfcplus-bids:item.Shot Glass.FreshWater>, Shot of Water
+<tfcplus-bids:item.Shot Glass.FruitBrandy>, Shot of Cherry Brandy
+<tfcplus-bids:item.Shot Glass.FruitWine>, Shot of Cherry Wine
+<tfcplus-bids:item.Shot Glass.GrapeJuice>, Shot of Grape Juice
+<tfcplus-bids:item.Shot Glass.HoneyBrandy>, Shot of Honey Brandy
+<tfcplus-bids:item.Shot Glass.LemonBrandy>, Shot of Lemon Brandy
+<tfcplus-bids:item.Shot Glass.LemonJuice>, Shot of Lemon Juice
+<tfcplus-bids:item.Shot Glass.LemonWine>, Shot of Lemon Wine
+<tfcplus-bids:item.Shot Glass.Mead>, Shot of Mead
+<tfcplus-bids:item.Shot Glass.Milk>, Shot of Milk
+<tfcplus-bids:item.Shot Glass.OrangeBrandy>, Shot of Orange Brandy
+<tfcplus-bids:item.Shot Glass.OrangeJuice>, Shot of Orange Juice
+<tfcplus-bids:item.Shot Glass.OrangeWine>, Shot of Orange Wine
+<tfcplus-bids:item.Shot Glass.PapayaBrandy>, Shot of Papaya Brandy
+<tfcplus-bids:item.Shot Glass.PapayaJuice>, Shot of Papaya Juice
+<tfcplus-bids:item.Shot Glass.PapayaWine>, Shot of Papaya Wine
+<tfcplus-bids:item.Shot Glass.PeachBrandy>, Shot of Peach Brandy
+<tfcplus-bids:item.Shot Glass.PeachJuice>, Shot of Peach Juice
+<tfcplus-bids:item.Shot Glass.PeachWine>, Shot of Peach Wine
+<tfcplus-bids:item.Shot Glass.PlumBrandy>, Shot of Plum Brandy
+<tfcplus-bids:item.Shot Glass.PlumJuice>, Shot of Plum Juice
+<tfcplus-bids:item.Shot Glass.PlumWine>, Shot of Plum Wine
+<tfcplus-bids:item.Shot Glass.PotatoWine>, Shot of Potato Wine
+<tfcplus-bids:item.Shot Glass.RiceBeer>, Shot of Rice Beer
+<tfcplus-bids:item.Shot Glass.RiceWhiskey>, Shot of Rice Whiskey
+<tfcplus-bids:item.Shot Glass.Rum>, Shot of Rum
+<tfcplus-bids:item.Shot Glass.RyeBeer>, Shot of Rye Beer
+<tfcplus-bids:item.Shot Glass.RyeWhiskey>, Shot of Rye Whiskey
+<tfcplus-bids:item.Shot Glass.RyeWine>, Shot of Rye Wine
+<tfcplus-bids:item.Shot Glass.Sake>, Shot of Sake
+<tfcplus-bids:item.Shot Glass.Shochu>, Shot of Shochu
+<tfcplus-bids:item.Shot Glass.Tequila>, Shot of Tequila
+<tfcplus-bids:item.Shot Glass.Vodka>, Shot of Vodka
+<tfcplus-bids:item.Shot Glass.WheatBeer>, Shot of Wheat Beer
+<tfcplus-bids:item.Shot Glass.WheatWine>, Shot of Wheat Wine
+<tfcplus-bids:item.Shot Glass.Whiskey>, Shot of Whiskey
+<tfcplus-bids:item.Shot Glass.Wine>, Shot of Wine
+<tfcplus-bids:item.Small Stick Bundle>, Small Bundle of Sticks
+<tfcplus-bids:item.Tied Stick Bundle>, Tied Bundle of Sticks
+<tfcplusborscht:item.Bone Bouillon>, Bottle of Bone Bouillon
+<tfcplusborscht:item.Borscht>, Bottle of Borscht
+<tfcplusborscht:item.Bowl of Bone Bouillon>, Bowl of Bone Bouillon
+<tfcplusborscht:item.Bowl of Borscht>, Bowl of Borscht
+<tfcplusborscht:item.Bowl of Cabbage Soup>, Bowl of Cabbage Soup
+<tfcplusborscht:item.Bowl of Cheese Soup>, Bowl of Cheese Soup
+<tfcplusborscht:item.Bowl of Chicken Bouillon>, Bowl of Chicken Bouillon
+<tfcplusborscht:item.Bowl of Chicken Soup>, Bowl of Chicken Soup
+<tfcplusborscht:item.Bowl of Fish Boillon>, Bowl of Fish Bouillon
+<tfcplusborscht:item.Bowl of Fish Soup>, Bowl of Fish Soup
+<tfcplusborscht:item.Bowl of Kvass Okroshka>, Bowl of Kvass Okroshka
+<tfcplusborscht:item.Bowl of Meat Boillon>, Bowl of Meat Bouillon
+<tfcplusborscht:item.Bowl of Milk Soup>, Bowl of Milk Soup
+<tfcplusborscht:item.Bowl of Mushroom Bouillon>, Bowl of Mushroom Bouillon
+<tfcplusborscht:item.Bowl of Mushroom Soup>, Bowl of Mushroom Soup
+<tfcplusborscht:item.Bowl of Okroshka>, Bowl of Okroshka
+<tfcplusborscht:item.Bowl of Peasant Soup>, Bowl of Peasant Soup
+<tfcplusborscht:item.Bowl of Potato Soup>, Bowl of Potato Soup
+<tfcplusborscht:item.Bowl of Zhur>, Bowl of Zhur
+<tfcplusborscht:item.Cabbage Soup>, Bottle of Cabbage Soup
+<tfcplusborscht:item.Cheese Soup>, Bottle of Cheese Soup
+<tfcplusborscht:item.Chicken Bouillon>, Bottle of Chicken Bouillon
+<tfcplusborscht:item.Chicken Soup>, Bottle of Chicken Soup
+<tfcplusborscht:item.Fish Boillon>, Bottle of Fish Bouillon
+<tfcplusborscht:item.Fish Soup>, Bottle of Fish Soup
+<tfcplusborscht:item.Kvass Okroshka>, Bottle of Kvass Okroshka
+<tfcplusborscht:item.Meat Boillon>, Bottle of Meat Bouillon
+<tfcplusborscht:item.Milk Soup>, Bottle of Milk Soup
+<tfcplusborscht:item.Mushroom Bouillon>, Bottle of Mushroom Bouillon
+<tfcplusborscht:item.Mushroom Soup>, Bottle of Mushroom Soup
+<tfcplusborscht:item.Okroshka>, Bottle of Okroshka
+<tfcplusborscht:item.Peasant Soup>, Bottle of Peasant Soup
+<tfcplusborscht:item.Potato Soup>, Bottle of Potato Soup
+<tfcplusborscht:item.Zhur>, Bottle of Zhur
+<tfcpluskvass:item.Agave Mors>, Bottle of Agave Mors
+<tfcpluskvass:item.Apple Compote>, Bottle of Apple Compote
+<tfcpluskvass:item.Apple Mors>, Bottle of Apple Mors
+<tfcpluskvass:item.Apple Tea>, Bottle of Apple Tea
+<tfcpluskvass:item.Berry Kissel>, Bottle of Berry Kissel
+<tfcpluskvass:item.Berry Kissel Bowl>, Bowl of Berry Kissel
+<tfcpluskvass:item.Berry Mors>, Bottle of Berry Mors
+<tfcpluskvass:item.Blackberry Tea>, Bottle of Blackberry Tea
+<tfcpluskvass:item.Blueberry Compote>, Bottle of Blueberry Compote
+<tfcpluskvass:item.Blueberry Tea>, Bottle of Blueberry Tea
+<tfcpluskvass:item.Bowl of Gogol-Mogol>, Bowl of Kogel-Mogel
+<tfcpluskvass:item.Cane Mors>, Bottle of Cane Mors
+<tfcpluskvass:item.Cherry Mors>, Bottle of Cherry Mors
+<tfcpluskvass:item.Cherry Tea>, Bottle of Cherry Tea
+<tfcpluskvass:item.Cranberry Tea>, Bottle of Cranberry Tea
+<tfcpluskvass:item.Date Mors>, Bottle of Date Mors
+<tfcpluskvass:item.Dying Kombucha>, Dying Kombucha
+<tfcpluskvass:item.Fig Mors>, Bottle of Fig Mors
+<tfcpluskvass:item.Fruit Kissel>, Bottle of Fruit Kissel
+<tfcpluskvass:item.Fruit Kissel Bowl>, Bowl of Fruit Kissel
+<tfcpluskvass:item.Gogol-Mogol>, Bottle of Kogel-Mogel
+<tfcpluskvass:item.Gooseberry Compote>, Bottle of Gooseberry Compote
+<tfcpluskvass:item.Gooseberry Tea>, Bottle of Gooseberry Tea
+<tfcpluskvass:item.Grape Mors>, Bottle of Grape Mors
+<tfcpluskvass:item.Kissel>, Bottle of Kissel
+<tfcpluskvass:item.Kissel Bowl>, Bowl of Kissel
+<tfcpluskvass:item.Kombucha>, Kombucha
+<tfcpluskvass:item.Kvass>, Bottle of Kvass
+<tfcpluskvass:item.Lemon Mors>, Bottle of Lemon Mors
+<tfcpluskvass:item.Lemon Tea>, Bottle of Lemon Tea
+<tfcpluskvass:item.Orange Mors>, Bottle of Orange Mors
+<tfcpluskvass:item.Papaya Mors>, Bottle of Papaya Mors
+<tfcpluskvass:item.Peach Mors>, Bottle of Peach Mors
+<tfcpluskvass:item.Plum Compote>, Bottle of Plum Compote
+<tfcpluskvass:item.Plum Mors>, Bottle of Plum Mors
+<tfcpluskvass:item.Raspberry Compote>, Bottle of Raspberry Compote
+<tfcpluskvass:item.Raspberry Tea>, Bottle of Raspberry Tea
+<tfcpluskvass:item.Sbiten>, Bottle of Sbiten
+<tfcpluskvass:item.Strawberry Compote>, Bottle of Strawberry Compote
+<tfcpluskvass:item.Strawberry Tea>, Bottle of Strawberry Tea
+<tfcpluskvass:item.Syrup>, Bottle of Syrup
+<tfcpluskvass:item.Tarhun>, Bottle of Tarhun
+<tfcpluskvass:item.Tea>, Bottle of Tea
+<tfcpluskvass:item.Tea Mushroom>, Bottle of Tea Mushroom
+INFO: Removing minetweaker command mfr
+INFO: Removing command minetweaker
+INFO: Adding command minetweaker
+INFO: Adding minetweaker command mfr
+ERROR: TFCPlus.zs:174: Could not resolve <liquid : oil>
+ERROR: Error parsing TFCPlus.zs:175 -- ; expected
+INFO: Removing minetweaker command mfr
+INFO: Removing command minetweaker
+INFO: Adding command minetweaker
+INFO: Adding minetweaker command mfr
+ERROR: TFCPlus.zs:174: Could not resolve <liquid : oil>
+ERROR: Error parsing TFCPlus.zs:175 -- ; expected
+INFO: Removing minetweaker command mfr
+INFO: Removing command minetweaker
+INFO: Adding command minetweaker
+INFO: Adding minetweaker command mfr
+ERROR: TFCPlus.zs:174: Could not resolve <liquid : oil>
+ERROR: Error parsing TFCPlus.zs:175 -- ; expected
