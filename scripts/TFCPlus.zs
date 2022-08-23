@@ -151,6 +151,8 @@ recipes.removeShapeless(<minecraft:book>);
 recipes.removeShapeless(<minecraft:writable_book>);
 mods.Terrafirmacraft.Knapping.addClayWorkingRecipe(<minecraft:book>, "#####", "#   #", "#   #", "#   #", "#####");
 recipes.addShapeless(<minecraft:writable_book>,[<minecraft:book>,<ore:stickWood>,]);
+<minecraft:book>.displayName = "Clay Tablet";
+<minecraft:writable_book>.displayName = "Clay Tablet and Stylus";
 //TODO: add crafting table recipe with 4x4 large logs
 
 //TODO: change recipe below to use large vessel pitch and coracle instead of planks
