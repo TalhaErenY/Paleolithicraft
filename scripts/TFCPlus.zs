@@ -183,6 +183,7 @@ recipes.addShaped(<minecraft:boat>,[[<terrafirmacraftplus:item.Paddle>,null,<ter
 //TODO: add a recipe for hoppers/Smooth stone
 mods.Terrafirmacraft.Anvil.removeAnvilRecipe(<terrafirmacraftplus:Hopper>,<terrafirmacraftplus:item.Wrought Iron Double Sheet>,<terrafirmacraftplus:item.Wrought Iron Double Sheet>,"hopper",3);
 
+
 recipes.removeShaped(<minecraft:wooden_pressure_plate>);
 //recipes.addShaped(<minecraft:wooden_pressure_plate>,[[<ore:woodLumber>,<ore:woodLumber>]]);
 //Convert this to use stick bundles and redstone
