@@ -125,17 +125,17 @@ recipes.remove(<minecraft:fire_charge>);
 
 //Molds
 mods.Terrafirmacraft.Knapping.removeClayWorkingRecipe(<terrafirmacraftplus:item.2x Candle Holder Mold>, "     ", " # # ", " ### ", "  #  ", " ### ");
-mods.Terrafirmacraft.Knapping.removeClayWorkingRecipe(<terrafirmacraftplus:item.3x Candle Holder Mrrold>, "     ", "# # #", "#####", "  #  ", " ### ");
+mods.Terrafirmacraft.Knapping.removeClayWorkingRecipe(<terrafirmacraftplus:item.3x Candle Holder Mold>, "     ", "# # #", "#####", "  #  ", " ### ");
 mods.Terrafirmacraft.Knapping.removeClayWorkingRecipe(<terrafirmacraftplus:item.Axe Mold>, " #   ", "#### ", "#####", "#### ", " #   ");
 mods.Terrafirmacraft.Knapping.removeClayWorkingRecipe(<terrafirmacraftplus:item.Bullet Mold>, "     ", " # # ", "     ", " # # ", "     ");
 mods.Terrafirmacraft.Knapping.removeClayWorkingRecipe(<terrafirmacraftplus:item.Candle Holder Mold>, "     ", "     ", "  #  ", "  #  ", " ### ");
 mods.Terrafirmacraft.Knapping.removeClayWorkingRecipe(<terrafirmacraftplus:item.Chisel Mold>, "  #  ", "  #  ", "  #  ", "  #  ", "  #  ");
 mods.Terrafirmacraft.Knapping.removeClayWorkingRecipe(<terrafirmacraftplus:item.Hammer Mold>, "     ", "#####", "#####", "  #  ", "     ");
-mods.Terrafirmacraft.Knapping.removeClayWorkingRecipe(<terrafirmacraftplus:item.Hoe Mold>, "     ", "#####", "   ##", "     ");
+mods.Terrafirmacraft.Knapping.removeClayWorkingRecipe(<terrafirmacraftplus:item.Hoe Mold>, "     ", "#####", "   ##", "     ", "     ");
 mods.Terrafirmacraft.Knapping.removeClayWorkingRecipe(<terrafirmacraftplus:item.Javelin Mold>, "###  ", "#### ", "#####", " ### ", "  #  ");
 mods.Terrafirmacraft.Knapping.removeClayWorkingRecipe(<terrafirmacraftplus:item.Knife Mold>, "  # ", " ## ", " ## ", " ## ", " ## ");
 mods.Terrafirmacraft.Knapping.removeClayWorkingRecipe(<terrafirmacraftplus:item.Mace Mold>, "  #  ", " ### ", " ### ", " ### ", "  #  ");
-mods.Terrafirmacraft.Knapping.removeClayWorkingRecipe(<terrafirmacraftplus:item.Pick Mold>, "     ", " ### ", "#   #", "     ");
+mods.Terrafirmacraft.Knapping.removeClayWorkingRecipe(<terrafirmacraftplus:item.Pick Mold>, "     ", " ### ", "#   #", "     ", "     ");
 mods.Terrafirmacraft.Knapping.removeClayWorkingRecipe(<terrafirmacraftplus:item.ProPick Mold>, "     ", " ####", "#   #", "    #", "     ");
 mods.Terrafirmacraft.Knapping.removeClayWorkingRecipe(<terrafirmacraftplus:item.Saw Mold>, "##   ", "###  ", " ### ", " ####", "   ##");
 mods.Terrafirmacraft.Knapping.removeClayWorkingRecipe(<terrafirmacraftplus:item.Scythe Mold>, "     ", "#### ", " ####", "   ##", "     ");
