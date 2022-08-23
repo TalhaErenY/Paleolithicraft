@@ -161,15 +161,10 @@ recipes.addShaped(<terrafirmacraftplus:brickChimney>,[[<terrafirmacraftplus:item
 mods.Terrafirmacraft.Barrel.addItemConversion(<terrafirmacraftplus:item.AmmoniumChlorideBall>, <terrafirmacraftplus:item.Wool>, <liquid:ammoniumchloride> * 250, 0, true, 0, true);
 
 // slime ball from sinew
-mods.Terrafirmacraft.Barrel.addFireRecipe(<minecraft:slime_ball>, null, <terrafirmacraftplus:item.Sinew>*4, <liquid:freshwater>*800, 4000);
-
-// sinew from rotten flesh
-recipes.addShapeless(<terrafirmacraftplus:item.Sinew>, [<minecraft:rotten_flesh>, <minecraft:rotten_flesh>, <ore:itemKnife>.transformDamage()]);
-
+mods.Terrafirmacraft.Barrel.addFireRecipe(<minecraft:slime_ball>, null, <terrafirmacraftplus:item.Sinew>*8, <liquid:freshwater>*800, 4000);
 
 /* Remove and Replace */
 
-//TODO: change book name to clay tablet, book and quill to clay tablet and pick, change recipe of both.
 recipes.removeShapeless(<minecraft:book>);
 recipes.removeShapeless(<minecraft:writable_book>);
 mods.Terrafirmacraft.Knapping.addClayWorkingRecipe(<minecraft:book>, "#####", "#   #", "#   #", "#   #", "#####");
@@ -177,6 +172,8 @@ recipes.addShapeless(<minecraft:writable_book>,[<minecraft:book>,<ore:stickWood>
 <minecraft:book>.displayName = "Clay Tablet";
 <minecraft:writable_book>.displayName = "Clay Tablet and Stylus";
 //TODO: add crafting table recipe with 4x4 large logs
+recipes.remove(<minecraft:crafting_table>);
+recipes.addShaped(<minecraft:crafting_table>, [[<terrafirmacraftplus:item.Thick Log:*>,<terrafirmacraftplus:item.Thick Log:*>],[<terrafirmacraftplus:item.Thick Log:*>,<terrafirmacraftplus:item.Thick Log:*>]])
 
 //TODO: change recipe below to use large vessel pitch and coracle instead of planks
 <minecraft:boat>.addTooltip(format.green("requires barrel full of pitch to craft"));
