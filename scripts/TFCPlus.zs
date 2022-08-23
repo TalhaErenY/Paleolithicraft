@@ -1,4 +1,6 @@
 /* this is the stone-age modification script for TFC+. It is licensed under GPLv3 or MIT depending on how I feel about it that day. Just go ahead and use it. I stole half of this from Facetorched anyway (MIT) */
+import minetweaker.item.IItemStack;
+import minetweaker.oredict.IOreDictEntry;
 
 /* Total Removals */
 furnace.remove(<*>);
