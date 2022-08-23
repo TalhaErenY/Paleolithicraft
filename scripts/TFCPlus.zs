@@ -20,6 +20,109 @@ mods.Terrafirmacraft.Anvil.removeAnvilRecipe(<terrafirmacraftplus:item.Blue Stee
 recipes.removeShaped(<minecraft:minecart>);
 recipes.removeShaped(<minecraft:furnace_minecart>);
 
+// vanilla blocks
+recipes.removeShaped(<minecraft:brick_stairs>);
+recipes.removeShaped(<minecraft:stone_slab:4>);
+recipes.removeShaped(<minecraft:stone_slab>);
+recipes.removeShaped(<minecraft:lapis_block>);
+recipes.removeShaped(<minecraft:dye:4>);
+<ore:stone>.remove(<minecraft:stone>);
+<ore:blockDirt>.remove(<minecraft:dirt>);
+<ore:cobblestone>.remove(<minecraft:cobblestone>);
+<ore:sand>.remove(<minecraft:sand>);
+<ore:gravel>.remove(<minecraft:gravel>);
+<ore:sand>.remove(<minecraft:sand:2>);
+<ore:blockSand>.remove(<minecraft:sand>);
+<ore:blockGravel>.remove(<minecraft:gravel>);
+<ore:oreGold>.remove(<minecraft:gold_ore>);
+<ore:oreIron>.remove(<minecraft:iron_ore>);
+<ore:oreCoal>.remove(<minecraft:coal_ore>);
+<ore:oreLapis>.remove(<minecraft:lapis_ore>);
+<ore:logWood>.remove(<minecraft:log:*>);
+<ore:logWood>.remove(<minecraft:log2:*>);
+recipes.remove(<minecraft:sandstone:*>);
+<ore:sandstone>.remove(<minecraft:sandstone:*>);
+recipes.remove(<minecraft:gold_block>);
+<ore:blockGold>.remove(<minecraft:gold_block>);
+recipes.remove(<minecraft:iron_block>);
+<ore:blockIron>.remove(<minecraft:iron_block>);
+recipes.remove(<minecraft:stone_slab:1>);
+<ore:slabSandstone>.remove(<minecraft:stone_slab:1>);
+recipes.remove(<minecraft:stone_slab:3>);
+<ore:slabCobblestone>.remove(<minecraft:stone_slab:3>);
+recipes.remove(<minecraft:stone_slab:5>);
+<ore:slabStoneBricks>.remove(<minecraft:stone_slab:5>);
+recipes.remove(<minecraft:stone_slab:6>);
+<ore:slabNetherBrick>.remove(<minecraft:stone_slab:6>);
+recipes.remove(<minecraft:emerald_block>);
+<ore:blockEmerald>.remove(<minecraft:emerald_block>);
+<ore:oreEmerald>.remove(<minecraft:emerald_ore>);
+recipes.remove(<minecraft:stone_slab:7>);
+<ore:slabQuartz>.remove(<minecraft:stone_slab:7>);
+<ore:coal>.remove(<minecraft:coal>);
+<ore:itemCoal>.remove(<minecraft:coal>);
+recipes.remove(<minecraft:brick_block>);
+<ore:blockObsidian>.remove(<minecraft:obsidian>);
+<ore:stairWood>.remove(<minecraft:oak_stairs>);
+<ore:oreDiamond>.remove(<minecraft:diamond_ore>);
+<ore:oreRedstone>.remove(<minecraft:redstone_ore>);
+<ore:oreQuartz>.remove(<minecraft:quartz_ore>);
+<ore:craftingTableWood>.remove(<minecraft:crafting_table>);
+<ore:bottleGlass>.remove(<minecraft:glass_bottle>);
+recipes.remove(<minecraft:diamond_block>);
+recipes.remove(<minecraft:melon_block>);
+recipes.remove(<minecraft:nether_brick>);
+recipes.removeShaped(<minecraft:trapped_chest>);
+recipes.remove(<minecraft:sandstone_stairs>);
+recipes.remove(<minecraft:nether_brick_stairs>);
+recipes.remove(<minecraft:stone_brick_stairs>);
+recipes.remove(<minecraft:nether_brick_fence>);
+recipes.remove(<minecraft:torch>);
+recipes.remove(<minecraft:lit_pumpkin>);
+<ore:blockPumpkin>.remove(<minecraft:pumpkin>);
+recipes.remove(<minecraft:beacon>);
+recipes.remove(<minecraft:ender_chest>);
+recipes.remove(<minecraft:quartz_stairs>);
+recipes.remove(<minecraft:stonebrick:*>);
+recipes.remove(<minecraft:quartz_block:1>);
+recipes.remove(<minecraft:quartz_block:2>);
+recipes.remove(<minecraft:cobblestone_wall:*>);
+<ore:gemCoal>.remove(<minecraft:coal>);
+<ore:gemCoal>.remove(<minecraft:coal:1>);
+<ore:gemCharcoal>.remove(<minecraft:coal:1>);
+<ore:blockDiamond>.remove(<minecraft:diamond_block>);
+<ore:gemDiamond>.remove(<minecraft:diamond>);
+<ore:gemEmerald>.remove(<minecraft:emerald>);
+recipes.remove(<minecraft:emerald>);
+recipes.remove(<minecraft:diamond>);
+<ore:ingotIron>.remove(<minecraft:iron_ingot>);
+recipes.remove(<minecraft:iron_ingot>);
+<ore:ingotGold>.remove(<minecraft:gold_ingot>);
+recipes.remove(<minecraft:gold_ingot>);
+<ore:stickWood>.remove(<minecraft:stick>);
+<ore:itemLeather>.remove(<minecraft:leather>);
+<ore:materialLeather>.remove(<minecraft:leather>);
+<ore:itemClay>.remove(<minecraft:clay_ball>);
+<ore:lumpClay>.remove(<minecraft:clay_ball>);
+<ore:plankWood>.remove(<minecraft:planks:*>);
+recipes.remove(<minecraft:stick>);
+recipes.remove(<minecraft:bowl>);
+recipes.remove(<minecraft:mushroom_stew>);
+recipes.remove(<minecraft:pumpkin_pie>);
+recipes.remove(<minecraft:cake>);
+recipes.remove(<minecraft:golden_carrot>);
+recipes.remove(<minecraft:golden_apple:*>);
+recipes.remove(<minecraft:cookie>);
+recipes.remove(<minecraft:bread>);
+recipes.remove(<minecraft:hay_block>);
+recipes.remove(<minecraft:wheat>);
+recipes.remove(<minecraft:flower_pot>);
+recipes.remove(<minecraft:enchanted_book>);
+recipes.remove(<minecraft:trapped_chest>);
+recipes.remove(<minecraft:pumpkin_seeds>);
+recipes.remove(<minecraft:melon_seeds>);
+recipes.remove(<minecraft:fire_charge>);
+
 //TODO:remove all mold recipes
 
 /* Personal Additions */
@@ -62,11 +165,12 @@ recipes.removeShaped(<minecraft:wooden_pressure_plate>);
 //recipes.addShaped(<minecraft:wooden_pressure_plate>,[[<ore:woodLumber>,<ore:woodLumber>]]);
 //Convert this to use stick bundles and redstone
 
-//hardened_clay
+//hardened_clay/Tadelakt
 recipes.removeShaped(<minecraft:clay>);
 recipes.addShaped(<minecraft:clay>,[[<ore:lumpClay>,<ore:lumpClay>,<ore:lumpClay>],[<ore:lumpClay>,<ore:lumpClay>,<ore:lumpClay>],[<ore:lumpClay>,<ore:lumpClay>,<ore:lumpClay>]]);
-recipes.addShapeless(<terrafirmacraftplus:item.Clay>*9,[<minecraft:clay>]);
-mods.Terrafirmacraft.ItemHeat.addRecipe(<minecraft:hardened_clay>, <minecraft:clay>);
+<minecraft:clay>.displayName = "Unfinished Tadelakt";
+mods.Terrafirmacraft.Barrel.addItemConversion(<minecraft:hardened_clay>, <minecraft:clay>, <liquid:oil> * 50, 0)
+<minecraft:hardened_clay>.displayName = "Tadelakt";
 //TODO: add dyed recipes for hardened clay.
 
 recipes.removeShaped(<minecraft:piston>);
