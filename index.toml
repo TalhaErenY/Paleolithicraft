@@ -13,8 +13,12 @@ file = "config/CodeChickenCore.cfg"
 hash = "85a7fb0e2a4dce72e34c3c830b93e16c4cd773da1b5024b6989e15a911595735"
 
 [[files]]
+file = "config/InGameInfo.xml"
+hash = "93bee31022286065a69ddeea59f4702b4f5fc70315fa3eda9683264272fd7376"
+
+[[files]]
 file = "config/InGameInfoXML.cfg"
-hash = "2335075e44a2b9665a0f868a94b65866f92984b7bc61ee07867407ff8bb2008b"
+hash = "941642d893bf084d2e0cbcc3c95d4e4049b7957477712deaaca5363e588ffa82"
 
 [[files]]
 file = "config/LunatriusCore.cfg"
@@ -30,7 +34,7 @@ hash = "fffcef34f3c74a1c87c4dcb852c8ab51eab054d8eec7b659ab59c5cbd74bdec2"
 
 [[files]]
 file = "config/TFCConfig.cfg"
-hash = "1f61286dcc4394f7ddf2954b0f2b102f7812d0b79bf5255ffc2a15d86d339d27"
+hash = "117193406ed8b7cce41765eabde0d4f1328fc476072f2c122adb8a5f53b34ff5"
 
 [[files]]
 file = "config/TFCCrafting.cfg"
@@ -82,7 +86,7 @@ hash = "ce87a803450ab3a09badf3653bc75746b84234f8335ef29303e60011701af077"
 
 [[files]]
 file = "config/tfcplus-bids.cfg"
-hash = "529b051e3d1301b91e170207825c1179d463d7d63dd404292984ceec11011e04"
+hash = "f8d76b1b0ac96fa270ff09a2ebf1ae19d7b15074f23e747068426cedae1f28ff"
 
 [[files]]
 file = "journeymap/colorpalette.json"
@@ -491,9 +495,17 @@ hash = "62ea2b80fdff17bc5c4f150c771f946067ae5bf0399ffe10b4eed5a0cde29b91"
 metafile = true
 
 [[files]]
+file = "scripts/Bark.zs"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "scripts/Borscht.zs"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "scripts/Kvass.zs"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "scripts/TFCPlus.zs"
-hash = "3db024d20cdb044021ab78347acfedc59970e575ad03c4cf6bb4c43ded430fae"
+hash = "56d3ef1c0b853a02d14dcb32dbf866b761dd6462060a2f8d6dbf84f53f8576fe"
