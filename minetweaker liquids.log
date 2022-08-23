@@ -1,0 +1,162 @@
+INFO: MineTweaker: Building registry
+INFO: MineTweaker: Sucessfully built item registry
+INFO: Adding command minetweaker
+INFO: Adding minetweaker command mfr
+ERROR: TFCPlus.zs:174: Could not resolve <liquid : oil>
+ERROR: Error parsing TFCPlus.zs:175 -- ; expected
+INFO: Removing minetweaker command mfr
+INFO: Removing command minetweaker
+INFO: Adding command minetweaker
+INFO: Adding minetweaker command mfr
+ERROR: TFCPlus.zs:174: Could not resolve <liquid : oil>
+ERROR: Error parsing TFCPlus.zs:175 -- ; expected
+Liquids:
+<liquid:agavejuice>, Agave Juice
+<liquid:agavemors>, Agave Mors
+<liquid:agavewine>, Agave Wine
+<liquid:ammoniumchloride>, Ammonium Chloride
+<liquid:applecompote>, Apple Compote
+<liquid:applejack>, Applejack
+<liquid:applejuice>, Apple Juice
+<liquid:applemors>, Apple Mors
+<liquid:appletea>, Apple Tea
+<liquid:barleywater>, Barley Water
+<liquid:barleywhiskey>, Barley Whiskey
+<liquid:barleywine>, Barley Wine
+<liquid:beer>, Beer
+<liquid:berrybrandy>, Berry Brandy
+<liquid:berryjuice>, Berry Juice
+<liquid:berrykissel>, Berry Kissel
+<liquid:berrymors>, Berry Mors
+<liquid:berrywine>, Berry Wine
+<liquid:blackberrytea>, Blackberry Tea
+<liquid:blackdye>, Black Dye
+<liquid:blueberrycompote>, Blueberry Compote
+<liquid:blueberrytea>, Blueberry Tea
+<liquid:bluedye>, Blue Dye
+<liquid:bonebouillon>, Bone Bouillon
+<liquid:borscht>, Borscht
+<liquid:brandy>, Brandy
+<liquid:brine>, Brine
+<liquid:cabbagesoup>, Cabbage Soup
+<liquid:canejuice>, Cane Juice
+<liquid:canemors>, Cane Mors
+<liquid:canewine>, Cane Wine
+<liquid:cheesesoup>, Cheese Soup
+<liquid:cherryjuice>, Cherry Juice
+<liquid:cherrymors>, Cherry Mors
+<liquid:cherrytea>, Cherry Tea
+<liquid:chickenbouillon>, Chicken Bouillon
+<liquid:chickensoup>, Chicken Soup
+<liquid:cider>, Cider
+<liquid:coconutjuice>, Coconut Juice
+<liquid:cornbeer>, Corn Beer
+<liquid:cornwater>, Corn Water
+<liquid:cornwhiskey>, Corn Whiskey
+<liquid:cornwine>, Corn Wine
+<liquid:cranberrytea>, Cranberry Tea
+<liquid:datebrandy>, Date Brandy
+<liquid:datejuice>, Date Juice
+<liquid:datemors>, Date Mors
+<liquid:datewine>, Date Wine
+<liquid:figbrandy>, Fig Brandy
+<liquid:figjuice>, Fig Juice
+<liquid:figmors>, Fig Mors
+<liquid:figwine>, Fig Wine
+<liquid:fishbouillon>, Fish Bouillon
+<liquid:fishsoup>, Fish Soup
+<liquid:freshwater>, Fresh Water
+<liquid:fruitbrandy>, Cherry Brandy
+<liquid:fruitkissel>, Fruit Kissel
+<liquid:fruitwine>, Cherry Wine
+<liquid:gogolmogol>, Kogel-Mogel
+<liquid:gooseberrycompote>, Gooseberry Compote
+<liquid:gooseberrytea>, Gooseberry Tea
+<liquid:grapejuice>, Grape Juice
+<liquid:grapemors>, Grape Mors
+<liquid:greendye>, fluid.greendye
+<liquid:honey>, Honey
+<liquid:honeybrandy>, Honey Brandy
+<liquid:honeywater>, Honeywater
+<liquid:hotwater>, Hot Springs
+<liquid:kissel>, Kissel
+<liquid:kvass>, Kvass
+<liquid:kvassokroshka>, Kvass Okroshka
+<liquid:lava>, Lava
+<liquid:lavatfc>, fluid.tile.lava
+<liquid:lemonbrandy>, Lemon Brandy
+<liquid:lemonjuice>, Lemon Juice
+<liquid:lemonmors>, Lemon Mors
+<liquid:lemontea>, Lemon Tea
+<liquid:lemonwine>, Lemon Wine
+<liquid:limewater>, Limewater
+<liquid:mead>, Mead
+<liquid:meatbouillon>, Meat Bouillon
+<liquid:milk>, Milk
+<liquid:milkcurdled>, Curdled Milk
+<liquid:milksoup>, Milk Soup
+<liquid:milkvinegar>, Milk + Vinegar Mix
+<liquid:mushroombouillon>, Mushroom Bouillon
+<liquid:mushroomsoup>, Mushroom Soup
+<liquid:okroshka>, Okroshka
+<liquid:oliveoil>, Olive Oil
+<liquid:orangebrandy>, Orange Brandy
+<liquid:orangedye>, fluid.orangedye
+<liquid:orangejuice>, Orange Juice
+<liquid:orangemors>, Orange Mors
+<liquid:orangewine>, Orange Wine
+<liquid:papayabrandy>, Papaya Brandy
+<liquid:papayajuice>, Papaya Juice
+<liquid:papayamors>, Papaya Mors
+<liquid:papayawine>, Papaya Wine
+<liquid:peachbrandy>, Peach Brandy
+<liquid:peachjuice>, Peach Juice
+<liquid:peachmors>, Peach Mors
+<liquid:peachwine>, Peach Wine
+<liquid:peasantsoup>, Peasant Soup
+<liquid:pitch>, Pitch
+<liquid:plumbrandy>, Plum Brandy
+<liquid:plumcompote>, Plum Compote
+<liquid:plumjuice>, Plum Juice
+<liquid:plummors>, Plum Mors
+<liquid:plumwine>, Plum Wine
+<liquid:potatosoup>, Potato Soup
+<liquid:potatowater>, Potato Water
+<liquid:potatowine>, Potato Wine
+<liquid:purpledye>, fluid.purpledye
+<liquid:raspberrycompote>, Raspberry Compote
+<liquid:raspberrytea>, Raspberry Tea
+<liquid:reddye>, Red Dye
+<liquid:ricebeer>, Rice Beer
+<liquid:ricewater>, Rice Water
+<liquid:ricewhiskey>, Rice Whiskey
+<liquid:rum>, Rum
+<liquid:ryebeer>, Rye Beer
+<liquid:ryewater>, Rye Water
+<liquid:ryewhiskey>, Rye Whiskey
+<liquid:ryewine>, Rye Wine
+<liquid:sake>, Sake
+<liquid:saltwater>, Salt Water
+<liquid:sbiten>, Sbiten
+<liquid:shochu>, Shochu
+<liquid:strawberrycompote>, Strawberry Compote
+<liquid:strawberrytea>, Strawberry Tea
+<liquid:syrup>, Syrup
+<liquid:tannin>, Tannin
+<liquid:tarhun>, Tarhun
+<liquid:tea>, Tea
+<liquid:teamushroom>, Tea Mushroom
+<liquid:tequila>, Tequila
+<liquid:uncookedkvass>, Uncooked Kvass
+<liquid:vinegar>, Vinegar
+<liquid:vodka>, Vodka
+<liquid:water>, Water
+<liquid:wax>, Wax
+<liquid:wheatbeer>, Wheat Beer
+<liquid:wheatwater>, Wheat Water
+<liquid:wheatwine>, Wheat Wine
+<liquid:whiskey>, Whiskey
+<liquid:whitedye>, White Dye
+<liquid:wine>, Wine
+<liquid:yellowdye>, Yellow Dye
+<liquid:zhur>, Zhur
