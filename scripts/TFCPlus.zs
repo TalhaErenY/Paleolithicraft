@@ -123,7 +123,28 @@ recipes.remove(<minecraft:pumpkin_seeds>);
 recipes.remove(<minecraft:melon_seeds>);
 recipes.remove(<minecraft:fire_charge>);
 
-//TODO:remove all mold recipes
+//Molds
+recipes.remove(<terrafirmacraftplus:item.StickBundle>);
+recipes.remove(<terrafirmacraftplus:item.3x Candle Holder Mold>);
+recipes.remove(<terrafirmacraftplus:item.Axe Mold>);
+recipes.remove(<terrafirmacraftplus:item.Bullet Mold>);
+recipes.remove(<terrafirmacraftplus:item.Candle Holder Mold>);
+recipes.remove(<terrafirmacraftplus:item.Chisel Mold>);
+recipes.remove(<terrafirmacraftplus:item.Hammer Mold>);
+recipes.remove(<terrafirmacraftplus:item.Hoe Mold>);
+recipes.remove(<terrafirmacraftplus:item.Javelin Mold>);
+recipes.remove(<terrafirmacraftplus:item.Knife Mold>);
+recipes.remove(<terrafirmacraftplus:item.Mace Mold>);
+recipes.remove(<terrafirmacraftplus:item.Mold>);
+recipes.remove(<terrafirmacraftplus:item.Pick Mold>);
+recipes.remove(<terrafirmacraftplus:item.ProPick Mold>);
+recipes.remove(<terrafirmacraftplus:item.Saw Mold>);
+recipes.remove(<terrafirmacraftplus:item.Scythe Mold>);
+recipes.remove(<terrafirmacraftplus:item.Sheet Mold>);
+recipes.remove(<terrafirmacraftplus:item.Shovel Mold>);
+recipes.remove(<terrafirmacraftplus:item.Sword Mold>);
+recipes.remove(<terrafirmacraftplus:item.Trowel Mold>);
+recipes.remove(<terrafirmacraftplus:Anvil:*>);
 
 /* Personal Additions */
 recipes.addShaped(<minecraft:painting>,[[<ore:stickWood>,<ore:stickWood>,<ore:stickWood>],[<ore:stickWood>,<ore:materialBurlap>,<ore:stickWood>],[<ore:stickWood>,<ore:stickWood>,<ore:stickWood>]]);
@@ -169,7 +190,7 @@ recipes.removeShaped(<minecraft:wooden_pressure_plate>);
 
 //hardened_clay/Tadelakt
 recipes.removeShaped(<minecraft:clay>);
-recipes.addShaped(<minecraft:clay>,[[<ore:lumpClay>,<ore:lumpClay>,<ore:lumpClay>],[<ore:lumpClay>,<ore:lumpClay>,<ore:lumpClay>],[<ore:lumpClay>,<ore:lumpClay>,<ore:lumpClay>]]);
+recipes.addShaped(<minecraft:clay>,[[<terrafirmacraftplus:item.Mortar>,<terrafirmacraftplus:item.Mortar>,<terrafirmacraftplus:item.Mortar>],<terrafirmacraftplus:item.Mortar>,<ore:lumpClay>,<terrafirmacraftplus:item.Mortar>],[<terrafirmacraftplus:item.Mortar>,<terrafirmacraftplus:item.Mortar>,<terrafirmacraftplus:item.Mortar>]]);
 <minecraft:clay>.displayName = "Unfinished Tadelakt";
 mods.Terrafirmacraft.Barrel.addItemConversion(<minecraft:hardened_clay>, <minecraft:clay>, <liquid:oliveoil> * 50, 0);
 <minecraft:hardened_clay>.displayName = "Tadelakt";
@@ -182,8 +203,10 @@ recipes.removeShaped(<minecraft:piston>);
 //TODO:Stone age quern recipe
 //TODO:Redstone recipe
 //TODO:Nest box recipe
-//TODO:Sign recipe (clay knapping?)
-//TODO:Tadelakt/Qadad in place of bricks? (lime mortar+dust aggregate+soap[olive oil+limewater])
+recipes.removeShaped(<minecraft:sign>);
+mods.Terrafirmacraft.Knapping.addClayWorkingRecipe(<minecraft:sign>, "     ", "     ", "     ", "## ##", "## ##");
+recipes.removeShaped(<terrafirmacraftplus:NestBox>);
+recipes.addShaped(<terrafirmacraftplus:NestBox>, [[<terrafirmacraftplus:item.Straw>, null, <terrafirmacraftplus:item.Straw>],[<terrafirmacraftplus:item.StickBundle>, <terrafirmacraftplus:item.Straw>, <terrafirmacraftplus:item.StickBundle>],[<terrafirmacraftplus:item.StickBundle>, <terrafirmacraftplus:item.StickBundle>, <terrafirmacraftplus:item.StickBundle>]]);
 //TODO:Stained Glass Panes
 //TODO:proper carpet recipes, wool block recipe
 //TODO:dye oredict

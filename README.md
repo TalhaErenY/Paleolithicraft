@@ -7,5 +7,6 @@ Optifine must be installed and configured manually. Same goes for the JVM.
 ### Changed Configs
 ##### TFC+
 changed oil burn multiplier from 8 to 6.
+Clay block->Unfinished Tadelakt
 ##### Bids and pieces
 allow hand breaking crucibles.
