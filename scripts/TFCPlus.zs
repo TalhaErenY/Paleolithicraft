@@ -185,8 +185,7 @@ mods.Terrafirmacraft.Anvil.removeAnvilRecipe(<terrafirmacraftplus:Hopper>,<terra
 
 
 recipes.removeShaped(<minecraft:wooden_pressure_plate>);
-//recipes.addShaped(<minecraft:wooden_pressure_plate>,[[<ore:woodLumber>,<ore:woodLumber>]]);
-//Convert this to use stick bundles and redstone
+recipes.addShaped(<minecraft:wooden_pressure_plate>,[[<terrafirmacraftplus:item.StickBundle>,<terrafirmacraftplus:item.StickBundle>,<minecraft:redstone>]]);
 
 //hardened_clay/Tadelakt
 recipes.removeShaped(<minecraft:clay>);
@@ -195,7 +194,9 @@ recipes.addShaped(<minecraft:clay>,[[<terrafirmacraftplus:item.Mortar>,<terrafir
 mods.Terrafirmacraft.Barrel.addItemConversion(<minecraft:hardened_clay>, <minecraft:clay>, <liquid:oliveoil> * 50, 0);
 <minecraft:hardened_clay>.displayName = "Tadelakt";
 //TODO: add dyed recipes for hardened clay.
-
+/*
+cyan:6 , purple:5 , light gray:7 , gray:8 , 
+*/
 recipes.removeShaped(<minecraft:piston>);
 //recipes.addShaped
 
