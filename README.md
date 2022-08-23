@@ -1,4 +1,4 @@
-# Terrafirmacraftplus-stone-age-WIP
+# Paleolithicraft
 a WIP pack for a TFC+ modpack centered around the stone age with no progression beyond. This is a pastorial-building focused pack that aims to remove the mining gameplay loop from TFC.
 
 ### Notes
