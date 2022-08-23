@@ -124,6 +124,7 @@ recipes.remove(<minecraft:melon_seeds>);
 recipes.remove(<minecraft:fire_charge>);
 
 //Molds
+
 recipes.remove(<terrafirmacraftplus:item.StickBundle>);
 recipes.remove(<terrafirmacraftplus:item.3x Candle Holder Mold>);
 recipes.remove(<terrafirmacraftplus:item.Axe Mold>);
@@ -145,6 +146,8 @@ recipes.remove(<terrafirmacraftplus:item.Shovel Mold>);
 recipes.remove(<terrafirmacraftplus:item.Sword Mold>);
 recipes.remove(<terrafirmacraftplus:item.Trowel Mold>);
 recipes.remove(<terrafirmacraftplus:Anvil:*>);
+
+recipes.remove(<terrafirmacraftplus:Barrel:*>);
 
 /* Personal Additions */
 recipes.addShaped(<minecraft:painting>,[[<ore:stickWood>,<ore:stickWood>,<ore:stickWood>],[<ore:stickWood>,<ore:materialBurlap>,<ore:stickWood>],[<ore:stickWood>,<ore:stickWood>,<ore:stickWood>]]);
