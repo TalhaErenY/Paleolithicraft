@@ -171,14 +171,14 @@ mods.Terrafirmacraft.Knapping.addClayWorkingRecipe(<minecraft:book>, "#####", "#
 recipes.addShapeless(<minecraft:writable_book>,[<minecraft:book>,<ore:stickWood>,]);
 <minecraft:book>.displayName = "Clay Tablet";
 <minecraft:writable_book>.displayName = "Clay Tablet and Stylus";
-//TODO: add crafting table recipe with 4x4 large logs
-recipes.remove(<minecraft:crafting_table>);
-recipes.addShaped(<minecraft:crafting_table>, [[<terrafirmacraftplus:item.Thick Log:*>,<terrafirmacraftplus:item.Thick Log:*>],[<terrafirmacraftplus:item.Thick Log:*>,<terrafirmacraftplus:item.Thick Log:*>]])
+
+recipes.remove(<terrafirmacraftplus:Workbench>);
+recipes.addShaped(<terrafirmacraftplus:Workbench>, [[<terrafirmacraftplus:item.Thick Log:*>,<terrafirmacraftplus:item.Thick Log:*>],[<terrafirmacraftplus:item.Thick Log:*>,<terrafirmacraftplus:item.Thick Log:*>]]);
 
 //TODO: change recipe below to use large vessel pitch and coracle instead of planks
 <minecraft:boat>.addTooltip(format.green("requires barrel full of pitch to craft"));
 recipes.removeShaped(<minecraft:boat>);
-recipes.addShaped(<minecraft:boat>,[[<terrafirmacraftplus:item.Paddle>,null,<terrafirmacraftplus:item.Paddle>],[<ore:plankWood>,<terrafirmacraftplus:Barrel:*>.onlyWithTag({fluidNBT: {FluidName: "pitch", Amount: 10000}}),<ore:plankWood>],[<ore:plankWood>,<ore:plankWood>,<ore:plankWood>]]);
+recipes.addShaped(<minecraft:boat>,[[<terrafirmacraftplus:item.Paddle>,null,<terrafirmacraftplus:item.Paddle>],[<ore:plankWood>,<terrafirmacraftplus:Barrel:*>.onlyWithTag({fluidNBT: {FluidName: "pitch", Amount: 10000}}),null],[null,<terrafirmacraftplus:item.Coracle>,null]]);
 
 //TODO: add a recipe for hoppers/Smooth stone
 mods.Terrafirmacraft.Anvil.removeAnvilRecipe(<terrafirmacraftplus:Hopper>,<terrafirmacraftplus:item.Wrought Iron Double Sheet>,<terrafirmacraftplus:item.Wrought Iron Double Sheet>,"hopper",3);
