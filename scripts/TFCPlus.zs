@@ -171,11 +171,11 @@ mods.Terrafirmacraft.Knapping.addClayWorkingRecipe(<minecraft:book>, "#####", "#
 recipes.addShapeless(<minecraft:writable_book>,[<minecraft:book>,<ore:stickWood>,]);
 <minecraft:book>.displayName = "Clay Tablet";
 <minecraft:writable_book>.displayName = "Clay Tablet and Stylus";
+<minecraft:written_book>.displayName = "Written Clay Tablet";
 
 recipes.remove(<terrafirmacraftplus:Workbench>);
 recipes.addShaped(<terrafirmacraftplus:Workbench>, [[<terrafirmacraftplus:item.Thick Log:*>,<terrafirmacraftplus:item.Thick Log:*>],[<terrafirmacraftplus:item.Thick Log:*>,<terrafirmacraftplus:item.Thick Log:*>]]);
 
-//TODO: change recipe below to use large vessel pitch and coracle instead of planks
 <minecraft:boat>.addTooltip(format.green("requires barrel full of pitch to craft"));
 recipes.removeShaped(<minecraft:boat>);
 recipes.addShaped(<minecraft:boat>,[[<terrafirmacraftplus:item.Paddle>,null,<terrafirmacraftplus:item.Paddle>],[<ore:plankWood>,<terrafirmacraftplus:Vessel:*>.onlyWithTag({fluidNBT: {FluidName: "pitch", Amount: 5000}}),null],[null,<terrafirmacraftplus:item.Coracle>,null]]);
@@ -194,23 +194,29 @@ recipes.addShaped(<minecraft:clay>,[[<terrafirmacraftplus:item.Mortar>,<terrafir
 mods.Terrafirmacraft.Barrel.addItemConversion(<minecraft:hardened_clay>, <minecraft:clay>, <liquid:oliveoil> * 50, 0);
 <minecraft:hardened_clay>.displayName = "Tadelakt";
 //TODO: add dyed recipes for hardened clay.
+//TODO:Add dyes
 /*
 cyan:6 , purple:5 , light gray:7 , gray:8 , 
 */
 recipes.removeShaped(<minecraft:piston>);
-//recipes.addShaped
+//recipes.addShaped(<minecraft:piston>, [[],[],[]])
 
-//TODO:Add dyes
-//TODO:Stone age quern recipe
-//TODO:Redstone recipe
+
+recipes.remove(<terrafirmacraftplus:Quern>);
+
+
 recipes.removeShaped(<minecraft:sign>);
 mods.Terrafirmacraft.Knapping.addClayWorkingRecipe(<minecraft:sign>, "     ", "     ", "     ", "## ##", "## ##");
 <minecraft:sign>.displayName = "Clay Sign";
 
 recipes.removeShaped(<terrafirmacraftplus:NestBox>);
 recipes.addShaped(<terrafirmacraftplus:NestBox>, [[<terrafirmacraftplus:item.Straw>, null, <terrafirmacraftplus:item.Straw>],[<terrafirmacraftplus:item.StickBundle>, <terrafirmacraftplus:item.Straw>, <terrafirmacraftplus:item.StickBundle>],[<terrafirmacraftplus:item.StickBundle>, <terrafirmacraftplus:item.StickBundle>, <terrafirmacraftplus:item.StickBundle>]]);
-//TODO:Stained Glass Panes
-//TODO:proper carpet recipes, wool block recipe
-//TODO:dye oredict
-//TODO:Tool rack recipe
+
+//recipes.addShapeless(<GLASS PANE>, [<terrafirmacraftplus:item.Glass>, <terrafirmacraftplus:item.Stone Knife>.transformDamage(), <terrafirmacraftplus:item.Stone Hammer>.transformDamage()])
+
+//TODO:Stained Glass Panes (loop)
+//TODO:Proper carpet recipes, wool block recipe (loop)
+//TODO:Dye oredict (loop)
+//TODO:Tool rack recipe (needs loop)
 //TODO:Change recipe of sterling silver lamp to clay knapping, change name to clay lamp.
+//TODO:Redstone recipe

@@ -1,0 +1,1 @@
+recipes.addShaped(<terrafirmacraftplus:Quern>, [[null,null,null],[null,null,null],[<tfcplus-bids:RoughStoneSed:*>,<tfcplus-bids:RoughStoneSed:*>,<tfcplus-bids:RoughStoneSed:*>]]);
