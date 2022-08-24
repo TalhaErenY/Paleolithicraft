@@ -201,7 +201,7 @@ mods.Terrafirmacraft.Barrel.addItemConversion(<minecraft:hardened_clay>, <minecr
 cyan:6 , purple:5 , light gray:7 , gray:8 , 
 */
 recipes.removeShaped(<minecraft:piston>);
-//recipes.addShaped(<minecraft:piston>, [[],[],[]])
+//recipes.addShaped(<minecraft:piston>, [[],[],[]]);
 
 mods.Terrafirmacraft.Knapping.addClayWorkingRecipe(<terrafirmacraftplus:OilLamp:2>, "  #  ", " ### ", " ### ", " ### ", "     ");
 <terrafirmacraftplus:OilLamp:2>.displayName = "Clay Oil Lamp";
@@ -220,5 +220,4 @@ recipes.addShaped(<terrafirmacraftplus:NestBox>, [[<terrafirmacraftplus:item.Str
 //TODO:Proper carpet recipes, wool block recipe (loop)
 //TODO:Dye oredict (loop)
 //TODO:Tool rack recipe (needs loop)
-//TODO:Change recipe of sterling silver lamp to clay knapping, change name to clay lamp.
 //TODO:Redstone recipe
