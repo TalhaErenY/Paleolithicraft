@@ -10,7 +10,7 @@ hash = "230184f60bae2feaf244f10a8bac053c8ff33a183bcc365b4d8b876d2b7f4809"
 
 [[files]]
 file = "config/CodeChickenCore.cfg"
-hash = "85a7fb0e2a4dce72e34c3c830b93e16c4cd773da1b5024b6989e15a911595735"
+hash = "6968c1fede7fdac74a774773358f38e9b67be759d3d9d4554bbbd400b276a037"
 
 [[files]]
 file = "config/InGameInfo.xml"
@@ -22,7 +22,7 @@ hash = "941642d893bf084d2e0cbcc3c95d4e4049b7957477712deaaca5363e588ffa82"
 
 [[files]]
 file = "config/LunatriusCore.cfg"
-hash = "2e4304d971560fc9c94c70b4b86ebeb2a33d9be244afad36de75bcbae8673e14"
+hash = "7f42927a07e0317b0674089531c503023a70b82c0a11cde871b0acee7260d203"
 
 [[files]]
 file = "config/NEI/client.cfg"
@@ -86,7 +86,7 @@ hash = "ce87a803450ab3a09badf3653bc75746b84234f8335ef29303e60011701af077"
 
 [[files]]
 file = "config/tfcplus-bids.cfg"
-hash = "f8d76b1b0ac96fa270ff09a2ebf1ae19d7b15074f23e747068426cedae1f28ff"
+hash = "2a522b790022345799da11f94ebcd912c2cf203d6c7a7a958bca7cd98ea2bd0a"
 
 [[files]]
 file = "journeymap/colorpalette.json"
@@ -405,6 +405,14 @@ file = "journeymap/icon/entity/3D/terrafirmacraftplus/textures/mob/sheep.png"
 hash = "9962ba2b2abd4b5087f0a541111225a8d920bd78691cabfef6ff7abb3f11c0d2"
 
 [[files]]
+file = "minetweaker liquids.log"
+hash = "9f0d08a6c7fe1faa45bed0cb4e48c463762d44d370350f2c2a4cc6c3a72f9912"
+
+[[files]]
+file = "minetweaker.log"
+hash = "ee12e9ff753b7e0a3d8053c58c80a3be6229ebd1bce76ee53fbdd688d0668426"
+
+[[files]]
 file = "mods/bark-for-tfc.pw.toml"
 hash = "06f37a4b6473196b793fb0aa2da60f7cf5a0da9224badd7fc5b9df340f6e6d58"
 metafile = true
@@ -507,5 +515,9 @@ file = "scripts/Kvass.zs"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "scripts/TFCPlus-Bids.zs"
+hash = "011e3db9c51bc448397c41cd3dc5c311c16339006c9d65fc9b81d4be834b14b4"
+
+[[files]]
 file = "scripts/TFCPlus.zs"
-hash = "56d3ef1c0b853a02d14dcb32dbf866b761dd6462060a2f8d6dbf84f53f8576fe"
+hash = "53924e25ec28341d321ffae83bd4e79393a17efedd5d39dd29c3087d2b272ee8"

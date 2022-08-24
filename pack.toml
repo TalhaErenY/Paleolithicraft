@@ -1,12 +1,12 @@
 name = "Paleolithicraft"
 author = "Sanguine_Sloth"
-version = "0.1.1"
+version = "0.1.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "bc1282ee1b9694b6cbb66493983e31bca4fc5177a5dccb5cc7adbea01bb21dc9"
+hash = "fb84880afd8fb6ef5bf9e2d66036b1471d9e2e3f05120c51a237e0d4af2d6084"
 
 [versions]
 forge = "10.13.4.1614"
