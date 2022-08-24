@@ -503,6 +503,442 @@ hash = "62ea2b80fdff17bc5c4f150c771f946067ae5bf0399ffe10b4eed5a0cde29b91"
 metafile = true
 
 [[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/texts/splashes.txt"
+hash = "2eb4df9046000d1c20c0fa7db8e3e1db95907fe68662d9b5db8f01d77c259e17"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/bookshelf.png"
+hash = "afc76a21b9dad30ec14772ed29ea083ac8099cf309fc4afd8b0d3e01cb62dfd8"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/glass.png"
+hash = "cb89c706dce86eac3123cef087d359b5f23098b658a468fb91662b4a9922bcd0"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/glass_black.png"
+hash = "c05b4138b96551d63357ec3845911ef3848cbbd76957ac1aa1ae4003b113c75f"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/glass_blue.png"
+hash = "0416e4a8c66f89b9394a8be3f5470e6bf8b232bdd26147b5a107eb7764a61676"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/glass_brown.png"
+hash = "1d835741ad220db343a3469f0c9ec07fe701c974bc97f62aab50fe158fb13a81"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/glass_cyan.png"
+hash = "28588faae6c5287a863a77310253e4a836192c13e1f46c0d369075e0576234e4"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/glass_gray.png"
+hash = "ef63e3fa74f2dda2c65c0946698493e063f42f4b9f411abaa03b98ea57499e6d"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/glass_green.png"
+hash = "dc82be445bd9c7cf158bd57651d51bfef400310f2ad4937fe1e5b1c60b4f5916"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/glass_light_blue.png"
+hash = "9e42d238c974136ca7c16ff434c825064b78a4d82341708638a76ffd844c544f"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/glass_lime.png"
+hash = "dd7e27b22c7318ee27bc3eca7686a1eb9d960b25a9c723793555cb8e3ca7b69e"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/glass_magenta.png"
+hash = "be07ea9fb37ff7f8c94945570c2ea2864a7080bcf16aeef7decea7479d9c73e4"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/glass_orange.png"
+hash = "136ad613ee1da3520bc980cc8376abd3cf1dddb886cf89eaf37820ca051711ab"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/glass_pane_top.png"
+hash = "ed69dc989e06ccc8b88146ce829801c41ba34d4da8cbd50ee37b592cee393bd9"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/glass_pane_top_black.png"
+hash = "69c870dcf258cf38c9c5074fce0d7f0d50b57c52a176734505adbe32dc3cb705"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/glass_pane_top_blue.png"
+hash = "fc7facf745b2cd5dbdcf45bc5e001c8f725e37986fb893a1d73a4d6f9e24e1bf"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/glass_pane_top_brown.png"
+hash = "0593bd7434b5b935ce5553fbac1d5c61e8e80de448946208cd3bc6e56ab9874b"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/glass_pane_top_cyan.png"
+hash = "16231acd2ee9b158298d87912f72cb4b49f2fa07fdb0375b955cf8f1665dfd24"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/glass_pane_top_gray.png"
+hash = "15ca80d3ed449ec6d6ada0d9ee9d842304785ce8796cd2a4bb7d7433b6d9b487"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/glass_pane_top_green.png"
+hash = "578f59519229f5834086cb60fcad76d428f92086b2ac704cd1f07dca2a911f25"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/glass_pane_top_light_blue.png"
+hash = "6315dca8278d48d5d220d3ded835f735f2241950519f15f35eae217ef0908dbd"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/glass_pane_top_lime.png"
+hash = "d2c2ca123203a6d631c039d5192c786c18e06bb3444408a18524c3ab2163ce96"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/glass_pane_top_magenta.png"
+hash = "6f15e858211514044a90d52c9f2a895d7c3f1a816501aaa656611edfb903639f"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/glass_pane_top_orange.png"
+hash = "09b15047b4e70d36c12059e4672039b43970ba29dcd8baf59a5c2be3c12cb6f5"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/glass_pane_top_pink.png"
+hash = "42336b58bcae96e4459a39feb440166404cb9e41ee59564fd0a9e4c3b65e00ad"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/glass_pane_top_purple.png"
+hash = "a874defe348a097af15ae1677b7123eb6dd4501fe6607c442607d3a8677e9343"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/glass_pane_top_red.png"
+hash = "678140f3d76a408f431b65fdb985ce2594dc10669f50829287002b8ff8d56d8f"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/glass_pane_top_silver.png"
+hash = "3b99a406433dad805fc62c2704b52e0a033939be52b8d05c5466b8ce7169538c"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/glass_pane_top_white.png"
+hash = "08520aedf945012df41ede10e831a9f6c0173dbf06281e28ab2dcf83013296c2"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/glass_pane_top_yellow.png"
+hash = "c93fb666579b43cac1a1b7125b5e8beba993641dc1eda1a61081d160c7adc6ca"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/glass_pink.png"
+hash = "f0ec69c010c1483ede08e4f97366f265e4955907f74b7df8ebb3f3c94b01d025"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/glass_purple.png"
+hash = "da79fb23035869e65ebddf329c2f05b49217c30f6bf68d69e6488b2ca7630734"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/glass_red.png"
+hash = "70066502228f5e5d7295f46488e9ff4290b7aa4dda917a9686e43279ce1087c7"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/glass_silver.png"
+hash = "be543d3ad17a329c69b7496bb45ab5ee34d6cb174b35a50c72a871dc45caf1e8"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/glass_white.png"
+hash = "696d5d7f921d0e39889c3e051e2cb9b1e740cbf9c1468ab8ff31bde854721693"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/glass_yellow.png"
+hash = "3ed8187f87a5725f1ae3052b38248aa16ddf9af11afd6760beb51c357c36cae9"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/hardened_clay.png"
+hash = "4f5faa5ae969259dd6a9279254b40981b47298976690ac021f2b43471e74e79e"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/hardened_clay_stained_black.png"
+hash = "1f4ac83a8f8d2d6dfab6695a465995ad91e4459696fab02fc2a7c90eaaf69209"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/hardened_clay_stained_blue.png"
+hash = "a0b38feb238de2c58e446fc224247846a7303e2d2ee9d05e9744374f1902cac4"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/hardened_clay_stained_brown.png"
+hash = "88f43c0d3544385de2d0ea4b45654394ea37c592d83d04943d47ab18dc1b58b5"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/hardened_clay_stained_cyan.png"
+hash = "0a5b6294554ab6152626f48aa9ac35d0a6239302f3e8f5199f90c103393df7d2"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/hardened_clay_stained_gray.png"
+hash = "e81447ecbe3ab9478ac8a8c9f472ddc2c770924ef55416a468000d3dc0530cdc"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/hardened_clay_stained_green.png"
+hash = "5d5b1ccbfe807da597a8622a7e7fbf0f1686a3174b259446510a524e96a2e1af"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/hardened_clay_stained_light_blue.png"
+hash = "7f23e5f3a236c80c5ee16fbcf716fad02e403ea875b7fea4638c1e94354d2781"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/hardened_clay_stained_lime.png"
+hash = "28b452a5d78ac253713cde9dc27601859ffede58bdbb04ca14fc775f716f6bef"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/hardened_clay_stained_magenta.png"
+hash = "04ec5e50fd07b4de88543d6ef23e914bf755a5061aa4a1e7aebea271c72f46db"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/hardened_clay_stained_orange.png"
+hash = "7bae57ffb39843cbe778cb35696ee43d1060c050940209ce5d188e56aab77522"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/hardened_clay_stained_pink.png"
+hash = "3c5d2cb4071aaea6730f6c43e46048deacd10ea630f668a869bfee36e561c263"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/hardened_clay_stained_purple.png"
+hash = "58710e8a23e1a6a9e7475df241391bb9c91196c781e5e4104eb9f45de6d0b093"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/hardened_clay_stained_red.png"
+hash = "e531a94e310f4f6b1ec9d07ed990f628b724a2f7f5040935162c9ca30c38fa93"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/hardened_clay_stained_silver.png"
+hash = "01b3179b7bf31f9c57e2819f2b8ab7ed2a82614ceebb97075f15d308c8cb7fa4"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/hardened_clay_stained_white.png"
+hash = "a59b03dac77f746d30559153c4cffecfd4b3c9c0c484fdd0740cd1869044dba6"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/hardened_clay_stained_yellow.png"
+hash = "9a58331a3f4f0cc1f0d886510a11c62649b4ac20019e45a23b5ebf443c09e316"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/redstone_dust_cross.png"
+hash = "b608ee18e685a6ec0ce6224cb2d8689ae22910062b5327c568201ededb4e278b"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/redstone_dust_cross_overlay.png"
+hash = "a901afae7bdb66678f08a39b32f8a46da9864c8a64fabc0e77a7f12b93df12ba"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/redstone_dust_line.png"
+hash = "1211cd6313d1c01cc660788b09b79f85f1025c7cd2ca9a5603f57f2d2c0d51db"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/redstone_dust_line_overlay.png"
+hash = "a901afae7bdb66678f08a39b32f8a46da9864c8a64fabc0e77a7f12b93df12ba"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/wool_colored_black.png"
+hash = "1bca9954cc64126cb1940f6f01eb8ed1bea8958d7db0e5ecc97f8e21632f3728"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/wool_colored_blue.png"
+hash = "17222477d86dd110e0b700ab23b62e2a8ee5ca461c2cff89838aecf4af6aa7a3"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/wool_colored_brown.png"
+hash = "b4579bc51d975b8526ac7b2ea4fba5f7585368288240c391392a32fa9fed6ed7"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/wool_colored_cyan.png"
+hash = "d808313950c9295499d3db46e8abf2a49973f6b67f0305f75d723fedf3df520b"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/wool_colored_gray.png"
+hash = "b0edb4f06de57d836a9da6572f930626996511ad18b404a1c22b3b138422aad5"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/wool_colored_green.png"
+hash = "1344e59f766bb0e893fa5790784eeb9a3599141215bd8f16f704655996d56879"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/wool_colored_light_blue.png"
+hash = "bbb047e5d6f03c23a6e08e54d9d2476248f7dea22d3a7d9c813da2c2db531422"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/wool_colored_lime.png"
+hash = "e5ee7f89be6976cf14434465579ebccc35f14f1b45e891a71d17a4353f789010"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/wool_colored_magenta.png"
+hash = "09c622dfc98fdbdbe6eccbb5e4c66fff00696c9c7f9bf3ffdee3aff988a1bf2e"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/wool_colored_orange.png"
+hash = "030fb8b126b73ff1751da53b9ebaaa7edd3ac99da109731ebe582de5311a5e53"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/wool_colored_pink.png"
+hash = "59b5468e08c8bc4f57858d0b010081ba2e26c48ed3753fea541b8f6829ab9d78"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/wool_colored_purple.png"
+hash = "5f95d2ed5a9949fc9cb4905424472d2fed42da2ff67d956ecda19043ab2031e1"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/wool_colored_red.png"
+hash = "c3c428d78f0d16d3ffd40406258210f65765dd6447e5e10fa7a9c469f4f0adaa"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/wool_colored_silver.png"
+hash = "2c440d3fd7ed30e78bcac06ceef659f34652fb718603a8a211b8e78e24ae9fd3"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/wool_colored_white.png"
+hash = "450c48173e4570c6676a542c2e03d8e29c4ee1e68b3c19308d5d5c4c54b9c8f0"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/blocks/wool_colored_yellow.png"
+hash = "c828e87adf03fbae230f232def7247071b042fb7120dfb0e00b2462ae99e220e"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/entity/sign.png"
+hash = "3357ff28985cae6363eb1c2d46611c6b4c9436273254f20fe268b24b638196eb"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/gui/book.png"
+hash = "939d371072f89eaa9e52486701c1a1e6ff7001de5c8140fe7f3bd4991327239b"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/gui/title/background/panorama_0.png"
+hash = "1b679c8d085264d997f362c2db6ce3fe8b6beca2579d02240749580fa83232c1"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/gui/title/background/panorama_1.png"
+hash = "be5ed7225d8ec552f6cbe3b1a164055faf577a315a180d3d20aa0b4ea637ab02"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/gui/title/background/panorama_2.png"
+hash = "955e8c32c0525ecfce7b43239b099fb78d2e74d8944a8d0dd9711112afc8db9e"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/gui/title/background/panorama_3.png"
+hash = "2db6b762b27942267d93a1e2bd45ecc89ac55a4089ade2ffe7ebca5af947a289"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/gui/title/background/panorama_4.png"
+hash = "8d5e79172e6ca933fcbd7ff2ff11cc1bf5ac16fea149bef0db1f4b1a16940480"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/gui/title/background/panorama_5.png"
+hash = "9a6d4493fed86a79f4dfe87f6331ba26c428dbff33e9cfbc718729fb43c87207"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/gui/title/minecraft.png"
+hash = "64811c09f34e86ebab3664992ea4641d6262d40170c0a82c7810c722169a76a3"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/gui/title/mojang.png"
+hash = "c342fa79ecfc2cf3cc9e260759ba0e86bb2d0eb55ca150f2d50c70e2c478a7cd"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/items/book_normal.png"
+hash = "e87633e271866fafde66203140939dea2819e9a59a9889e64beadc79c92e29f4"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/items/book_writable.png"
+hash = "691842c1de1e8962d7e6204d0a2c87c2e081e101a88d632d2e7b3302dacf9b96"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/items/book_written.png"
+hash = "15df1624d48924aa7291678d340d02a871242b09fe2540536c99440e91af5798"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/items/dye_powder_black.png"
+hash = "0b6afc3bedf39949e7a59821e8d0e4bbf1a9617d8e751fc23ddd9b05fe16756d"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/items/dye_powder_blue.png"
+hash = "d6846828f3dbceac26bcfcf7a7b0882603ab25f568940ddf6252aec7ceca2d61"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/items/dye_powder_brown.png"
+hash = "b2398ad6949dc9444f580c099b12d4b008b1719d801cb2dc6e1e0a9a6b93ce39"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/items/dye_powder_cyan.png"
+hash = "25be21e1385a6744048c6dc4b44320425996aba188d2cb6339518e234c008281"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/items/dye_powder_gray.png"
+hash = "09dbe16911e2a62e30aa6dc5b035eaad60941c5b757b4954fae4276bd8e1d54c"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/items/dye_powder_green.png"
+hash = "355073ac2d5686d9a30369259b3c631357a8dd55a5defd9299950bdbac84ea9e"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/items/dye_powder_light_blue.png"
+hash = "184ff324b2846e516e4395e0a7ab8d43fc62faea4db0b5f6604b5dcec89d85ec"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/items/dye_powder_light_gray.png"
+hash = "d9d1e8af6638d8c8762bea547ed6c7b224123de58e803cb8a5d7492d9e00ff91"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/items/dye_powder_lime.png"
+hash = "83aeabf356b219c3fc138d580e9870739f07e491e2055edd9bedaf884a739dad"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/items/dye_powder_magenta.png"
+hash = "5f41e22d35f6de7b47b527f3cf788c63cbb7850add5463a7368941a39bfea46a"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/items/dye_powder_orange.png"
+hash = "463af96ddb1805113652db7ca1b402ff10c6beb7f7b1e15465199168e5bf9e82"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/items/dye_powder_pink.png"
+hash = "759e8d6f5320900df29e02f396bb4820a12fe4433d8419279f1a8eb96960d26e"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/items/dye_powder_purple.png"
+hash = "e6d00528e8633ffb7aeb7937561fd8934b436050859b105ab599f3ee41346ede"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/items/dye_powder_red.png"
+hash = "2354b8ef13ce05b8ce69530490abc757a4bddc0ae504eb0e5a0f0bf030d546a8"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/items/dye_powder_silver.png"
+hash = "4e10363a14e16d14309446482ccb6f21c26e52204bc5ad12c70067f073c34f10"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/items/dye_powder_white.png"
+hash = "9eae76d282b815c88e14f5b3632444d27b5e27ed804ad6ca732367bb6b267ea2"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/items/dye_powder_yellow.png"
+hash = "1eec6112a7232d8afcd3423e6d150ce2ba4ea8d520e38a96c32a94c24eb4e55a"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/minecraft/textures/items/redstone_dust.png"
+hash = "b8e3f44e86514f1b215db01cbb560ebb51afa003b7b376c7cde58e08ff4845cd"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/terrafirmacraftplus/lang/en_US.lang"
+hash = "39bd48a10d937f5331bac1aa3698a6b51353abd05c38602d64fa94608536d802"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/assets/terrafirmacraftplus/textures/blocks/metal/Sterling Silver.png"
+hash = "0b852da52049fac82e45ecda8a1aa7dd01aaaeed83e8762dc589c22f9f9600e0"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/pack-export.png"
+hash = "67c78385c762e4fa38ee9172e130d9673b7bc6a62a0ba40c0a2b1f8c3aa3e50c"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/pack.mcmeta"
+hash = "34145fb30fd5526d1ba7ae63cc9bdb9399452206aabfa39605a08ec9430c7680"
+
+[[files]]
+file = "resourcepacks/Paleolithicraft Overrides/pack.png"
+hash = "3cbddfb45f60b3c51c740a59c2824a9caf723321504e7d97bb5b386bd1d6a108"
+
+[[files]]
 file = "scripts/Bark.zs"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
@@ -520,4 +956,4 @@ hash = "011e3db9c51bc448397c41cd3dc5c311c16339006c9d65fc9b81d4be834b14b4"
 
 [[files]]
 file = "scripts/TFCPlus.zs"
-hash = "53924e25ec28341d321ffae83bd4e79393a17efedd5d39dd29c3087d2b272ee8"
+hash = "0781977b624a856c7be8fba0df862616c999e8425372d9fc10b8cd7949e7288c"

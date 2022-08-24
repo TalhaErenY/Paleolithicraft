@@ -173,7 +173,7 @@ recipes.addShapeless(<minecraft:writable_book>,[<minecraft:book>,<ore:stickWood>
 <minecraft:writable_book>.displayName = "Clay Tablet and Stylus";
 <minecraft:written_book>.displayName = "Written Clay Tablet";
 recipes.remove(<minecraft:bookshelf>);
-recipes.addShaped(<minecraft:bookshelf>, [<terrafirmacraftplus:item.Log:*>,<terrafirmacraftplus:item.Log:*>,<terrafirmacraftplus:item.Log:*>],[<minecraft:book>,<minecraft:book>,<minecraft:book>],[<terrafirmacraftplus:item.Log:*>,<terrafirmacraftplus:item.Log:*>,<terrafirmacraftplus:item.Log:*>])
+recipes.addShaped(<terrafirmacraftplus:Bookshelf>, [[<terrafirmacraftplus:item.Log:*>,<terrafirmacraftplus:item.Log:*>,<terrafirmacraftplus:item.Log:*>],[<minecraft:book>,<minecraft:book>,<minecraft:book>],[<terrafirmacraftplus:item.Log:*>,<terrafirmacraftplus:item.Log:*>,<terrafirmacraftplus:item.Log:*>]]);
 
 recipes.remove(<terrafirmacraftplus:Workbench>);
 recipes.addShaped(<terrafirmacraftplus:Workbench>, [[<terrafirmacraftplus:item.Thick Log:*>,<terrafirmacraftplus:item.Thick Log:*>],[<terrafirmacraftplus:item.Thick Log:*>,<terrafirmacraftplus:item.Thick Log:*>]]);
@@ -203,8 +203,8 @@ cyan:6 , purple:5 , light gray:7 , gray:8 ,
 recipes.removeShaped(<minecraft:piston>);
 //recipes.addShaped(<minecraft:piston>, [[],[],[]])
 
-
-recipes.remove(<terrafirmacraftplus:Quern>);
+mods.Terrafirmacraft.Knapping.addClayWorkingRecipe(<terrafirmacraftplus:OilLamp:2>, "  #  ", " ### ", " ### ", " ### ", "     ");
+<terrafirmacraftplus:OilLamp:2>.displayName = "Clay Oil Lamp";
 
 
 recipes.removeShaped(<minecraft:sign>);
