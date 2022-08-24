@@ -178,7 +178,7 @@ recipes.addShaped(<terrafirmacraftplus:Workbench>, [[<terrafirmacraftplus:item.T
 //TODO: change recipe below to use large vessel pitch and coracle instead of planks
 <minecraft:boat>.addTooltip(format.green("requires barrel full of pitch to craft"));
 recipes.removeShaped(<minecraft:boat>);
-recipes.addShaped(<minecraft:boat>,[[<terrafirmacraftplus:item.Paddle>,null,<terrafirmacraftplus:item.Paddle>],[<ore:plankWood>,<terrafirmacraftplus:Barrel:*>.onlyWithTag({fluidNBT: {FluidName: "pitch", Amount: 10000}}),null],[null,<terrafirmacraftplus:item.Coracle>,null]]);
+recipes.addShaped(<minecraft:boat>,[[<terrafirmacraftplus:item.Paddle>,null,<terrafirmacraftplus:item.Paddle>],[<ore:plankWood>,<terrafirmacraftplus:Vessel:*>.onlyWithTag({fluidNBT: {FluidName: "pitch", Amount: 5000}}),null],[null,<terrafirmacraftplus:item.Coracle>,null]]);
 
 //TODO: add a recipe for hoppers/Smooth stone
 mods.Terrafirmacraft.Anvil.removeAnvilRecipe(<terrafirmacraftplus:Hopper>,<terrafirmacraftplus:item.Wrought Iron Double Sheet>,<terrafirmacraftplus:item.Wrought Iron Double Sheet>,"hopper",3);
@@ -203,9 +203,10 @@ recipes.removeShaped(<minecraft:piston>);
 //TODO:Add dyes
 //TODO:Stone age quern recipe
 //TODO:Redstone recipe
-//TODO:Nest box recipe
 recipes.removeShaped(<minecraft:sign>);
 mods.Terrafirmacraft.Knapping.addClayWorkingRecipe(<minecraft:sign>, "     ", "     ", "     ", "## ##", "## ##");
+<minecraft:sign>.displayName = "Clay Sign";
+
 recipes.removeShaped(<terrafirmacraftplus:NestBox>);
 recipes.addShaped(<terrafirmacraftplus:NestBox>, [[<terrafirmacraftplus:item.Straw>, null, <terrafirmacraftplus:item.Straw>],[<terrafirmacraftplus:item.StickBundle>, <terrafirmacraftplus:item.Straw>, <terrafirmacraftplus:item.StickBundle>],[<terrafirmacraftplus:item.StickBundle>, <terrafirmacraftplus:item.StickBundle>, <terrafirmacraftplus:item.StickBundle>]]);
 //TODO:Stained Glass Panes
