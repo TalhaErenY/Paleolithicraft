@@ -172,6 +172,8 @@ recipes.addShapeless(<minecraft:writable_book>,[<minecraft:book>,<ore:stickWood>
 <minecraft:book>.displayName = "Clay Tablet";
 <minecraft:writable_book>.displayName = "Clay Tablet and Stylus";
 <minecraft:written_book>.displayName = "Written Clay Tablet";
+recipes.remove(<minecraft:bookshelf>);
+recipes.addShaped(<minecraft:bookshelf>, [<terrafirmacraftplus:item.Log:*>,<terrafirmacraftplus:item.Log:*>,<terrafirmacraftplus:item.Log:*>],[<minecraft:book>,<minecraft:book>,<minecraft:book>],[<terrafirmacraftplus:item.Log:*>,<terrafirmacraftplus:item.Log:*>,<terrafirmacraftplus:item.Log:*>])
 
 recipes.remove(<terrafirmacraftplus:Workbench>);
 recipes.addShaped(<terrafirmacraftplus:Workbench>, [[<terrafirmacraftplus:item.Thick Log:*>,<terrafirmacraftplus:item.Thick Log:*>],[<terrafirmacraftplus:item.Thick Log:*>,<terrafirmacraftplus:item.Thick Log:*>]]);
