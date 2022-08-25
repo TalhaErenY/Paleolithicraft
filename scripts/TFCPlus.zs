@@ -195,11 +195,34 @@ recipes.addShaped(<minecraft:clay>,[[<terrafirmacraftplus:item.Mortar>,<terrafir
 <minecraft:clay>.displayName = "Unfinished Tadelakt";
 mods.Terrafirmacraft.Barrel.addItemConversion(<minecraft:hardened_clay>, <minecraft:clay>, <liquid:oliveoil> * 50, 0);
 <minecraft:hardened_clay>.displayName = "Tadelakt";
+
 //TODO: add dyed recipes for hardened clay.
-//TODO:Add dyes
-/*
-cyan:6 , purple:5 , light gray:7 , gray:8 , 
-*/
+var dyes = [
+<terrafirmacraftplus:item.dyePowder>,
+<terrafirmacraftplus:item.dyePowder:1>, //red
+<terrafirmacraftplus:item.dyePowder:2>, //
+<terrafirmacraftplus:item.dyePowder:3>, //
+<terrafirmacraftplus:item.dyePowder:4>, //blue
+<terrafirmacraftplus:item.dyePowder:5>, //purple
+<terrafirmacraftplus:item.dyePowder:6>, //cyan
+<terrafirmacraftplus:item.dyePowder:7>, //light gray
+<terrafirmacraftplus:item.dyePowder:8>, //gray
+<terrafirmacraftplus:item.dyePowder:9>, //pink
+<terrafirmacraftplus:item.dyePowder:10>, //lime
+<terrafirmacraftplus:item.dyePowder:11>, //yellow
+<terrafirmacraftplus:item.dyePowder:12>, //light blue
+<terrafirmacraftplus:item.dyePowder:13>, //magenta
+<terrafirmacraftplus:item.dyePowder:14>, //orange
+<terrafirmacraftplus:item.dyePowder:15>] /*  */ as IItemStack[];
+
+for i, dye in dyes{
+ recipes.addShapeless(<minecraft:stained_hardened_clay>.definition.makeStack(i) * 4, [dye,<minecraft:hardened_clay> * 4]);
+}
+
+for i, dye in dyes{
+  recipes.addShaped(<minecraft:stained_glass_pane>.definition.makeStack(i) * 8, [[<minecraft:glass_pane>, <minecraft:glass_pane>, <minecraft:glass_pane>], [<minecraft:glass_pane>, dye, <minecraft:glass_pane>], [<minecraft:glass_pane>, <minecraft:glass_pane>, <minecraft:glass_pane>]]);
+}
+
 recipes.removeShaped(<minecraft:piston>);
 //recipes.addShaped(<minecraft:piston>, [[],[],[]]);
 
@@ -214,10 +237,12 @@ mods.Terrafirmacraft.Knapping.addClayWorkingRecipe(<minecraft:sign>, "     ", " 
 recipes.removeShaped(<terrafirmacraftplus:NestBox>);
 recipes.addShaped(<terrafirmacraftplus:NestBox>, [[<terrafirmacraftplus:item.Straw>, null, <terrafirmacraftplus:item.Straw>],[<terrafirmacraftplus:item.StickBundle>, <terrafirmacraftplus:item.Straw>, <terrafirmacraftplus:item.StickBundle>],[<terrafirmacraftplus:item.StickBundle>, <terrafirmacraftplus:item.StickBundle>, <terrafirmacraftplus:item.StickBundle>]]);
 
-//recipes.addShapeless(<GLASS PANE>, [<terrafirmacraftplus:item.Glass>, <terrafirmacraftplus:item.Stone Knife>.transformDamage(), <terrafirmacraftplus:item.Stone Hammer>.transformDamage()])
+recipes.addShapeless(<minecraft:glass_pane>, [<minecraft:glass>, <terrafirmacraftplus:item.Stone Knife>.transformDamage(), <terrafirmacraftplus:item.Stone Hammer>.transformDamage()]);
 
 //TODO:Stained Glass Panes (loop)
 //TODO:Proper carpet recipes, wool block recipe (loop)
 //TODO:Dye oredict (loop)
 //TODO:Tool rack recipe (needs loop)
 //TODO:Redstone recipe
+
+recipes.addShaped(<minecraft:dispenser>, [[<ore:stoneCobble>,<ore:stoneCobble>,<ore:stoneCobble>],[<ore:stoneCobble>,<terrafirmacraftplus:item.bow>,<ore:stoneCobble>],[<ore:stoneCobble>,<minecraft:redstone>,<ore:stoneCobble>]]);

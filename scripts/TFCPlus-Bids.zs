@@ -13,4 +13,4 @@ val roughStone = [
 
 for i, stone in roughStone{
  recipes.addShapeless(<terrafirmacraftplus:StoneSedSmooth>.definition.makeStack(i), [stone,<terrafirmacraftplus:item.TFC Leather>,<ore:blockSand>]);
- 
+}
