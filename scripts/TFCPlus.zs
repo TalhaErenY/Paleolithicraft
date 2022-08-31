@@ -244,5 +244,6 @@ recipes.addShapeless(<minecraft:glass_pane>, [<minecraft:glass>, <terrafirmacraf
 //TODO:Dye oredict (loop)
 //TODO:Tool rack recipe (needs loop)
 //TODO:Redstone recipe
+//TODO: log->ash recipe
 
 recipes.addShaped(<minecraft:dispenser>, [[<ore:stoneCobble>,<ore:stoneCobble>,<ore:stoneCobble>],[<ore:stoneCobble>,<terrafirmacraftplus:item.bow>,<ore:stoneCobble>],[<ore:stoneCobble>,<minecraft:redstone>,<ore:stoneCobble>]]);
